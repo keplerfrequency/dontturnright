@@ -13,7 +13,7 @@ class testView extends WatchUi.View {
     function initialize() {
         View.initialize();
         myLocation = null;
-        Position.enableLocationEvents(Position.LOCATION_ONE_SHOT, method(:onPosition));
+        Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onPosition));
     }
 
     // Load your resources here
@@ -34,7 +34,14 @@ class testView extends WatchUi.View {
         // Call the parent onUpdate function to redraw the layout
         dc.clear();
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_BLACK);
-        dc.drawText(dc.getWidth()/2,  dc.getHeight()/2, Graphics.FONT_LARGE, counter, Graphics.TEXT_JUSTIFY_CENTER);
+
+        if (myLocation != null) {
+            var locationText = "Lat: " + myLocation[0] + "\nLon: " + myLocation[1];
+            dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, locationText, Graphics.TEXT_JUSTIFY_CENTER);
+        } else {
+            dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, "Getting GPS...", Graphics.TEXT_JUSTIFY_CENTER);
+        }
+        //dc.drawText(dc.getWidth()/2,  dc.getHeight()/2, Graphics.FONT_LARGE, counter, Graphics.TEXT_JUSTIFY_CENTER);
     }
 
     // Called when this View is removed from the screen. Save the
@@ -49,7 +56,7 @@ class testView extends WatchUi.View {
 
     function onTick() as Void{
         counter +=1;
-        System.println("Tick fired!");
+        //System.println("Tick fired!");
         
         if (myLocation != null) {
             System.println("Current location: " + myLocation[0] + ", " + myLocation[1]);

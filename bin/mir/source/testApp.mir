@@ -1,41 +1,41 @@
-[ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 1; @symbol_importdef<0> = [Toybox,1,7,13]; @symbol_importdef<1> = [Application,1,14,25]; ]
+[ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 1; @symbol_importdef<0> = [Toybox,1,7,13]; @symbol_importdef<1> = [Application,1,14,25]; ]
 import Toybox.Application;
-[ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 2; @symbol_importdef<0> = [Toybox,2,7,13]; @symbol_importdef<1> = [Lang,2,14,18]; ]
+[ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 2; @symbol_importdef<0> = [Toybox,2,7,13]; @symbol_importdef<1> = [Lang,2,14,18]; ]
 import Toybox.Lang;
-[ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 3; @symbol_importdef<0> = [Toybox,3,7,13]; @symbol_importdef<1> = [WatchUi,3,14,21]; ]
+[ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 3; @symbol_importdef<0> = [Toybox,3,7,13]; @symbol_importdef<1> = [WatchUi,3,14,21]; ]
 import Toybox.WatchUi;
-[ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 4; @symbol_usingdef<0> = [Toybox,4,6,12]; @symbol_usingdef<1> = [Timer,4,13,18]; ]
+[ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 4; @symbol_usingdef<0> = [Toybox,4,6,12]; @symbol_usingdef<1> = [Timer,4,13,18]; ]
 using Toybox.Timer;
-[ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 6; @symbol_classdef = [testApp,6,6,13]; @symbol_extends<0> = [Application,6,22,33]; @symbol_extends<1> = [AppBase,6,34,41]; ]
+[ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 6; @symbol_classdef = [testApp,6,6,13]; @symbol_extends<0> = [Application,6,22,33]; @symbol_extends<1> = [AppBase,6,34,41]; ]
 class testApp extends Application.AppBase {
-    [ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 6; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 6; ]
     <init> {
     }
-    [ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 6; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 6; ]
     static
     <init> {
     }
-    [ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 8; @symbol_functiondef = [initialize,8,13,23]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 8; @symbol_functiondef = [initialize,8,13,23]; ]
     function initialize() as Void {
-C__Users_spgal_Documents_Projects_test_test_source_testApp_mc_8_26_10_4_start:
-[ "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc" 9 8 ]
+C__Users_spgal_Documents_Projects_test_source_testApp_mc_8_26_10_4_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testApp.mc" 9 8 ]
         symbol [ AppBase %tmp.2 9 8 15 ];
         %tmp.2 = getv ? :AppBase;
         symbol [ initialize %tmp.3 9 16 26 ];
         %tmp.3 = getv function %tmp.2 :initialize;
         invoke %tmp.2 %tmp.3();
-C__Users_spgal_Documents_Projects_test_test_source_testApp_mc_8_26_10_4_stop:
+C__Users_spgal_Documents_Projects_test_source_testApp_mc_8_26_10_4_stop:
     }
-    [ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 13; @symbol_functiondef = [onStart,13,13,20]; @symbol_param<0> = [state,13,21,26]; @symbol_param<0>_type<0> = [Dictionary,13,30,40]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 13; @symbol_functiondef = [onStart,13,13,20]; @symbol_param<0> = [state,13,21,26]; @symbol_param<0>_type<0> = [Dictionary,13,30,40]; ]
     function onStart(state as Dictionary or Null) as Void {
     }
-    [ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 18; @symbol_functiondef = [onStop,18,13,19]; @symbol_param<0> = [state,18,20,25]; @symbol_param<0>_type<0> = [Dictionary,18,29,39]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 18; @symbol_functiondef = [onStop,18,13,19]; @symbol_param<0> = [state,18,20,25]; @symbol_param<0>_type<0> = [Dictionary,18,29,39]; ]
     function onStop(state as Dictionary or Null) as Void {
     }
-    [ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 22; @symbol_functiondef = [getInitialView,22,13,27]; @symbol_return<0> = [Views,22,34,39]; @symbol_return<1> = [Views,22,45,50]; @symbol_return<2> = [InputDelegates,22,52,66]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 22; @symbol_functiondef = [getInitialView,22,13,27]; @symbol_return<0> = [Views,22,34,39]; @symbol_return<1> = [Views,22,45,50]; @symbol_return<2> = [InputDelegates,22,52,66]; ]
     function getInitialView() as [Views] or [Views, InputDelegates] {
-C__Users_spgal_Documents_Projects_test_test_source_testApp_mc_22_68_24_4_start:
-[ "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc" 23 8 ]
+C__Users_spgal_Documents_Projects_test_source_testApp_mc_22_68_24_4_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testApp.mc" 23 8 ]
         %tmp.1 = newa 1;
         symbol [ testView %tmp.5 23 21 29 ];
         %tmp.5 = getv ? :testView;
@@ -43,13 +43,13 @@ C__Users_spgal_Documents_Projects_test_test_source_testApp_mc_22_68_24_4_start:
         %tmp.6 = dup %tmp.1;
         %tmp.7 = aputv %tmp.6 0 %tmp.2;
         ret %tmp.7;
-C__Users_spgal_Documents_Projects_test_test_source_testApp_mc_22_68_24_4_stop:
+C__Users_spgal_Documents_Projects_test_source_testApp_mc_22_68_24_4_stop:
     }
 }
-[ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 28; @symbol_functiondef = [getApp,28,9,15]; @symbol_return<0> = [testApp,28,21,28]; ]
+[ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 28; @symbol_functiondef = [getApp,28,9,15]; @symbol_return<0> = [testApp,28,21,28]; ]
 function getApp() as testApp {
-C__Users_spgal_Documents_Projects_test_test_source_testApp_mc_28_29_30_0_start:
-[ "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc" 29 4 ]
+C__Users_spgal_Documents_Projects_test_source_testApp_mc_28_29_30_0_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testApp.mc" 29 4 ]
     symbol [ Application %tmp.1 29 11 22 ];
     %tmp.1 = getm $.Toybox.Application;
     symbol [ getApp %tmp.2 29 23 29 ];
@@ -58,8 +58,8 @@ C__Users_spgal_Documents_Projects_test_test_source_testApp_mc_28_29_30_0_start:
     %tmp.4 = as %tmp.3 testApp;
     symbol [ testApp %tmp.4 29 35 42 ];
     ret %tmp.4;
-C__Users_spgal_Documents_Projects_test_test_source_testApp_mc_28_29_30_0_stop:
+C__Users_spgal_Documents_Projects_test_source_testApp_mc_28_29_30_0_stop:
 }
-[ @file = "C:\Users\spgal\Documents\Projects\test\test\source\testApp.mc"; @line = 1; ]
+[ @file = "C:\Users\spgal\Documents\Projects\test\source\testApp.mc"; @line = 1; ]
 <init> {
 }
