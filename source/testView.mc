@@ -1,3 +1,4 @@
+import Cities;
 import Toybox.Graphics;
 import Toybox.WatchUi;
 import Toybox.Timer;
@@ -11,13 +12,27 @@ class testView extends WatchUi.View {
     var counter=0;
     var locationName;
 
-    var Uckermunde = [14.046489,53.736513];
-    var Pasewalk = [13.990282,53.505112];
+    //var Uckermunde = [14.046489,53.736513];
+    //var Pasewalk = [13.990282,53.505112];
+
+    var Uckermunde;
+    var Pasewalk;
+    
+    //List of all the gemeinde
+    var gemeinde;
+
+    // Used to cycle through
+    var closestGemeinde;
+    var nextGemeinde;
+
+    var distanceClosest;
+    var distanceNext;
 
     function initialize() {
         View.initialize();
         myLocation = null;
         Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onPosition));
+        gemeinde = Cities.allCities();
     }
 
     // Load your resources here
@@ -64,13 +79,18 @@ class testView extends WatchUi.View {
         if (myLocation != null) {
             System.println("Current location: " + myLocation[0] + ", " + myLocation[1]);
 
-            var uck_distance = distanceToCurrent(Uckermunde[1], Uckermunde[0], myLocation[0], myLocation[1]);
-            var pase_distance = distanceToCurrent(Pasewalk[1], Pasewalk[0], myLocation[0], myLocation[1]);
-            
-            System.println("uck_distance " + uck_distance);
-            System.println("pase_distance " + pase_distance);
+            closestGemeinde = gemeinde[0];
+            nextGemeinde = gemeinde[1];
 
-            if (uck_distance < pase_distance){
+            System.println(gemeinde);
+
+            distanceClosest = distanceToCurrent(gemeinde[0][2], gemeinde[0][1], myLocation[0], myLocation[1]);
+            distanceNext = distanceToCurrent(gemeinde[1][2], gemeinde[1][1], myLocation[0], myLocation[1]);
+            
+            System.println("uck_distance " + distanceClosest);
+            System.println("pase_distance " + distanceNext);
+
+            if (distanceClosest < distanceNext){
                 System.println("Near ucker");
                 locationName = "Ueckermünde";
             } else{
@@ -79,7 +99,7 @@ class testView extends WatchUi.View {
             }
   
   
-        } else {
+        }else {
             System.println("Location not yet available");
         }
   
