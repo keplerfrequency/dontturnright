@@ -9,6 +9,10 @@ class testView extends WatchUi.View {
     var myTimer;
     var myLocation;
     var counter=0;
+    var locationName;
+
+    var Uckermunde = [14.046489,53.736513];
+    var Pasewalk = [13.990282,53.505112];
 
     function initialize() {
         View.initialize();
@@ -36,7 +40,7 @@ class testView extends WatchUi.View {
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_BLACK);
 
         if (myLocation != null) {
-            var locationText = "Lat: " + myLocation[0] + "\nLon: " + myLocation[1];
+            var locationText = locationName + "\nLat: " + myLocation[0] + "\nLon: " + myLocation[1];
             dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, locationText, Graphics.TEXT_JUSTIFY_CENTER);
         } else {
             dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, "Getting GPS...", Graphics.TEXT_JUSTIFY_CENTER);
@@ -56,26 +60,54 @@ class testView extends WatchUi.View {
 
     function onTick() as Void{
         counter +=1;
-        //System.println("Tick fired!");
         
         if (myLocation != null) {
             System.println("Current location: " + myLocation[0] + ", " + myLocation[1]);
+
+            var uck_distance = distanceToCurrent(Uckermunde[1], Uckermunde[0], myLocation[0], myLocation[1]);
+            var pase_distance = distanceToCurrent(Pasewalk[1], Pasewalk[0], myLocation[0], myLocation[1]);
+            
+            System.println("uck_distance " + uck_distance);
+            System.println("pase_distance " + pase_distance);
+
+            if (uck_distance < pase_distance){
+                System.println("Near ucker");
+                locationName = "Ueckermünde";
+            } else{
+                System.println("Near pasewalk");
+                locationName = "Pasewalk";
+            }
+  
+  
         } else {
             System.println("Location not yet available");
         }
-
-        System.println(myLocation);
+  
+        //System.println(myLocation);
         requestUpdate();
     // Update widget content here
     }
+    
 
     function onPosition(info as Position.Info) as Void{
         if (info.position != null) {
             myLocation = info.position.toDegrees();
-            System.println("GPS Update - Lat: " + myLocation[0] + ", Lon: " + myLocation[1]);
+            //System.println("GPS Update - Lat: " + myLocation[0] + ", Lon: " + myLocation[1]);
         } else {
             System.println("GPS position is null");
         }
         requestUpdate(); // Update display when new location is received
     }
+
+    
+    function distanceToCurrent(lat1, lon1, lat2, lon2) {
+               
+        var dLat = lat1 - lat2;
+        var dLon = lon1 - lon2;
+
+        var distance = Math.sqrt(dLat*dLat + dLon*dLon);
+
+        return distance;   
+    }
+
 }
