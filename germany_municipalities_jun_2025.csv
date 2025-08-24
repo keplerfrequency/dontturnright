@@ -1,5 +1,5 @@
 ﻿state_(land),district_(kreis),regional_designation,municipality_name_(gemeindename),municipality_designation,area_km2,population_total,male,female,per_km2,postal_code,longitude,latitude
-Schleswig-Holstein,"Flensburg, Stadt",Kreisfreie Stadt,Flensburg, Stadt,56.73,96431,47553,48878,1700,24937,943751,5478252
+Schleswig-Holstein,"Flensburg, Stadt",Kreisfreie Stadt,Flensburg, Stadt,56.73,96431,47553,48878,1700,24937,"9,43751","54,78252"
 Schleswig-Holstein,"Kiel, Landeshauptstadt",Kreisfreie Stadt,Kiel, Landeshauptstadt,118.65,251751,123080,128671,2122,24103,"10,13727","54,321775"
 Schleswig-Holstein,"Lübeck, Hansestadt",Kreisfreie Stadt,Lübeck, Hansestadt,214.19,217061,104263,112798,1013,23539,"10,683932","53,866269"
 Schleswig-Holstein,"Neumünster, Stadt",Kreisfreie Stadt,Neumünster, Stadt,71.66,79461,39444,40017,1109,24534,"9,988422","54,069895"

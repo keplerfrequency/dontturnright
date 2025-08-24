@@ -9,15 +9,11 @@ class testView extends WatchUi.View {
 
     var myTimer;
     var myLocation;
-    var counter=0;
     var locationName;
 
     //var Uckermunde = [14.046489,53.736513];
     //var Pasewalk = [13.990282,53.505112];
-
-    var Uckermunde;
-    var Pasewalk;
-    
+   
     //List of all the gemeinde
     var gemeinde;
 
@@ -45,7 +41,7 @@ class testView extends WatchUi.View {
     // loading resources into memory.
     function onShow() as Void {
         myTimer = new Timer.Timer();
-        myTimer.start(method(:onTick), 5000, true);
+        myTimer.start(method(:onTick), 6000, true);
     }
 
     // Update the view
@@ -60,7 +56,6 @@ class testView extends WatchUi.View {
         } else {
             dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, "Getting GPS...", Graphics.TEXT_JUSTIFY_CENTER);
         }
-        //dc.drawText(dc.getWidth()/2,  dc.getHeight()/2, Graphics.FONT_LARGE, counter, Graphics.TEXT_JUSTIFY_CENTER);
     }
 
     // Called when this View is removed from the screen. Save the
@@ -74,15 +69,14 @@ class testView extends WatchUi.View {
     }
 
     function onTick() as Void{
-        counter +=1;
         
         if (myLocation != null) {
-            System.println("Current location: " + myLocation[0] + ", " + myLocation[1]);
+            /*System.println("Current location: " + myLocation[0] + ", " + myLocation[1]);
 
             closestGemeinde = gemeinde[0];
             nextGemeinde = gemeinde[1];
 
-            System.println(gemeinde);
+            //System.println(gemeinde);
 
             distanceClosest = distanceToCurrent(gemeinde[0][2], gemeinde[0][1], myLocation[0], myLocation[1]);
             distanceNext = distanceToCurrent(gemeinde[1][2], gemeinde[1][1], myLocation[0], myLocation[1]);
@@ -91,13 +85,32 @@ class testView extends WatchUi.View {
             System.println("pase_distance " + distanceNext);
 
             if (distanceClosest < distanceNext){
-                System.println("Near ucker");
-                locationName = "Ueckermünde";
+                System.println("You are currently in " + closestGemeinde[0]);
+                locationName = closestGemeinde[0];
             } else{
-                System.println("Near pasewalk");
-                locationName = "Pasewalk";
-            }
+                System.println("You are currently in " + nextGemeinde[0]);
+                locationName = nextGemeinde[0];
+            }*/
   
+            closestGemeinde = null;
+            var minDistance = 9999999;
+
+            for (var i=0; i< gemeinde.size(); i+=1){
+
+                nextGemeinde = gemeinde[i];
+
+                var distance = distanceToCurrent(nextGemeinde[2], nextGemeinde[1], myLocation[0], myLocation[1]);
+                
+                if(distance < minDistance){
+                    minDistance = distance;
+                    closestGemeinde = nextGemeinde;
+                }
+            }
+            
+            if (closestGemeinde != null) {
+                System.println("Closest is " + closestGemeinde[0] + " (" + minDistance + " m)");
+                locationName = closestGemeinde[0];
+            }
   
         }else {
             System.println("Location not yet available");
@@ -119,7 +132,7 @@ class testView extends WatchUi.View {
         requestUpdate(); // Update display when new location is received
     }
 
-    
+    // Very coarse function to determine which gemeente is closer
     function distanceToCurrent(lat1, lon1, lat2, lon2) {
                
         var dLat = lat1 - lat2;

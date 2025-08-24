@@ -1,6 +1,5 @@
-module Cities {
-
-    var data = [
+// [municipality_name_(gemeindename), longitude, latitude, population_total]
+[
     ["Berlin", 13.406, 52.518, 3662381],
     ["Hamburg", 9.997, 53.551, 1851596],
     ["München", 11.576, 48.138, 1488719],
@@ -1811,7 +1810,7 @@ module Cities {
     ["Neustadt an der Orla", 11.743, 50.736, 8891],
     ["Kusterdingen", 9.120, 48.522, 8890],
     ["Neuenkirchen-Vörden", 8.069, 52.510, 8874],
-
+    ["Ueckermünde", 14.046, 53.737, 8871],
     ["Plön", 10.416, 54.158, 8870],
     ["Bad Griesbach i.Rottal", 13.193, 48.452, 8862],
     ["Oststeinbek", 10.165, 53.542, 8861],
@@ -4571,19 +4570,4 @@ module Cities {
     ["Unterkirnach", 8.366, 48.079, 2502],
     ["Kemmern", 10.876, 49.954, 2502],
     ["Heidenheim", 10.743, 49.017, 2502]
-    ];
-
-    
-    function getCity(name) {
-        if (data.hasKey(name)) {
-            return data[name];
-        }
-        return null;
-    }
-
-
-    function allCities() {
-        return data;
-    }
-
-}
+]
