@@ -1,4 +1,5 @@
 import csv
+import math
 
 # Input CSV file
 input_csv = "germany_municipalities_jun_2025.csv"
@@ -20,8 +21,11 @@ with open(input_csv, newline='', encoding='utf-8') as csvfile:
             lon = float(row["longitude"].replace(",", "."))
             lat = float(row["latitude"].replace(",", "."))
             
+            # Round population up to nearest 1000 and divide by 1000
+            pop_thousands = math.ceil(pop / 1000)
+            
             # Store population for sorting and the formatted string
-            formatted = f'    ["{name}", {lon:.3f}, {lat:.3f}, {pop}],'
+            formatted = f'    ["{name}", {lon:.3f}, {lat:.3f}, {pop_thousands}],'
             rows.append((pop, formatted))
 
 # Sort rows by population descending

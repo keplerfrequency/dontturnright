@@ -10,6 +10,7 @@ class testView extends WatchUi.View {
     var myTimer;
     var myLocation;
     var locationName;
+    var locationPopulation;
 
     //var Uckermunde = [14.046489,53.736513];
     //var Pasewalk = [13.990282,53.505112];
@@ -51,7 +52,17 @@ class testView extends WatchUi.View {
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_BLACK);
 
         if (myLocation != null) {
-            var locationText = locationName + "\nLat: " + myLocation[0] + "\nLon: " + myLocation[1];
+
+            var populationThousands = "K";
+
+            //Check if above 1M population
+            if(locationPopulation != null){
+                if(locationPopulation > 1000){ 
+                    populationThousands = "M";
+                }
+            }
+
+            var locationText = locationName + "\nPopulation: " + locationPopulation + populationThousands + "\nLat: " + myLocation[0] + "\nLon: " + myLocation[1];
             dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, locationText, Graphics.TEXT_JUSTIFY_CENTER);
         } else {
             dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, "Getting GPS...", Graphics.TEXT_JUSTIFY_CENTER);
@@ -71,27 +82,6 @@ class testView extends WatchUi.View {
     function onTick() as Void{
         
         if (myLocation != null) {
-            /*System.println("Current location: " + myLocation[0] + ", " + myLocation[1]);
-
-            closestGemeinde = gemeinde[0];
-            nextGemeinde = gemeinde[1];
-
-            //System.println(gemeinde);
-
-            distanceClosest = distanceToCurrent(gemeinde[0][2], gemeinde[0][1], myLocation[0], myLocation[1]);
-            distanceNext = distanceToCurrent(gemeinde[1][2], gemeinde[1][1], myLocation[0], myLocation[1]);
-            
-            System.println("uck_distance " + distanceClosest);
-            System.println("pase_distance " + distanceNext);
-
-            if (distanceClosest < distanceNext){
-                System.println("You are currently in " + closestGemeinde[0]);
-                locationName = closestGemeinde[0];
-            } else{
-                System.println("You are currently in " + nextGemeinde[0]);
-                locationName = nextGemeinde[0];
-            }*/
-  
             closestGemeinde = null;
             var minDistance = 9999999;
 
@@ -110,6 +100,7 @@ class testView extends WatchUi.View {
             if (closestGemeinde != null) {
                 System.println("Closest is " + closestGemeinde[0] + " (" + minDistance + " m)");
                 locationName = closestGemeinde[0];
+                locationPopulation = closestGemeinde[3];
             }
   
         }else {
