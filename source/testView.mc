@@ -14,8 +14,10 @@ class testView extends WatchUi.View {
     var locationPopulationWritten;
     var currentAFD;
 
-    //var Uckermunde = [14.046489,53.736513];
-    //var Pasewalk = [13.990282,53.505112];
+    // Variables to be written on display
+    var locationText;
+    var populationText;
+    var afdText;
    
     //List of all the gemeinde
     var gemeinde;
@@ -68,10 +70,44 @@ class testView extends WatchUi.View {
                 }
             }
 
-            var locationText = locationName + "\nPopulation: " + locationPopulationWritten + populationQuantifier + "\nCurrent AFD: " + currentAFD + " %" +"\nLat: " + myLocation[0] + "\nLon: " + myLocation[1];
-            dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, locationText, Graphics.TEXT_JUSTIFY_CENTER);
+             if (locationName != null){
+                locationText = "You are in/near: " + locationName;
+             }else{
+                locationText = "Checking location in database...";
+             }
+            
+            if (locationPopulationWritten != null){
+                populationText =  "\nPopulation: " + locationPopulationWritten + populationQuantifier; 
+            }else{
+                populationText = "\nHow many people live here???";
+            }
+            
+            if (currentAFD == null){
+                afdText = "\nUnknown AFD";
+            }else{
+                afdText =  "\nCurrent AFD: " + currentAFD + " %\n";
+                
+                if(currentAFD < 10){
+                    afdText = afdText + "\nNot bad, don't let your guard down";
+                }
+                if(currentAFD >= 10 && currentAFD <= 20){
+                    afdText = afdText + "\nBelow the national average \nFor now...";
+                }
+                if(currentAFD >= 20 && currentAFD <= 30){
+                    afdText = afdText + "\nAchtung! Be careful with the Nazi's";
+                }
+                if(currentAFD >= 30 && currentAFD < 40){
+                    afdText = afdText + "\nThis is not looking good.\n Are you in the former GDR?";
+                }
+                if(currentAFD >= 40){
+                    afdText = afdText + "\nAlmost 1 in 2 \nhere voted AfD. \nLet that sink in.";
+                }
+                
+            }
+            
+            dc.drawText(dc.getWidth()/2, dc.getHeight()/2 - 30, Graphics.FONT_SMALL, locationText + populationText + afdText, Graphics.TEXT_JUSTIFY_CENTER);
         } else {
-            dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, "Getting GPS...", Graphics.TEXT_JUSTIFY_CENTER);
+            dc.drawText(dc.getWidth()/2, dc.getHeight()/2 - 30, Graphics.FONT_SMALL, "Getting GPS...", Graphics.TEXT_JUSTIFY_CENTER);
         }
     }
 
@@ -91,10 +127,12 @@ class testView extends WatchUi.View {
             closestGemeinde = null;
             var minDistance = 9999999;
 
+            // Go through all the gemeinde and check which one is the closest
             for (var i=0; i< gemeinde.size(); i+=1){
 
                 nextGemeinde = gemeinde[i];
 
+                // Attention: Lat and Lon are switched - check indexes well
                 var distance = distanceToCurrent(nextGemeinde[2], nextGemeinde[1], myLocation[0], myLocation[1]);
                 
                 if(distance < minDistance){
@@ -123,7 +161,6 @@ class testView extends WatchUi.View {
     function onPosition(info as Position.Info) as Void{
         if (info.position != null) {
             myLocation = info.position.toDegrees();
-            //System.println("GPS Update - Lat: " + myLocation[0] + ", Lon: " + myLocation[1]);
         } else {
             System.println("GPS position is null");
         }

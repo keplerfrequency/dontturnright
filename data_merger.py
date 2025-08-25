@@ -1,5 +1,6 @@
 import pandas as pd
 import ast
+import json
 
 # Load the AfD CSV
 afd_df = pd.read_csv("afd_share_per_super_gemeinde.csv", sep=';', encoding='utf-8')
@@ -48,7 +49,7 @@ print(f"Gemeinde not found: {missed}")
 with open("cities_with_afd.txt", "w", encoding="utf-8") as f:
     f.write("[\n")
     for i, entry in enumerate(new_municipalities):
-        line = f"    {entry}"
+        line = "    " + json.dumps(entry, ensure_ascii=False)
         if i < len(new_municipalities) - 1:
             line += ","
         line += "\n"

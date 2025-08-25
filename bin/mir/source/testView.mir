@@ -31,475 +31,669 @@ class testView extends WatchUi.View {
     var locationPopulationWritten;
     [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 15; @position = 8; @symbol_vardef = [currentAFD,15,8,18]; ]
     var currentAFD;
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 21; @position = 8; @symbol_vardef = [gemeinde,21,8,16]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 18; @position = 8; @symbol_vardef = [locationText,18,8,20]; ]
+    var locationText;
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 19; @position = 8; @symbol_vardef = [populationText,19,8,22]; ]
+    var populationText;
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 20; @position = 8; @symbol_vardef = [afdText,20,8,15]; ]
+    var afdText;
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 23; @position = 8; @symbol_vardef = [gemeinde,23,8,16]; ]
     var gemeinde;
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 24; @position = 8; @symbol_vardef = [closestGemeinde,24,8,23]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 26; @position = 8; @symbol_vardef = [closestGemeinde,26,8,23]; ]
     var closestGemeinde;
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 25; @position = 8; @symbol_vardef = [nextGemeinde,25,8,20]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 27; @position = 8; @symbol_vardef = [nextGemeinde,27,8,20]; ]
     var nextGemeinde;
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 27; @position = 8; @symbol_vardef = [distanceClosest,27,8,23]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 29; @position = 8; @symbol_vardef = [distanceClosest,29,8,23]; ]
     var distanceClosest;
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 28; @position = 8; @symbol_vardef = [distanceNext,28,8,20]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 30; @position = 8; @symbol_vardef = [distanceNext,30,8,20]; ]
     var distanceNext;
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 30; @symbol_functiondef = [initialize,30,13,23]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 32; @symbol_functiondef = [initialize,32,13,23]; ]
     function initialize() as Void {
-C__Users_spgal_Documents_Projects_test_source_testView_mc_30_26_35_4_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 31 8 ]
-        symbol [ View %tmp.2 31 8 12 ];
+C__Users_spgal_Documents_Projects_test_source_testView_mc_32_26_37_4_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 33 8 ]
+        symbol [ View %tmp.2 33 8 12 ];
         %tmp.2 = getv ? :View;
-        symbol [ initialize %tmp.3 31 13 23 ];
+        symbol [ initialize %tmp.3 33 13 23 ];
         %tmp.3 = getv function %tmp.2 :initialize;
         invoke %tmp.2 %tmp.3();
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 32 8 ]
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 34 8 ]
         %tmp.4 = null;
-        symbol [ myLocation ? 32 8 18 ];
+        symbol [ myLocation ? 34 8 18 ];
         putv self :myLocation %tmp.4;
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 33 8 ]
-        symbol [ Position %tmp.5 33 8 16 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 35 8 ]
+        symbol [ Position %tmp.5 35 8 16 ];
         %tmp.5 = getm $.Toybox.Position;
-        symbol [ enableLocationEvents %tmp.6 33 17 37 ];
+        symbol [ enableLocationEvents %tmp.6 35 17 37 ];
         %tmp.6 = getv function %tmp.5 :enableLocationEvents;
-        symbol [ Position %tmp.7 33 38 46 ];
+        symbol [ Position %tmp.7 35 38 46 ];
         %tmp.7 = getm $.Toybox.Position;
-        symbol [ LOCATION_CONTINUOUS %tmp.8 33 47 66 ];
+        symbol [ LOCATION_CONTINUOUS %tmp.8 35 47 66 ];
         %tmp.8 = getv %tmp.7 :LOCATION_CONTINUOUS;
         %tmp.9 = self;
-        symbol [ method %tmp.10 33 68 74 ];
+        symbol [ method %tmp.10 35 68 74 ];
         %tmp.10 = getv function %tmp.9 :method;
         %tmp.12 = const :onPosition;
-        symbol [ onPosition %tmp.12 33 76 86 const ];
+        symbol [ onPosition %tmp.12 35 76 86 const ];
         %tmp.13 = invoke %tmp.9 %tmp.10(%tmp.12);
         invoke %tmp.5 %tmp.6(%tmp.8, %tmp.13);
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 34 8 ]
-        symbol [ Cities %tmp.14 34 19 25 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 36 8 ]
+        symbol [ Cities %tmp.14 36 19 25 ];
         %tmp.14 = getm $.Cities;
-        symbol [ allCities %tmp.15 34 26 35 ];
+        symbol [ allCities %tmp.15 36 26 35 ];
         %tmp.15 = getv function %tmp.14 :allCities;
         %tmp.16 = invoke %tmp.14 %tmp.15();
-        symbol [ gemeinde ? 34 8 16 ];
+        symbol [ gemeinde ? 36 8 16 ];
         putv self :gemeinde %tmp.16;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_30_26_35_4_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_32_26_37_4_stop:
     }
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 38; @symbol_functiondef = [onLayout,38,13,21]; @symbol_param<0> = [dc,38,22,24]; @symbol_param<0>_type<0> = [Dc,38,28,30]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 40; @symbol_functiondef = [onLayout,40,13,21]; @symbol_param<0> = [dc,40,22,24]; @symbol_param<0>_type<0> = [Dc,40,28,30]; ]
     function onLayout(dc as Dc) as Void {
-C__Users_spgal_Documents_Projects_test_source_testView_mc_38_40_40_4_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 39 8 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_40_40_42_4_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 41 8 ]
         %tmp.1 = self;
-        symbol [ setLayout %tmp.2 39 8 17 ];
+        symbol [ setLayout %tmp.2 41 8 17 ];
         %tmp.2 = getv function %tmp.1 :setLayout;
-        symbol [ Rez %tmp.4 39 18 21 ];
+        symbol [ Rez %tmp.4 41 18 21 ];
         %tmp.4 = getv ? :Rez;
-        symbol [ Layouts %tmp.5 39 22 29 ];
+        symbol [ Layouts %tmp.5 41 22 29 ];
         %tmp.5 = getv %tmp.4 :Layouts;
-        symbol [ MainLayout %tmp.6 39 30 40 ];
+        symbol [ MainLayout %tmp.6 41 30 40 ];
         %tmp.6 = getv function %tmp.5 :MainLayout;
         %tmp.7 = lgetv %dc;
-        symbol [ dc %tmp.7 39 41 43 ];
+        symbol [ dc %tmp.7 41 41 43 ];
         %tmp.8 = invoke %tmp.5 %tmp.6(%tmp.7);
         invoke %tmp.1 %tmp.2(%tmp.8);
-C__Users_spgal_Documents_Projects_test_source_testView_mc_38_40_40_4_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_40_40_42_4_stop:
     }
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 45; @symbol_functiondef = [onShow,45,13,19]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 47; @symbol_functiondef = [onShow,47,13,19]; ]
     function onShow() as Void {
-C__Users_spgal_Documents_Projects_test_source_testView_mc_45_30_48_4_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 46 8 ]
-        symbol [ Timer %tmp.3 46 22 27 ];
+C__Users_spgal_Documents_Projects_test_source_testView_mc_47_30_50_4_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 48 8 ]
+        symbol [ Timer %tmp.3 48 22 27 ];
         %tmp.3 = getm $.Toybox.Timer;
-        symbol [ Timer %tmp.4 46 28 33 ];
+        symbol [ Timer %tmp.4 48 28 33 ];
         %tmp.4 = getv function ? %tmp.3 :Timer;
         %tmp.1 = newc %tmp.4 ();
-        symbol [ myTimer ? 46 8 15 ];
+        symbol [ myTimer ? 48 8 15 ];
         putv self :myTimer %tmp.1;
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 47 8 ]
-        symbol [ myTimer %tmp.6 47 8 15 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 49 8 ]
+        symbol [ myTimer %tmp.6 49 8 15 ];
         %tmp.6 = getv ? :myTimer;
-        symbol [ start %tmp.7 47 16 21 ];
+        symbol [ start %tmp.7 49 16 21 ];
         %tmp.7 = getv function %tmp.6 :start;
         %tmp.8 = self;
-        symbol [ method %tmp.9 47 22 28 ];
+        symbol [ method %tmp.9 49 22 28 ];
         %tmp.9 = getv function %tmp.8 :method;
         %tmp.11 = const :onTick;
-        symbol [ onTick %tmp.11 47 30 36 const ];
+        symbol [ onTick %tmp.11 49 30 36 const ];
         %tmp.12 = invoke %tmp.8 %tmp.9(%tmp.11);
         %tmp.13 = 6000;
         %tmp.14 = true;
         invoke %tmp.6 %tmp.7(%tmp.12, %tmp.13, %tmp.14);
-C__Users_spgal_Documents_Projects_test_source_testView_mc_45_30_48_4_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_47_30_50_4_stop:
     }
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 51; @symbol_functiondef = [onUpdate,51,13,21]; @symbol_param<0> = [dc,51,22,24]; @symbol_param<0>_type<0> = [Dc,51,28,30]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 53; @symbol_functiondef = [onUpdate,53,13,21]; @symbol_param<0> = [dc,53,22,24]; @symbol_param<0>_type<0> = [Dc,53,28,30]; ]
     function onUpdate(dc as Dc) as Void {
-C__Users_spgal_Documents_Projects_test_source_testView_mc_51_40_76_4_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 53 8 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_53_40_112_4_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 55 8 ]
         %tmp.1 = lgetv %dc;
-        symbol [ dc %tmp.1 53 8 10 ];
-        symbol [ clear %tmp.2 53 11 16 ];
+        symbol [ dc %tmp.1 55 8 10 ];
+        symbol [ clear %tmp.2 55 11 16 ];
         %tmp.2 = getv function %tmp.1 :clear;
         invoke %tmp.1 %tmp.2();
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 54 8 ]
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 56 8 ]
         %tmp.3 = lgetv %dc;
-        symbol [ dc %tmp.3 54 8 10 ];
-        symbol [ setColor %tmp.4 54 11 19 ];
+        symbol [ dc %tmp.3 56 8 10 ];
+        symbol [ setColor %tmp.4 56 11 19 ];
         %tmp.4 = getv function %tmp.3 :setColor;
-        symbol [ Graphics %tmp.5 54 20 28 ];
+        symbol [ Graphics %tmp.5 56 20 28 ];
         %tmp.5 = getm $.Toybox.Graphics;
-        symbol [ COLOR_WHITE %tmp.6 54 29 40 ];
+        symbol [ COLOR_WHITE %tmp.6 56 29 40 ];
         %tmp.6 = getv %tmp.5 :COLOR_WHITE;
-        symbol [ Graphics %tmp.7 54 42 50 ];
+        symbol [ Graphics %tmp.7 56 42 50 ];
         %tmp.7 = getm $.Toybox.Graphics;
-        symbol [ COLOR_BLACK %tmp.8 54 51 62 ];
+        symbol [ COLOR_BLACK %tmp.8 56 51 62 ];
         %tmp.8 = getv %tmp.7 :COLOR_BLACK;
         invoke %tmp.3 %tmp.4(%tmp.6, %tmp.8);
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 56 8 ]
-C__Users_spgal_Documents_Projects_test_source_testView_mc_56_8_75_8_if_stmt:
-        symbol [ myLocation %tmp.10 56 12 22 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 58 8 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_58_8_111_8_if_stmt:
+        symbol [ myLocation %tmp.10 58 12 22 ];
         %tmp.10 = getv ? :myLocation;
         %tmp.11 = null;
         %tmp.12 = ne %tmp.10 %tmp.11;
-        bf %tmp.12 @C__Users_spgal_Documents_Projects_test_source_testView_mc_56_8_75_8_if_else_false;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_56_8_75_8_if_true:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_56_32_73_8_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 58 12 ]
-        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_56_32_73_8_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_56_32_73_8_stop" ]
+        bf %tmp.12 @C__Users_spgal_Documents_Projects_test_source_testView_mc_58_8_111_8_if_else_false;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_58_8_111_8_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_58_32_109_8_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 60 12 ]
+        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_58_32_109_8_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_58_32_109_8_stop" ]
         %populationQuantifier.1 = local;
-        symbol [ populationQuantifier %populationQuantifier.1 58 16 36 ];
+        symbol [ populationQuantifier %populationQuantifier.1 60 16 36 ];
         %tmp.13 = "K";
         lputv %populationQuantifier.1 %tmp.13;
-        symbol [ populationQuantifier %populationQuantifier.1 58 16 36 ];
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 61 12 ]
-C__Users_spgal_Documents_Projects_test_source_testView_mc_61_12_69_12_if_stmt:
-        symbol [ locationPopulation %tmp.15 61 15 33 ];
+        symbol [ populationQuantifier %populationQuantifier.1 60 16 36 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 63 12 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_63_12_71_12_if_stmt:
+        symbol [ locationPopulation %tmp.15 63 15 33 ];
         %tmp.15 = getv ? :locationPopulation;
         %tmp.16 = null;
         %tmp.17 = ne %tmp.15 %tmp.16;
-        bf %tmp.17 @C__Users_spgal_Documents_Projects_test_source_testView_mc_61_12_69_12_if_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_61_12_69_12_if_true:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_61_42_69_12_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 62 16 ]
-C__Users_spgal_Documents_Projects_test_source_testView_mc_62_16_68_16_if_stmt:
-        symbol [ locationPopulation %tmp.19 62 19 37 ];
+        bf %tmp.17 @C__Users_spgal_Documents_Projects_test_source_testView_mc_63_12_71_12_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_63_12_71_12_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_63_42_71_12_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 64 16 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_64_16_70_16_if_stmt:
+        symbol [ locationPopulation %tmp.19 64 19 37 ];
         %tmp.19 = getv ? :locationPopulation;
         %tmp.20 = as %tmp.19 { (!Null) };
         %tmp.21 = 1000;
         %tmp.22 = gt %tmp.20 %tmp.21;
-        bf %tmp.22 @C__Users_spgal_Documents_Projects_test_source_testView_mc_62_16_68_16_if_else_false;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_62_16_68_16_if_true:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_62_45_66_16_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 63 20 ]
+        bf %tmp.22 @C__Users_spgal_Documents_Projects_test_source_testView_mc_64_16_70_16_if_else_false;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_64_16_70_16_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_64_45_68_16_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 65 20 ]
         %tmp.23 = "M";
         lputv %populationQuantifier.1 %tmp.23;
-        symbol [ populationQuantifier %populationQuantifier.1 63 20 40 ];
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 64 20 ]
-        symbol [ locationPopulation %tmp.25 64 48 66 ];
+        symbol [ populationQuantifier %populationQuantifier.1 65 20 40 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 66 20 ]
+        symbol [ locationPopulation %tmp.25 66 48 66 ];
         %tmp.25 = getv ? :locationPopulation;
         %tmp.26 = as %tmp.25 { (!Null) };
-        symbol [ toString %tmp.27 64 67 75 ];
+        symbol [ toString %tmp.27 66 67 75 ];
         %tmp.27 = getv function %tmp.26 :toString;
         %tmp.28 = invoke %tmp.26 %tmp.27();
-        symbol [ locationPopulationWritten ? 64 20 45 ];
+        symbol [ locationPopulationWritten ? 66 20 45 ];
         putv self :locationPopulationWritten %tmp.28;
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 65 20 ]
-        symbol [ locationPopulationWritten %tmp.30 65 48 73 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 67 20 ]
+        symbol [ locationPopulationWritten %tmp.30 67 48 73 ];
         %tmp.30 = getv ? :locationPopulationWritten;
-        symbol [ substring %tmp.31 65 74 83 ];
+        symbol [ substring %tmp.31 67 74 83 ];
         %tmp.31 = getv function %tmp.30 :substring;
         %tmp.32 = 0;
         %tmp.33 = 1;
         %tmp.34 = invoke %tmp.30 %tmp.31(%tmp.32, %tmp.33);
         %tmp.35 = ".";
         %tmp.36 = add %tmp.34 %tmp.35;
-        symbol [ locationPopulationWritten %tmp.38 65 97 122 ];
+        symbol [ locationPopulationWritten %tmp.38 67 97 122 ];
         %tmp.38 = getv ? :locationPopulationWritten;
-        symbol [ substring %tmp.39 65 123 132 ];
+        symbol [ substring %tmp.39 67 123 132 ];
         %tmp.39 = getv function %tmp.38 :substring;
         %tmp.40 = 1;
-        symbol [ locationPopulationWritten %tmp.42 65 136 161 ];
+        symbol [ locationPopulationWritten %tmp.42 67 136 161 ];
         %tmp.42 = getv ? :locationPopulationWritten;
-        symbol [ length %tmp.43 65 162 168 ];
+        symbol [ length %tmp.43 67 162 168 ];
         %tmp.43 = getv function %tmp.42 :length;
         %tmp.44 = invoke %tmp.42 %tmp.43();
         %tmp.45 = invoke %tmp.38 %tmp.39(%tmp.40, %tmp.44);
         %tmp.46 = add %tmp.36 %tmp.45;
-        symbol [ locationPopulationWritten ? 65 20 45 ];
+        symbol [ locationPopulationWritten ? 67 20 45 ];
         putv self :locationPopulationWritten %tmp.46;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_62_45_66_16_stop:
-        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_62_16_68_16_if_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_62_16_68_16_if_else_false:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_66_21_68_16_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 67 20 ]
-        symbol [ locationPopulation %tmp.48 67 48 66 ];
+C__Users_spgal_Documents_Projects_test_source_testView_mc_64_45_68_16_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_64_16_70_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_64_16_70_16_if_else_false:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_68_21_70_16_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 69 20 ]
+        symbol [ locationPopulation %tmp.48 69 48 66 ];
         %tmp.48 = getv ? :locationPopulation;
         %tmp.49 = as %tmp.48 { (!Null) };
-        symbol [ locationPopulationWritten ? 67 20 45 ];
+        symbol [ locationPopulationWritten ? 69 20 45 ];
         putv self :locationPopulationWritten %tmp.49;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_66_21_68_16_stop:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_62_16_68_16_if_end:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_61_42_69_12_stop:
-        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_61_12_69_12_if_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_61_12_69_12_if_end:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 71 12 ]
-        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_56_32_73_8_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_56_32_73_8_stop" ]
-        %locationText.2 = local;
-        symbol [ locationText %locationText.2 71 16 28 ];
-        symbol [ locationName %tmp.51 71 31 43 ];
+C__Users_spgal_Documents_Projects_test_source_testView_mc_68_21_70_16_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_64_16_70_16_if_end:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_63_42_71_12_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_63_12_71_12_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_63_12_71_12_if_end:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 73 13 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_73_13_77_13_if_stmt:
+        symbol [ locationName %tmp.51 73 17 29 ];
         %tmp.51 = getv ? :locationName;
-        %tmp.52 = "\nPopulation: ";
-        %tmp.53 = add %tmp.51 %tmp.52;
-        symbol [ locationPopulationWritten %tmp.55 71 65 90 ];
-        %tmp.55 = getv ? :locationPopulationWritten;
-        %tmp.56 = add %tmp.53 %tmp.55;
-        %tmp.57 = lgetv %populationQuantifier.1;
-        symbol [ populationQuantifier %tmp.57 71 93 113 ];
-        %tmp.58 = add %tmp.56 %tmp.57;
-        %tmp.59 = "\nCurrent AFD: ";
-        %tmp.60 = add %tmp.58 %tmp.59;
-        symbol [ currentAFD %tmp.62 71 136 146 ];
-        %tmp.62 = getv ? :currentAFD;
-        %tmp.63 = add %tmp.60 %tmp.62;
-        %tmp.64 = " %";
-        %tmp.65 = add %tmp.63 %tmp.64;
-        %tmp.66 = "\nLat: ";
-        %tmp.67 = add %tmp.65 %tmp.66;
-        symbol [ myLocation %tmp.69 71 167 177 ];
-        %tmp.69 = getv ? :myLocation;
-        %tmp.70 = 0;
-        %tmp.71 = agetv %tmp.69 %tmp.70;
-        %tmp.72 = add %tmp.67 %tmp.71;
-        %tmp.73 = "\nLon: ";
-        %tmp.74 = add %tmp.72 %tmp.73;
-        symbol [ myLocation %tmp.76 71 195 205 ];
-        %tmp.76 = getv ? :myLocation;
-        %tmp.77 = 1;
-        %tmp.78 = agetv %tmp.76 %tmp.77;
-        %tmp.79 = add %tmp.74 %tmp.78;
-        lputv %locationText.2 %tmp.79;
-        symbol [ locationText %locationText.2 71 16 28 ];
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 72 12 ]
-        %tmp.80 = lgetv %dc;
-        symbol [ dc %tmp.80 72 12 14 ];
-        symbol [ drawText %tmp.81 72 15 23 ];
-        %tmp.81 = getv function %tmp.80 :drawText;
-        %tmp.82 = lgetv %dc;
-        symbol [ dc %tmp.82 72 24 26 ];
-        symbol [ getWidth %tmp.83 72 27 35 ];
-        %tmp.83 = getv function %tmp.82 :getWidth;
-        %tmp.84 = invoke %tmp.82 %tmp.83();
-        %tmp.85 = 2;
-        %tmp.86 = div %tmp.84 %tmp.85;
-        %tmp.87 = lgetv %dc;
-        symbol [ dc %tmp.87 72 41 43 ];
-        symbol [ getHeight %tmp.88 72 44 53 ];
-        %tmp.88 = getv function %tmp.87 :getHeight;
-        %tmp.89 = invoke %tmp.87 %tmp.88();
-        %tmp.90 = 2;
-        %tmp.91 = div %tmp.89 %tmp.90;
-        %tmp.92 = 30;
-        %tmp.93 = add %tmp.91 %tmp.92;
-        symbol [ Graphics %tmp.94 72 64 72 ];
-        %tmp.94 = getm $.Toybox.Graphics;
-        symbol [ FONT_SMALL %tmp.95 72 73 83 ];
-        %tmp.95 = getv %tmp.94 :FONT_SMALL;
-        %tmp.96 = lgetv %locationText.2;
-        symbol [ locationText %tmp.96 72 85 97 ];
-        symbol [ Graphics %tmp.97 72 99 107 ];
-        %tmp.97 = getm $.Toybox.Graphics;
-        symbol [ TEXT_JUSTIFY_CENTER %tmp.98 72 108 127 ];
-        %tmp.98 = getv %tmp.97 :TEXT_JUSTIFY_CENTER;
-        invoke %tmp.80 %tmp.81(%tmp.86, %tmp.93, %tmp.95, %tmp.96, %tmp.98);
-C__Users_spgal_Documents_Projects_test_source_testView_mc_56_32_73_8_stop:
-        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_56_8_75_8_if_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_56_8_75_8_if_else_false:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_73_15_75_8_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 74 12 ]
-        %tmp.99 = lgetv %dc;
-        symbol [ dc %tmp.99 74 12 14 ];
-        symbol [ drawText %tmp.100 74 15 23 ];
-        %tmp.100 = getv function %tmp.99 :drawText;
-        %tmp.101 = lgetv %dc;
-        symbol [ dc %tmp.101 74 24 26 ];
-        symbol [ getWidth %tmp.102 74 27 35 ];
-        %tmp.102 = getv function %tmp.101 :getWidth;
-        %tmp.103 = invoke %tmp.101 %tmp.102();
-        %tmp.104 = 2;
-        %tmp.105 = div %tmp.103 %tmp.104;
-        %tmp.106 = lgetv %dc;
-        symbol [ dc %tmp.106 74 41 43 ];
-        symbol [ getHeight %tmp.107 74 44 53 ];
-        %tmp.107 = getv function %tmp.106 :getHeight;
-        %tmp.108 = invoke %tmp.106 %tmp.107();
-        %tmp.109 = 2;
-        %tmp.110 = div %tmp.108 %tmp.109;
-        %tmp.111 = 30;
-        %tmp.112 = add %tmp.110 %tmp.111;
-        symbol [ Graphics %tmp.113 74 64 72 ];
-        %tmp.113 = getm $.Toybox.Graphics;
-        symbol [ FONT_SMALL %tmp.114 74 73 83 ];
-        %tmp.114 = getv %tmp.113 :FONT_SMALL;
-        %tmp.115 = "Getting GPS...";
-        symbol [ Graphics %tmp.116 74 103 111 ];
-        %tmp.116 = getm $.Toybox.Graphics;
-        symbol [ TEXT_JUSTIFY_CENTER %tmp.117 74 112 131 ];
-        %tmp.117 = getv %tmp.116 :TEXT_JUSTIFY_CENTER;
-        invoke %tmp.99 %tmp.100(%tmp.105, %tmp.112, %tmp.114, %tmp.115, %tmp.117);
-C__Users_spgal_Documents_Projects_test_source_testView_mc_73_15_75_8_stop:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_56_8_75_8_if_end:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_51_40_76_4_stop:
+        %tmp.52 = null;
+        %tmp.53 = ne %tmp.51 %tmp.52;
+        bf %tmp.53 @C__Users_spgal_Documents_Projects_test_source_testView_mc_73_13_77_13_if_else_false;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_73_13_77_13_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_73_38_75_13_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 74 16 ]
+        %tmp.54 = "You are in/near: ";
+        symbol [ locationName %tmp.56 74 53 65 ];
+        %tmp.56 = getv ? :locationName;
+        %tmp.57 = as %tmp.56 { (!Null) };
+        %tmp.58 = add %tmp.54 %tmp.57;
+        symbol [ locationText ? 74 16 28 ];
+        putv self :locationText %tmp.58;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_73_38_75_13_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_73_13_77_13_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_73_13_77_13_if_else_false:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_75_18_77_13_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 76 16 ]
+        %tmp.59 = "Checking location in database...";
+        symbol [ locationText ? 76 16 28 ];
+        putv self :locationText %tmp.59;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_75_18_77_13_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_73_13_77_13_if_end:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 79 12 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_79_12_83_12_if_stmt:
+        symbol [ locationPopulationWritten %tmp.61 79 16 41 ];
+        %tmp.61 = getv ? :locationPopulationWritten;
+        %tmp.62 = null;
+        %tmp.63 = ne %tmp.61 %tmp.62;
+        bf %tmp.63 @C__Users_spgal_Documents_Projects_test_source_testView_mc_79_12_83_12_if_else_false;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_79_12_83_12_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_79_50_81_12_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 80 16 ]
+        %tmp.64 = "\nPopulation: ";
+        symbol [ locationPopulationWritten %tmp.66 80 53 78 ];
+        %tmp.66 = getv ? :locationPopulationWritten;
+        %tmp.67 = as %tmp.66 { (!Null) };
+        %tmp.68 = add %tmp.64 %tmp.67;
+        %tmp.69 = lgetv %populationQuantifier.1;
+        symbol [ populationQuantifier %tmp.69 80 81 101 ];
+        %tmp.70 = add %tmp.68 %tmp.69;
+        symbol [ populationText ? 80 16 30 ];
+        putv self :populationText %tmp.70;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_79_50_81_12_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_79_12_83_12_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_79_12_83_12_if_else_false:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_81_17_83_12_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 82 16 ]
+        %tmp.71 = "\nHow many people live here???";
+        symbol [ populationText ? 82 16 30 ];
+        putv self :populationText %tmp.71;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_81_17_83_12_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_79_12_83_12_if_end:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 85 12 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_85_12_106_12_if_stmt:
+        symbol [ currentAFD %tmp.73 85 16 26 ];
+        %tmp.73 = getv ? :currentAFD;
+        %tmp.74 = null;
+        %tmp.75 = eq %tmp.73 %tmp.74;
+        bf %tmp.75 @C__Users_spgal_Documents_Projects_test_source_testView_mc_85_12_106_12_if_else_false;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_85_12_106_12_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_85_35_87_12_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 86 16 ]
+        %tmp.76 = "\nUnknown AFD";
+        symbol [ afdText ? 86 16 23 ];
+        putv self :afdText %tmp.76;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_85_35_87_12_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_85_12_106_12_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_85_12_106_12_if_else_false:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_87_17_106_12_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 88 16 ]
+        %tmp.77 = "\nCurrent AFD: ";
+        symbol [ currentAFD %tmp.79 88 47 57 ];
+        %tmp.79 = getv ? :currentAFD;
+        %tmp.80 = as %tmp.79 { (!Null) };
+        %tmp.81 = add %tmp.77 %tmp.80;
+        %tmp.82 = " %\n";
+        %tmp.83 = add %tmp.81 %tmp.82;
+        symbol [ afdText ? 88 16 23 ];
+        putv self :afdText %tmp.83;
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 90 16 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_90_16_92_16_if_stmt:
+        symbol [ currentAFD %tmp.85 90 19 29 ];
+        %tmp.85 = getv ? :currentAFD;
+        %tmp.86 = as %tmp.85 { (!Null) };
+        %tmp.87 = 10;
+        %tmp.88 = lt %tmp.86 %tmp.87;
+        bf %tmp.88 @C__Users_spgal_Documents_Projects_test_source_testView_mc_90_16_92_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_90_16_92_16_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_90_35_92_16_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 91 20 ]
+        symbol [ afdText %tmp.90 91 30 37 ];
+        %tmp.90 = getv ? :afdText;
+        %tmp.91 = "\nNot bad, don't let your guard down";
+        %tmp.92 = add %tmp.90 %tmp.91;
+        symbol [ afdText ? 91 20 27 ];
+        putv self :afdText %tmp.92;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_90_35_92_16_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_90_16_92_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_90_16_92_16_if_end:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 93 16 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_93_16_95_16_if_stmt:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_93_19_93_53_begin:
+        symbol [ currentAFD %tmp.94 93 19 29 ];
+        %tmp.94 = getv ? :currentAFD;
+        %tmp.95 = as %tmp.94 { (!Null) };
+        %tmp.96 = 10;
+        %tmp.97 = gte %tmp.95 %tmp.96;
+        bf %tmp.97 @C__Users_spgal_Documents_Projects_test_source_testView_mc_93_16_95_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_93_39_93_53_true:
+        symbol [ currentAFD %tmp.99 93 39 49 ];
+        %tmp.99 = getv ? :currentAFD;
+        %tmp.100 = as %tmp.99 { (!Null) };
+        %tmp.101 = 20;
+        %tmp.102 = lte %tmp.100 %tmp.101;
+        push %tmp.102;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_93_39_93_53_end:
+        %tmp.103 = phi [%tmp.97 @C__Users_spgal_Documents_Projects_test_source_testView_mc_93_19_93_53_begin] [%tmp.102 @C__Users_spgal_Documents_Projects_test_source_testView_mc_93_39_93_53_true] [%tmp.103 @C__Users_spgal_Documents_Projects_test_source_testView_mc_93_39_93_53_end];
+        bf %tmp.103 @C__Users_spgal_Documents_Projects_test_source_testView_mc_93_16_95_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_93_16_95_16_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_93_56_95_16_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 94 20 ]
+        symbol [ afdText %tmp.105 94 30 37 ];
+        %tmp.105 = getv ? :afdText;
+        %tmp.106 = "\nBelow the national average \nFor now...";
+        %tmp.107 = add %tmp.105 %tmp.106;
+        symbol [ afdText ? 94 20 27 ];
+        putv self :afdText %tmp.107;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_93_56_95_16_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_93_16_95_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_93_16_95_16_if_end:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 96 16 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_96_16_98_16_if_stmt:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_96_19_96_53_begin:
+        symbol [ currentAFD %tmp.109 96 19 29 ];
+        %tmp.109 = getv ? :currentAFD;
+        %tmp.110 = as %tmp.109 { (!Null) };
+        %tmp.111 = 20;
+        %tmp.112 = gte %tmp.110 %tmp.111;
+        bf %tmp.112 @C__Users_spgal_Documents_Projects_test_source_testView_mc_96_16_98_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_96_39_96_53_true:
+        symbol [ currentAFD %tmp.114 96 39 49 ];
+        %tmp.114 = getv ? :currentAFD;
+        %tmp.115 = as %tmp.114 { (!Null) };
+        %tmp.116 = 30;
+        %tmp.117 = lte %tmp.115 %tmp.116;
+        push %tmp.117;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_96_39_96_53_end:
+        %tmp.118 = phi [%tmp.112 @C__Users_spgal_Documents_Projects_test_source_testView_mc_96_19_96_53_begin] [%tmp.117 @C__Users_spgal_Documents_Projects_test_source_testView_mc_96_39_96_53_true] [%tmp.118 @C__Users_spgal_Documents_Projects_test_source_testView_mc_96_39_96_53_end];
+        bf %tmp.118 @C__Users_spgal_Documents_Projects_test_source_testView_mc_96_16_98_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_96_16_98_16_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_96_56_98_16_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 97 20 ]
+        symbol [ afdText %tmp.120 97 30 37 ];
+        %tmp.120 = getv ? :afdText;
+        %tmp.121 = "\nAchtung! Be careful with the Nazi's";
+        %tmp.122 = add %tmp.120 %tmp.121;
+        symbol [ afdText ? 97 20 27 ];
+        putv self :afdText %tmp.122;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_96_56_98_16_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_96_16_98_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_96_16_98_16_if_end:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 99 16 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_99_16_101_16_if_stmt:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_99_19_99_52_begin:
+        symbol [ currentAFD %tmp.124 99 19 29 ];
+        %tmp.124 = getv ? :currentAFD;
+        %tmp.125 = as %tmp.124 { (!Null) };
+        %tmp.126 = 30;
+        %tmp.127 = gte %tmp.125 %tmp.126;
+        bf %tmp.127 @C__Users_spgal_Documents_Projects_test_source_testView_mc_99_16_101_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_99_39_99_52_true:
+        symbol [ currentAFD %tmp.129 99 39 49 ];
+        %tmp.129 = getv ? :currentAFD;
+        %tmp.130 = as %tmp.129 { (!Null) };
+        %tmp.131 = 40;
+        %tmp.132 = lt %tmp.130 %tmp.131;
+        push %tmp.132;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_99_39_99_52_end:
+        %tmp.133 = phi [%tmp.127 @C__Users_spgal_Documents_Projects_test_source_testView_mc_99_19_99_52_begin] [%tmp.132 @C__Users_spgal_Documents_Projects_test_source_testView_mc_99_39_99_52_true] [%tmp.133 @C__Users_spgal_Documents_Projects_test_source_testView_mc_99_39_99_52_end];
+        bf %tmp.133 @C__Users_spgal_Documents_Projects_test_source_testView_mc_99_16_101_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_99_16_101_16_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_99_55_101_16_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 100 20 ]
+        symbol [ afdText %tmp.135 100 30 37 ];
+        %tmp.135 = getv ? :afdText;
+        %tmp.136 = "\nThis is not looking good.\n Are you in the former GDR?";
+        %tmp.137 = add %tmp.135 %tmp.136;
+        symbol [ afdText ? 100 20 27 ];
+        putv self :afdText %tmp.137;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_99_55_101_16_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_99_16_101_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_99_16_101_16_if_end:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 102 16 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_102_16_104_16_if_stmt:
+        symbol [ currentAFD %tmp.139 102 19 29 ];
+        %tmp.139 = getv ? :currentAFD;
+        %tmp.140 = as %tmp.139 { (!Null) };
+        %tmp.141 = 40;
+        %tmp.142 = gte %tmp.140 %tmp.141;
+        bf %tmp.142 @C__Users_spgal_Documents_Projects_test_source_testView_mc_102_16_104_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_102_16_104_16_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_102_36_104_16_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 103 20 ]
+        symbol [ afdText %tmp.144 103 30 37 ];
+        %tmp.144 = getv ? :afdText;
+        %tmp.145 = "\nAlmost 1 in 2 \nhere voted AfD. \nLet that sink in.";
+        %tmp.146 = add %tmp.144 %tmp.145;
+        symbol [ afdText ? 103 20 27 ];
+        putv self :afdText %tmp.146;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_102_36_104_16_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_102_16_104_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_102_16_104_16_if_end:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_87_17_106_12_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_85_12_106_12_if_end:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 108 12 ]
+        %tmp.147 = lgetv %dc;
+        symbol [ dc %tmp.147 108 12 14 ];
+        symbol [ drawText %tmp.148 108 15 23 ];
+        %tmp.148 = getv function %tmp.147 :drawText;
+        %tmp.149 = lgetv %dc;
+        symbol [ dc %tmp.149 108 24 26 ];
+        symbol [ getWidth %tmp.150 108 27 35 ];
+        %tmp.150 = getv function %tmp.149 :getWidth;
+        %tmp.151 = invoke %tmp.149 %tmp.150();
+        %tmp.152 = 2;
+        %tmp.153 = div %tmp.151 %tmp.152;
+        %tmp.154 = lgetv %dc;
+        symbol [ dc %tmp.154 108 41 43 ];
+        symbol [ getHeight %tmp.155 108 44 53 ];
+        %tmp.155 = getv function %tmp.154 :getHeight;
+        %tmp.156 = invoke %tmp.154 %tmp.155();
+        %tmp.157 = 2;
+        %tmp.158 = div %tmp.156 %tmp.157;
+        %tmp.159 = 30;
+        %tmp.160 = sub %tmp.158 %tmp.159;
+        symbol [ Graphics %tmp.161 108 64 72 ];
+        %tmp.161 = getm $.Toybox.Graphics;
+        symbol [ FONT_SMALL %tmp.162 108 73 83 ];
+        %tmp.162 = getv %tmp.161 :FONT_SMALL;
+        symbol [ locationText %tmp.164 108 85 97 ];
+        %tmp.164 = getv ? :locationText;
+        symbol [ populationText %tmp.166 108 100 114 ];
+        %tmp.166 = getv ? :populationText;
+        %tmp.167 = add %tmp.164 %tmp.166;
+        symbol [ afdText %tmp.169 108 117 124 ];
+        %tmp.169 = getv ? :afdText;
+        %tmp.170 = add %tmp.167 %tmp.169;
+        symbol [ Graphics %tmp.171 108 126 134 ];
+        %tmp.171 = getm $.Toybox.Graphics;
+        symbol [ TEXT_JUSTIFY_CENTER %tmp.172 108 135 154 ];
+        %tmp.172 = getv %tmp.171 :TEXT_JUSTIFY_CENTER;
+        invoke %tmp.147 %tmp.148(%tmp.153, %tmp.160, %tmp.162, %tmp.170, %tmp.172);
+C__Users_spgal_Documents_Projects_test_source_testView_mc_58_32_109_8_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_58_8_111_8_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_58_8_111_8_if_else_false:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_109_15_111_8_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 110 12 ]
+        %tmp.173 = lgetv %dc;
+        symbol [ dc %tmp.173 110 12 14 ];
+        symbol [ drawText %tmp.174 110 15 23 ];
+        %tmp.174 = getv function %tmp.173 :drawText;
+        %tmp.175 = lgetv %dc;
+        symbol [ dc %tmp.175 110 24 26 ];
+        symbol [ getWidth %tmp.176 110 27 35 ];
+        %tmp.176 = getv function %tmp.175 :getWidth;
+        %tmp.177 = invoke %tmp.175 %tmp.176();
+        %tmp.178 = 2;
+        %tmp.179 = div %tmp.177 %tmp.178;
+        %tmp.180 = lgetv %dc;
+        symbol [ dc %tmp.180 110 41 43 ];
+        symbol [ getHeight %tmp.181 110 44 53 ];
+        %tmp.181 = getv function %tmp.180 :getHeight;
+        %tmp.182 = invoke %tmp.180 %tmp.181();
+        %tmp.183 = 2;
+        %tmp.184 = div %tmp.182 %tmp.183;
+        %tmp.185 = 30;
+        %tmp.186 = sub %tmp.184 %tmp.185;
+        symbol [ Graphics %tmp.187 110 64 72 ];
+        %tmp.187 = getm $.Toybox.Graphics;
+        symbol [ FONT_SMALL %tmp.188 110 73 83 ];
+        %tmp.188 = getv %tmp.187 :FONT_SMALL;
+        %tmp.189 = "Getting GPS...";
+        symbol [ Graphics %tmp.190 110 103 111 ];
+        %tmp.190 = getm $.Toybox.Graphics;
+        symbol [ TEXT_JUSTIFY_CENTER %tmp.191 110 112 131 ];
+        %tmp.191 = getv %tmp.190 :TEXT_JUSTIFY_CENTER;
+        invoke %tmp.173 %tmp.174(%tmp.179, %tmp.186, %tmp.188, %tmp.189, %tmp.191);
+C__Users_spgal_Documents_Projects_test_source_testView_mc_109_15_111_8_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_58_8_111_8_if_end:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_53_40_112_4_stop:
     }
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 81; @symbol_functiondef = [onHide,81,13,19]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 117; @symbol_functiondef = [onHide,117,13,19]; ]
     function onHide() as Void {
-C__Users_spgal_Documents_Projects_test_source_testView_mc_81_30_86_4_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 82 8 ]
-C__Users_spgal_Documents_Projects_test_source_testView_mc_82_8_85_8_if_stmt:
-        symbol [ myTimer %tmp.2 82 12 19 ];
+C__Users_spgal_Documents_Projects_test_source_testView_mc_117_30_122_4_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 118 8 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_118_8_121_8_if_stmt:
+        symbol [ myTimer %tmp.2 118 12 19 ];
         %tmp.2 = getv ? :myTimer;
         %tmp.3 = null;
         %tmp.4 = ne %tmp.2 %tmp.3;
-        bf %tmp.4 @C__Users_spgal_Documents_Projects_test_source_testView_mc_82_8_85_8_if_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_82_8_85_8_if_true:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_82_29_85_8_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 83 12 ]
-        symbol [ myTimer %tmp.6 83 12 19 ];
+        bf %tmp.4 @C__Users_spgal_Documents_Projects_test_source_testView_mc_118_8_121_8_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_118_8_121_8_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_118_29_121_8_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 119 12 ]
+        symbol [ myTimer %tmp.6 119 12 19 ];
         %tmp.6 = getv ? :myTimer;
         %tmp.7 = as %tmp.6 { (!Null) };
-        symbol [ stop %tmp.8 83 20 24 ];
+        symbol [ stop %tmp.8 119 20 24 ];
         %tmp.8 = getv function %tmp.7 :stop;
         invoke %tmp.7 %tmp.8();
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 84 12 ]
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 120 12 ]
         %tmp.9 = null;
-        symbol [ myTimer ? 84 12 19 ];
+        symbol [ myTimer ? 120 12 19 ];
         putv self :myTimer %tmp.9;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_82_29_85_8_stop:
-        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_82_8_85_8_if_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_82_8_85_8_if_end:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_81_30_86_4_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_118_29_121_8_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_118_8_121_8_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_118_8_121_8_if_end:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_117_30_122_4_stop:
     }
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 88; @symbol_functiondef = [onTick,88,13,19]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 124; @symbol_functiondef = [onTick,124,13,19]; ]
     function onTick() as Void {
-C__Users_spgal_Documents_Projects_test_source_testView_mc_88_29_120_4_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 90 8 ]
-C__Users_spgal_Documents_Projects_test_source_testView_mc_90_8_115_8_if_stmt:
-        symbol [ myLocation %tmp.2 90 12 22 ];
+C__Users_spgal_Documents_Projects_test_source_testView_mc_124_29_158_4_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 126 8 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_126_8_153_8_if_stmt:
+        symbol [ myLocation %tmp.2 126 12 22 ];
         %tmp.2 = getv ? :myLocation;
         %tmp.3 = null;
         %tmp.4 = ne %tmp.2 %tmp.3;
-        bf %tmp.4 @C__Users_spgal_Documents_Projects_test_source_testView_mc_90_8_115_8_if_else_false;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_90_8_115_8_if_true:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_90_32_113_8_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 91 12 ]
+        bf %tmp.4 @C__Users_spgal_Documents_Projects_test_source_testView_mc_126_8_153_8_if_else_false;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_126_8_153_8_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_126_32_151_8_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 127 12 ]
         %tmp.5 = null;
-        symbol [ closestGemeinde ? 91 12 27 ];
+        symbol [ closestGemeinde ? 127 12 27 ];
         putv self :closestGemeinde %tmp.5;
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 92 12 ]
-        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_90_32_113_8_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_90_32_113_8_stop" ]
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 128 12 ]
+        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_126_32_151_8_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_126_32_151_8_stop" ]
         %minDistance.1 = local;
-        symbol [ minDistance %minDistance.1 92 16 27 ];
+        symbol [ minDistance %minDistance.1 128 16 27 ];
         %tmp.6 = 9999999;
         lputv %minDistance.1 %tmp.6;
-        symbol [ minDistance %minDistance.1 92 16 27 ];
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 94 12 ]
-        for @C__Users_spgal_Documents_Projects_test_source_testView_mc_94_12_104_12_for_test @C__Users_spgal_Documents_Projects_test_source_testView_mc_94_12_104_12_for_incr @C__Users_spgal_Documents_Projects_test_source_testView_mc_94_12_104_12_for_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_94_12_104_12_for_init:
-        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_94_12_104_12_for_begin" "C__Users_spgal_Documents_Projects_test_source_testView_mc_94_12_104_12_for_end" ]
+        symbol [ minDistance %minDistance.1 128 16 27 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 131 12 ]
+        for @C__Users_spgal_Documents_Projects_test_source_testView_mc_131_12_142_12_for_test @C__Users_spgal_Documents_Projects_test_source_testView_mc_131_12_142_12_for_incr @C__Users_spgal_Documents_Projects_test_source_testView_mc_131_12_142_12_for_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_131_12_142_12_for_init:
+        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_131_12_142_12_for_begin" "C__Users_spgal_Documents_Projects_test_source_testView_mc_131_12_142_12_for_end" ]
         %i.2 = local;
-        symbol [ i %i.2 94 21 22 ];
+        symbol [ i %i.2 131 21 22 ];
         %tmp.7 = 0;
         lputv %i.2 %tmp.7;
-        symbol [ i %i.2 94 21 22 ];
-C__Users_spgal_Documents_Projects_test_source_testView_mc_94_12_104_12_for_test:
+        symbol [ i %i.2 131 21 22 ];
+C__Users_spgal_Documents_Projects_test_source_testView_mc_131_12_142_12_for_test:
         %tmp.8 = lgetv %i.2;
-        symbol [ i %tmp.8 94 26 27 ];
-        symbol [ gemeinde %tmp.10 94 29 37 ];
+        symbol [ i %tmp.8 131 26 27 ];
+        symbol [ gemeinde %tmp.10 131 29 37 ];
         %tmp.10 = getv ? :gemeinde;
-        symbol [ size %tmp.11 94 38 42 ];
+        symbol [ size %tmp.11 131 38 42 ];
         %tmp.11 = getv function %tmp.10 :size;
         %tmp.12 = invoke %tmp.10 %tmp.11();
         %tmp.13 = lt %tmp.8 %tmp.12;
-        bf %tmp.13 @C__Users_spgal_Documents_Projects_test_source_testView_mc_94_12_104_12_for_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_94_12_104_12_for_begin:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_94_51_104_12_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 96 16 ]
-        symbol [ gemeinde %tmp.15 96 31 39 ];
+        bf %tmp.13 @C__Users_spgal_Documents_Projects_test_source_testView_mc_131_12_142_12_for_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_131_12_142_12_for_begin:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_131_51_142_12_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 133 16 ]
+        symbol [ gemeinde %tmp.15 133 31 39 ];
         %tmp.15 = getv ? :gemeinde;
         %tmp.16 = lgetv %i.2;
-        symbol [ i %tmp.16 96 40 41 ];
+        symbol [ i %tmp.16 133 40 41 ];
         %tmp.17 = agetv %tmp.15 %tmp.16;
-        symbol [ nextGemeinde ? 96 16 28 ];
+        symbol [ nextGemeinde ? 133 16 28 ];
         putv self :nextGemeinde %tmp.17;
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 98 16 ]
-        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_94_51_104_12_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_94_51_104_12_stop" ]
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 136 16 ]
+        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_131_51_142_12_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_131_51_142_12_stop" ]
         %distance.3 = local;
-        symbol [ distance %distance.3 98 20 28 ];
+        symbol [ distance %distance.3 136 20 28 ];
         %tmp.18 = self;
-        symbol [ distanceToCurrent %tmp.19 98 31 48 ];
+        symbol [ distanceToCurrent %tmp.19 136 31 48 ];
         %tmp.19 = getv function %tmp.18 :distanceToCurrent;
-        symbol [ nextGemeinde %tmp.21 98 49 61 ];
+        symbol [ nextGemeinde %tmp.21 136 49 61 ];
         %tmp.21 = getv ? :nextGemeinde;
         %tmp.22 = 2;
         %tmp.23 = agetv %tmp.21 %tmp.22;
-        symbol [ nextGemeinde %tmp.25 98 66 78 ];
+        symbol [ nextGemeinde %tmp.25 136 66 78 ];
         %tmp.25 = getv ? :nextGemeinde;
         %tmp.26 = 1;
         %tmp.27 = agetv %tmp.25 %tmp.26;
-        symbol [ myLocation %tmp.29 98 83 93 ];
+        symbol [ myLocation %tmp.29 136 83 93 ];
         %tmp.29 = getv ? :myLocation;
         %tmp.30 = 0;
         %tmp.31 = agetv %tmp.29 %tmp.30;
-        symbol [ myLocation %tmp.33 98 98 108 ];
+        symbol [ myLocation %tmp.33 136 98 108 ];
         %tmp.33 = getv ? :myLocation;
         %tmp.34 = 1;
         %tmp.35 = agetv %tmp.33 %tmp.34;
         %tmp.36 = invoke %tmp.18 %tmp.19(%tmp.23, %tmp.27, %tmp.31, %tmp.35);
         lputv %distance.3 %tmp.36;
-        symbol [ distance %distance.3 98 20 28 ];
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 100 16 ]
-C__Users_spgal_Documents_Projects_test_source_testView_mc_100_16_103_16_if_stmt:
+        symbol [ distance %distance.3 136 20 28 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 138 16 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_138_16_141_16_if_stmt:
         %tmp.37 = lgetv %distance.3;
-        symbol [ distance %tmp.37 100 19 27 ];
+        symbol [ distance %tmp.37 138 19 27 ];
         %tmp.38 = lgetv %minDistance.1;
-        symbol [ minDistance %tmp.38 100 30 41 ];
+        symbol [ minDistance %tmp.38 138 30 41 ];
         %tmp.39 = lt %tmp.37 %tmp.38;
-        bf %tmp.39 @C__Users_spgal_Documents_Projects_test_source_testView_mc_100_16_103_16_if_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_100_16_103_16_if_true:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_100_42_103_16_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 101 20 ]
+        bf %tmp.39 @C__Users_spgal_Documents_Projects_test_source_testView_mc_138_16_141_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_138_16_141_16_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_138_42_141_16_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 139 20 ]
         %tmp.40 = lgetv %distance.3;
-        symbol [ distance %tmp.40 101 34 42 ];
+        symbol [ distance %tmp.40 139 34 42 ];
         lputv %minDistance.1 %tmp.40;
-        symbol [ minDistance %minDistance.1 101 20 31 ];
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 102 20 ]
-        symbol [ nextGemeinde %tmp.42 102 38 50 ];
+        symbol [ minDistance %minDistance.1 139 20 31 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 140 20 ]
+        symbol [ nextGemeinde %tmp.42 140 38 50 ];
         %tmp.42 = getv ? :nextGemeinde;
-        symbol [ closestGemeinde ? 102 20 35 ];
+        symbol [ closestGemeinde ? 140 20 35 ];
         putv self :closestGemeinde %tmp.42;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_100_42_103_16_stop:
-        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_100_16_103_16_if_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_100_16_103_16_if_end:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_94_51_104_12_stop:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_94_12_104_12_for_incr:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 94 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_138_42_141_16_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_138_16_141_16_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_138_16_141_16_if_end:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_131_51_142_12_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_131_12_142_12_for_incr:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 131 ]
         %tmp.43 = lgetv %i.2;
-        symbol [ i %tmp.43 94 46 47 ];
+        symbol [ i %tmp.43 131 46 47 ];
         %tmp.44 = 1;
         %tmp.45 = add %tmp.43 %tmp.44;
         lputv %i.2 %tmp.45;
-        symbol [ i %i.2 94 46 47 ];
-        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_94_12_104_12_for_test;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_94_12_104_12_for_end:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 106 12 ]
-C__Users_spgal_Documents_Projects_test_source_testView_mc_106_12_111_12_if_stmt:
-        symbol [ closestGemeinde %tmp.47 106 16 31 ];
+        symbol [ i %i.2 131 46 47 ];
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_131_12_142_12_for_test;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_131_12_142_12_for_end:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 144 12 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_144_12_149_12_if_stmt:
+        symbol [ closestGemeinde %tmp.47 144 16 31 ];
         %tmp.47 = getv ? :closestGemeinde;
         %tmp.48 = null;
         %tmp.49 = ne %tmp.47 %tmp.48;
-        bf %tmp.49 @C__Users_spgal_Documents_Projects_test_source_testView_mc_106_12_111_12_if_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_106_12_111_12_if_true:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_106_41_111_12_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 107 16 ]
-        symbol [ System %tmp.50 107 16 22 ];
+        bf %tmp.49 @C__Users_spgal_Documents_Projects_test_source_testView_mc_144_12_149_12_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_144_12_149_12_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_144_41_149_12_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 145 16 ]
+        symbol [ System %tmp.50 145 16 22 ];
         %tmp.50 = getm $.Toybox.System;
-        symbol [ println %tmp.51 107 23 30 ];
+        symbol [ println %tmp.51 145 23 30 ];
         %tmp.51 = getv function %tmp.50 :println;
         %tmp.52 = "Closest is ";
-        symbol [ closestGemeinde %tmp.54 107 47 62 ];
+        symbol [ closestGemeinde %tmp.54 145 47 62 ];
         %tmp.54 = getv ? :closestGemeinde;
         %tmp.55 = as %tmp.54 { (!Null) };
         %tmp.56 = 0;
@@ -508,151 +702,151 @@ C__Users_spgal_Documents_Projects_test_source_testView_mc_106_41_111_12_start:
         %tmp.59 = " (";
         %tmp.60 = add %tmp.58 %tmp.59;
         %tmp.61 = lgetv %minDistance.1;
-        symbol [ minDistance %tmp.61 107 75 86 ];
+        symbol [ minDistance %tmp.61 145 75 86 ];
         %tmp.62 = add %tmp.60 %tmp.61;
         %tmp.63 = " m)";
         %tmp.64 = add %tmp.62 %tmp.63;
         invoke %tmp.50 %tmp.51(%tmp.64);
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 108 16 ]
-        symbol [ closestGemeinde %tmp.66 108 31 46 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 146 16 ]
+        symbol [ closestGemeinde %tmp.66 146 31 46 ];
         %tmp.66 = getv ? :closestGemeinde;
         %tmp.67 = 0;
         %tmp.68 = agetv %tmp.66 %tmp.67;
-        symbol [ locationName ? 108 16 28 ];
+        symbol [ locationName ? 146 16 28 ];
         putv self :locationName %tmp.68;
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 109 16 ]
-        symbol [ closestGemeinde %tmp.70 109 37 52 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 147 16 ]
+        symbol [ closestGemeinde %tmp.70 147 37 52 ];
         %tmp.70 = getv ? :closestGemeinde;
         %tmp.71 = 3;
         %tmp.72 = agetv %tmp.70 %tmp.71;
-        symbol [ locationPopulation ? 109 16 34 ];
+        symbol [ locationPopulation ? 147 16 34 ];
         putv self :locationPopulation %tmp.72;
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 110 16 ]
-        symbol [ closestGemeinde %tmp.74 110 29 44 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 148 16 ]
+        symbol [ closestGemeinde %tmp.74 148 29 44 ];
         %tmp.74 = getv ? :closestGemeinde;
         %tmp.75 = 4;
         %tmp.76 = agetv %tmp.74 %tmp.75;
-        symbol [ currentAFD ? 110 16 26 ];
+        symbol [ currentAFD ? 148 16 26 ];
         putv self :currentAFD %tmp.76;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_106_41_111_12_stop:
-        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_106_12_111_12_if_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_106_12_111_12_if_end:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_90_32_113_8_stop:
-        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_90_8_115_8_if_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_90_8_115_8_if_else_false:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_113_14_115_8_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 114 12 ]
-        symbol [ System %tmp.77 114 12 18 ];
+C__Users_spgal_Documents_Projects_test_source_testView_mc_144_41_149_12_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_144_12_149_12_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_144_12_149_12_if_end:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_126_32_151_8_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_126_8_153_8_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_126_8_153_8_if_else_false:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_151_14_153_8_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 152 12 ]
+        symbol [ System %tmp.77 152 12 18 ];
         %tmp.77 = getm $.Toybox.System;
-        symbol [ println %tmp.78 114 19 26 ];
+        symbol [ println %tmp.78 152 19 26 ];
         %tmp.78 = getv function %tmp.77 :println;
         %tmp.79 = "Location not yet available";
         invoke %tmp.77 %tmp.78(%tmp.79);
-C__Users_spgal_Documents_Projects_test_source_testView_mc_113_14_115_8_stop:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_90_8_115_8_if_end:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 118 8 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_151_14_153_8_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_126_8_153_8_if_end:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 156 8 ]
         %tmp.80 = self;
-        symbol [ requestUpdate %tmp.81 118 8 21 ];
+        symbol [ requestUpdate %tmp.81 156 8 21 ];
         %tmp.81 = getv function %tmp.80 :requestUpdate;
         invoke %tmp.80 %tmp.81();
-C__Users_spgal_Documents_Projects_test_source_testView_mc_88_29_120_4_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_124_29_158_4_stop:
     }
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 123; @symbol_functiondef = [onPosition,123,13,23]; @symbol_param<0> = [info,123,24,28]; @symbol_param<0>_type<0> = [Position,123,32,40]; @symbol_param<0>_type<1> = [Info,123,41,45]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 161; @symbol_functiondef = [onPosition,161,13,23]; @symbol_param<0> = [info,161,24,28]; @symbol_param<0>_type<0> = [Position,161,32,40]; @symbol_param<0>_type<1> = [Info,161,41,45]; ]
     function onPosition(info as Position.Info) as Void {
-C__Users_spgal_Documents_Projects_test_source_testView_mc_123_54_131_4_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 124 8 ]
-C__Users_spgal_Documents_Projects_test_source_testView_mc_124_8_129_8_if_stmt:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_161_54_168_4_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 162 8 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_162_8_166_8_if_stmt:
         %tmp.1 = lgetv %info;
-        symbol [ info %tmp.1 124 12 16 ];
-        symbol [ position %tmp.2 124 17 25 ];
+        symbol [ info %tmp.1 162 12 16 ];
+        symbol [ position %tmp.2 162 17 25 ];
         %tmp.2 = getv %tmp.1 :position;
         %tmp.3 = null;
         %tmp.4 = ne %tmp.2 %tmp.3;
-        bf %tmp.4 @C__Users_spgal_Documents_Projects_test_source_testView_mc_124_8_129_8_if_else_false;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_124_8_129_8_if_true:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_124_35_127_8_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 125 12 ]
+        bf %tmp.4 @C__Users_spgal_Documents_Projects_test_source_testView_mc_162_8_166_8_if_else_false;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_162_8_166_8_if_true:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_162_35_164_8_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 163 12 ]
         %tmp.5 = lgetv %info;
-        symbol [ info %tmp.5 125 25 29 ];
-        symbol [ position %tmp.6 125 30 38 ];
+        symbol [ info %tmp.5 163 25 29 ];
+        symbol [ position %tmp.6 163 30 38 ];
         %tmp.6 = getv %tmp.5 :position;
-        symbol [ toDegrees %tmp.7 125 39 48 ];
+        symbol [ toDegrees %tmp.7 163 39 48 ];
         %tmp.7 = getv function %tmp.6 :toDegrees;
         %tmp.8 = invoke %tmp.6 %tmp.7();
-        symbol [ myLocation ? 125 12 22 ];
+        symbol [ myLocation ? 163 12 22 ];
         putv self :myLocation %tmp.8;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_124_35_127_8_stop:
-        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_124_8_129_8_if_end;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_124_8_129_8_if_else_false:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_127_15_129_8_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 128 12 ]
-        symbol [ System %tmp.9 128 12 18 ];
+C__Users_spgal_Documents_Projects_test_source_testView_mc_162_35_164_8_stop:
+        goto @C__Users_spgal_Documents_Projects_test_source_testView_mc_162_8_166_8_if_end;
+C__Users_spgal_Documents_Projects_test_source_testView_mc_162_8_166_8_if_else_false:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_164_15_166_8_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 165 12 ]
+        symbol [ System %tmp.9 165 12 18 ];
         %tmp.9 = getm $.Toybox.System;
-        symbol [ println %tmp.10 128 19 26 ];
+        symbol [ println %tmp.10 165 19 26 ];
         %tmp.10 = getv function %tmp.9 :println;
         %tmp.11 = "GPS position is null";
         invoke %tmp.9 %tmp.10(%tmp.11);
-C__Users_spgal_Documents_Projects_test_source_testView_mc_127_15_129_8_stop:
-C__Users_spgal_Documents_Projects_test_source_testView_mc_124_8_129_8_if_end:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 130 8 ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_164_15_166_8_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_162_8_166_8_if_end:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 167 8 ]
         %tmp.12 = self;
-        symbol [ requestUpdate %tmp.13 130 8 21 ];
+        symbol [ requestUpdate %tmp.13 167 8 21 ];
         %tmp.13 = getv function %tmp.12 :requestUpdate;
         invoke %tmp.12 %tmp.13();
-C__Users_spgal_Documents_Projects_test_source_testView_mc_123_54_131_4_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_161_54_168_4_stop:
     }
-    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 134; @symbol_functiondef = [distanceToCurrent,134,13,30]; @symbol_param<0> = [lat1,134,31,35]; @symbol_param<1> = [lon1,134,37,41]; @symbol_param<2> = [lat2,134,43,47]; @symbol_param<3> = [lon2,134,49,53]; ]
+    [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 171; @symbol_functiondef = [distanceToCurrent,171,13,30]; @symbol_param<0> = [lat1,171,31,35]; @symbol_param<1> = [lon1,171,37,41]; @symbol_param<2> = [lat2,171,43,47]; @symbol_param<3> = [lon2,171,49,53]; ]
     function distanceToCurrent(lat1, lon1, lat2, lon2) {
-C__Users_spgal_Documents_Projects_test_source_testView_mc_134_55_142_4_start:
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 136 8 ]
-        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_134_55_142_4_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_134_55_142_4_stop" ]
+C__Users_spgal_Documents_Projects_test_source_testView_mc_171_55_179_4_start:
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 173 8 ]
+        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_171_55_179_4_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_171_55_179_4_stop" ]
         %dLat.1 = local;
-        symbol [ dLat %dLat.1 136 12 16 ];
+        symbol [ dLat %dLat.1 173 12 16 ];
         %tmp.1 = lgetv %lat1;
-        symbol [ lat1 %tmp.1 136 19 23 ];
+        symbol [ lat1 %tmp.1 173 19 23 ];
         %tmp.2 = lgetv %lat2;
-        symbol [ lat2 %tmp.2 136 26 30 ];
+        symbol [ lat2 %tmp.2 173 26 30 ];
         %tmp.3 = sub %tmp.1 %tmp.2;
         lputv %dLat.1 %tmp.3;
-        symbol [ dLat %dLat.1 136 12 16 ];
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 137 8 ]
-        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_134_55_142_4_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_134_55_142_4_stop" ]
+        symbol [ dLat %dLat.1 173 12 16 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 174 8 ]
+        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_171_55_179_4_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_171_55_179_4_stop" ]
         %dLon.2 = local;
-        symbol [ dLon %dLon.2 137 12 16 ];
+        symbol [ dLon %dLon.2 174 12 16 ];
         %tmp.4 = lgetv %lon1;
-        symbol [ lon1 %tmp.4 137 19 23 ];
+        symbol [ lon1 %tmp.4 174 19 23 ];
         %tmp.5 = lgetv %lon2;
-        symbol [ lon2 %tmp.5 137 26 30 ];
+        symbol [ lon2 %tmp.5 174 26 30 ];
         %tmp.6 = sub %tmp.4 %tmp.5;
         lputv %dLon.2 %tmp.6;
-        symbol [ dLon %dLon.2 137 12 16 ];
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 139 8 ]
-        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_134_55_142_4_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_134_55_142_4_stop" ]
+        symbol [ dLon %dLon.2 174 12 16 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 176 8 ]
+        [ "C__Users_spgal_Documents_Projects_test_source_testView_mc_171_55_179_4_start" "C__Users_spgal_Documents_Projects_test_source_testView_mc_171_55_179_4_stop" ]
         %distance.3 = local;
-        symbol [ distance %distance.3 139 12 20 ];
-        symbol [ Math %tmp.8 139 23 27 ];
+        symbol [ distance %distance.3 176 12 20 ];
+        symbol [ Math %tmp.8 176 23 27 ];
         %tmp.8 = getv ? :Math;
-        symbol [ sqrt %tmp.9 139 28 32 ];
+        symbol [ sqrt %tmp.9 176 28 32 ];
         %tmp.9 = getv function %tmp.8 :sqrt;
         %tmp.10 = lgetv %dLat.1;
-        symbol [ dLat %tmp.10 139 33 37 ];
+        symbol [ dLat %tmp.10 176 33 37 ];
         %tmp.11 = lgetv %dLat.1;
-        symbol [ dLat %tmp.11 139 38 42 ];
+        symbol [ dLat %tmp.11 176 38 42 ];
         %tmp.12 = mul %tmp.10 %tmp.11;
         %tmp.13 = lgetv %dLon.2;
-        symbol [ dLon %tmp.13 139 45 49 ];
+        symbol [ dLon %tmp.13 176 45 49 ];
         %tmp.14 = lgetv %dLon.2;
-        symbol [ dLon %tmp.14 139 50 54 ];
+        symbol [ dLon %tmp.14 176 50 54 ];
         %tmp.15 = mul %tmp.13 %tmp.14;
         %tmp.16 = add %tmp.12 %tmp.15;
         %tmp.17 = invoke %tmp.8 %tmp.9(%tmp.16);
         lputv %distance.3 %tmp.17;
-        symbol [ distance %distance.3 139 12 20 ];
-[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 141 8 ]
+        symbol [ distance %distance.3 176 12 20 ];
+[ "C:\Users\spgal\Documents\Projects\test\source\testView.mc" 178 8 ]
         %tmp.18 = lgetv %distance.3;
-        symbol [ distance %tmp.18 141 15 23 ];
+        symbol [ distance %tmp.18 178 15 23 ];
         ret %tmp.18;
-C__Users_spgal_Documents_Projects_test_source_testView_mc_134_55_142_4_stop:
+C__Users_spgal_Documents_Projects_test_source_testView_mc_171_55_179_4_stop:
     }
 }
 [ @file = "C:\Users\spgal\Documents\Projects\test\source\testView.mc"; @line = 1; ]
