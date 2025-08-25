@@ -11,6 +11,7 @@ class testView extends WatchUi.View {
     var myLocation;
     var locationName;
     var locationPopulation;
+    var locationPopulationWritten;
 
     //var Uckermunde = [14.046489,53.736513];
     //var Pasewalk = [13.990282,53.505112];
@@ -53,16 +54,20 @@ class testView extends WatchUi.View {
 
         if (myLocation != null) {
 
-            var populationThousands = "K";
+            var populationQuantifier = "K";
 
             //Check if above 1M population
             if(locationPopulation != null){
                 if(locationPopulation > 1000){ 
-                    populationThousands = "M";
+                    populationQuantifier = "M";
+                    locationPopulationWritten = locationPopulation.toString();
+                    locationPopulationWritten = locationPopulationWritten.substring(0,1) + "." + locationPopulationWritten.substring(1, locationPopulationWritten.length());
+                }else{
+                    locationPopulationWritten = locationPopulation;
                 }
             }
 
-            var locationText = locationName + "\nPopulation: " + locationPopulation + populationThousands + "\nLat: " + myLocation[0] + "\nLon: " + myLocation[1];
+            var locationText = locationName + "\nPopulation: " + locationPopulationWritten + populationQuantifier + "\nLat: " + myLocation[0] + "\nLon: " + myLocation[1];
             dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, locationText, Graphics.TEXT_JUSTIFY_CENTER);
         } else {
             dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, "Getting GPS...", Graphics.TEXT_JUSTIFY_CENTER);
@@ -133,5 +138,5 @@ class testView extends WatchUi.View {
 
         return distance;   
     }
-
+ 
 }

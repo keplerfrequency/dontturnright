@@ -8,90 +8,94 @@
         <entry filename="c:\\Users\\spgal\\Documents\\Projects\\test\\bin\\gen\\006-B4062-00\\source\\Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435493" symbol="&lt;init&gt;"/>
         <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="4" lineNum="6" parent="globals/testApp" pc="268435513" symbol="&lt;init&gt;"/>
         <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="5" lineNum="3" parent="globals/Cities" pc="268435525" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="6" lineNum="43" parent="globals/testView" pc="268476540" symbol="onShow"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="6" lineNum="44" parent="globals/testView" pc="268476542" symbol="onShow"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="6" lineNum="45" parent="globals/testView" pc="268476571" symbol="onShow"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="82" parent="globals/testView" pc="268476603" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="84" parent="globals/testView" pc="268476606" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="85" parent="globals/testView" pc="268476615" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="86" parent="globals/testView" pc="268476623" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="88" parent="globals/testView" pc="268476630" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="90" parent="globals/testView" pc="268476650" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="92" parent="globals/testView" pc="268476665" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="94" parent="globals/testView" pc="268476706" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="95" parent="globals/testView" pc="268476714" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="96" parent="globals/testView" pc="268476718" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="100" parent="globals/testView" pc="268476743" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="101" parent="globals/testView" pc="268476752" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="102" parent="globals/testView" pc="268476793" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="103" parent="globals/testView" pc="268476807" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="107" parent="globals/testView" pc="268476828" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="111" parent="globals/testView" pc="268476846" symbol="onTick"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="8" lineNum="116" parent="globals/testView" pc="268476854" symbol="onPosition"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="8" lineNum="117" parent="globals/testView" pc="268476856" symbol="onPosition"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="8" lineNum="118" parent="globals/testView" pc="268476866" symbol="onPosition"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="8" lineNum="121" parent="globals/testView" pc="268476888" symbol="onPosition"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="8" lineNum="123" parent="globals/testView" pc="268476906" symbol="onPosition"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="9" lineNum="36" parent="globals/testView" pc="268476914" symbol="onLayout"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="9" lineNum="37" parent="globals/testView" pc="268476916" symbol="onLayout"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="10" lineNum="127" parent="globals/testView" pc="268476950" symbol="distanceToCurrent"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="10" lineNum="129" parent="globals/testView" pc="268476953" symbol="distanceToCurrent"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="10" lineNum="130" parent="globals/testView" pc="268476960" symbol="distanceToCurrent"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="10" lineNum="132" parent="globals/testView" pc="268476967" symbol="distanceToCurrent"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="10" lineNum="134" parent="globals/testView" pc="268476992" symbol="distanceToCurrent"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="11" lineNum="28" parent="globals/testView" pc="268476995" symbol="initialize"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="11" lineNum="29" parent="globals/testView" pc="268476997" symbol="initialize"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="11" lineNum="30" parent="globals/testView" pc="268477009" symbol="initialize"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="11" lineNum="31" parent="globals/testView" pc="268477017" symbol="initialize"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="11" lineNum="32" parent="globals/testView" pc="268477045" symbol="initialize"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="12" lineNum="75" parent="globals/testView" pc="268477063" symbol="onHide"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="12" lineNum="76" parent="globals/testView" pc="268477065" symbol="onHide"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="12" lineNum="77" parent="globals/testView" pc="268477074" symbol="onHide"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="12" lineNum="78" parent="globals/testView" pc="268477086" symbol="onHide"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="49" parent="globals/testView" pc="268477098" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="51" parent="globals/testView" pc="268477101" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="52" parent="globals/testView" pc="268477109" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="54" parent="globals/testView" pc="268477125" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="56" parent="globals/testView" pc="268477134" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="59" parent="globals/testView" pc="268477141" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="60" parent="globals/testView" pc="268477150" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="61" parent="globals/testView" pc="268477162" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="65" parent="globals/testView" pc="268477175" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="66" parent="globals/testView" pc="268477226" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="68" parent="globals/testView" pc="268477268" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="14" lineNum="13" parent="globals/testApp" pc="268477311" symbol="onStart"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="15" lineNum="22" parent="globals/testApp" pc="268477314" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="15" lineNum="23" parent="globals/testApp" pc="268477316" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="16" lineNum="8" parent="globals/testApp" pc="268477342" symbol="initialize"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="16" lineNum="9" parent="globals/testApp" pc="268477344" symbol="initialize"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="17" lineNum="18" parent="globals/testApp" pc="268477357" symbol="onStop"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="18" lineNum="4585" parent="globals/Cities" pc="268477360" symbol="allCities"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="18" lineNum="4586" parent="globals/Cities" pc="268477370" symbol="allCities"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="19" lineNum="4577" parent="globals/Cities" pc="268477376" symbol="getCity"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="19" lineNum="4578" parent="globals/Cities" pc="268477386" symbol="getCity"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="19" lineNum="4579" parent="globals/Cities" pc="268477404" symbol="getCity"/>
-        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="19" lineNum="4581" parent="globals/Cities" pc="268477416" symbol="getCity"/>
-        <entry filename="c:\\Users\\spgal\\Documents\\Projects\\test\\bin\\gen\\006-B4062-00\\source\\Rez.mcgen" id="20" lineNum="14" parent="globals/Rez/Layouts" pc="268477418" symbol="MainLayout"/>
-        <entry filename="c:\\Users\\spgal\\Documents\\Projects\\test\\bin\\gen\\006-B4062-00\\source\\Rez.mcgen" id="20" lineNum="15" parent="globals/Rez/Layouts" pc="268477429" symbol="MainLayout"/>
-        <entry filename="c:\\Users\\spgal\\Documents\\Projects\\test\\bin\\gen\\006-B4062-00\\source\\Rez.mcgen" id="20" lineNum="16" parent="globals/Rez/Layouts" pc="268477516" symbol="MainLayout"/>
-        <entry filename="c:\\Users\\spgal\\Documents\\Projects\\test\\bin\\gen\\006-B4062-00\\source\\Rez.mcgen" id="20" lineNum="18" parent="globals/Rez/Layouts" pc="268477566" symbol="MainLayout"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="6" lineNum="44" parent="globals/testView" pc="268476540" symbol="onShow"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="6" lineNum="45" parent="globals/testView" pc="268476542" symbol="onShow"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="6" lineNum="46" parent="globals/testView" pc="268476571" symbol="onShow"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="87" parent="globals/testView" pc="268476603" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="89" parent="globals/testView" pc="268476606" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="90" parent="globals/testView" pc="268476615" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="91" parent="globals/testView" pc="268476623" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="93" parent="globals/testView" pc="268476630" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="95" parent="globals/testView" pc="268476650" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="97" parent="globals/testView" pc="268476665" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="99" parent="globals/testView" pc="268476706" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="100" parent="globals/testView" pc="268476714" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="101" parent="globals/testView" pc="268476718" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="105" parent="globals/testView" pc="268476743" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="106" parent="globals/testView" pc="268476752" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="107" parent="globals/testView" pc="268476793" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="108" parent="globals/testView" pc="268476807" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="112" parent="globals/testView" pc="268476828" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="7" lineNum="116" parent="globals/testView" pc="268476846" symbol="onTick"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="8" lineNum="121" parent="globals/testView" pc="268476854" symbol="onPosition"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="8" lineNum="122" parent="globals/testView" pc="268476856" symbol="onPosition"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="8" lineNum="123" parent="globals/testView" pc="268476866" symbol="onPosition"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="8" lineNum="126" parent="globals/testView" pc="268476888" symbol="onPosition"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="8" lineNum="128" parent="globals/testView" pc="268476906" symbol="onPosition"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="9" lineNum="37" parent="globals/testView" pc="268476914" symbol="onLayout"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="9" lineNum="38" parent="globals/testView" pc="268476916" symbol="onLayout"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="10" lineNum="132" parent="globals/testView" pc="268476950" symbol="distanceToCurrent"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="10" lineNum="134" parent="globals/testView" pc="268476953" symbol="distanceToCurrent"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="10" lineNum="135" parent="globals/testView" pc="268476960" symbol="distanceToCurrent"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="10" lineNum="137" parent="globals/testView" pc="268476967" symbol="distanceToCurrent"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="10" lineNum="139" parent="globals/testView" pc="268476992" symbol="distanceToCurrent"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="11" lineNum="29" parent="globals/testView" pc="268476995" symbol="initialize"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="11" lineNum="30" parent="globals/testView" pc="268476997" symbol="initialize"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="11" lineNum="31" parent="globals/testView" pc="268477009" symbol="initialize"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="11" lineNum="32" parent="globals/testView" pc="268477017" symbol="initialize"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="11" lineNum="33" parent="globals/testView" pc="268477045" symbol="initialize"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="12" lineNum="80" parent="globals/testView" pc="268477063" symbol="onHide"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="12" lineNum="81" parent="globals/testView" pc="268477065" symbol="onHide"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="12" lineNum="82" parent="globals/testView" pc="268477074" symbol="onHide"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="12" lineNum="83" parent="globals/testView" pc="268477086" symbol="onHide"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="50" parent="globals/testView" pc="268477098" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="52" parent="globals/testView" pc="268477101" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="53" parent="globals/testView" pc="268477109" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="55" parent="globals/testView" pc="268477125" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="57" parent="globals/testView" pc="268477134" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="60" parent="globals/testView" pc="268477141" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="61" parent="globals/testView" pc="268477150" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="62" parent="globals/testView" pc="268477162" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="63" parent="globals/testView" pc="268477169" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="64" parent="globals/testView" pc="268477187" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="66" parent="globals/testView" pc="268477246" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="70" parent="globals/testView" pc="268477261" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="71" parent="globals/testView" pc="268477312" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testView.mc" id="13" lineNum="73" parent="globals/testView" pc="268477354" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="14" lineNum="13" parent="globals/testApp" pc="268477397" symbol="onStart"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="15" lineNum="22" parent="globals/testApp" pc="268477400" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="15" lineNum="23" parent="globals/testApp" pc="268477402" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="16" lineNum="8" parent="globals/testApp" pc="268477428" symbol="initialize"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="16" lineNum="9" parent="globals/testApp" pc="268477430" symbol="initialize"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\source\\testApp.mc" id="17" lineNum="18" parent="globals/testApp" pc="268477443" symbol="onStop"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="18" lineNum="4585" parent="globals/Cities" pc="268477446" symbol="allCities"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="18" lineNum="4586" parent="globals/Cities" pc="268477456" symbol="allCities"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="19" lineNum="4577" parent="globals/Cities" pc="268477462" symbol="getCity"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="19" lineNum="4578" parent="globals/Cities" pc="268477472" symbol="getCity"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="19" lineNum="4579" parent="globals/Cities" pc="268477490" symbol="getCity"/>
+        <entry filename="C:\\Users\\spgal\\Documents\\Projects\\test\\Cities.mc" id="19" lineNum="4581" parent="globals/Cities" pc="268477502" symbol="getCity"/>
+        <entry filename="c:\\Users\\spgal\\Documents\\Projects\\test\\bin\\gen\\006-B4062-00\\source\\Rez.mcgen" id="20" lineNum="14" parent="globals/Rez/Layouts" pc="268477504" symbol="MainLayout"/>
+        <entry filename="c:\\Users\\spgal\\Documents\\Projects\\test\\bin\\gen\\006-B4062-00\\source\\Rez.mcgen" id="20" lineNum="15" parent="globals/Rez/Layouts" pc="268477515" symbol="MainLayout"/>
+        <entry filename="c:\\Users\\spgal\\Documents\\Projects\\test\\bin\\gen\\006-B4062-00\\source\\Rez.mcgen" id="20" lineNum="16" parent="globals/Rez/Layouts" pc="268477602" symbol="MainLayout"/>
+        <entry filename="c:\\Users\\spgal\\Documents\\Projects\\test\\bin\\gen\\006-B4062-00\\source\\Rez.mcgen" id="20" lineNum="18" parent="globals/Rez/Layouts" pc="268477652" symbol="MainLayout"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="24" method="true" symbol="getCity"/>
+        <entry field="true" id="17" symbol="locationPopulationWritten"/>
+        <entry id="25" method="true" symbol="getCity"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-        <entry field="true" id="19" symbol="nextGemeinde"/>
-        <entry id="27" method="true" symbol="MainLayout"/>
-        <entry id="20" method="true" symbol="onPosition"/>
+        <entry field="true" id="20" symbol="nextGemeinde"/>
+        <entry id="28" method="true" symbol="MainLayout"/>
+        <entry id="21" method="true" symbol="onPosition"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="28" symbol="AppName"/>
+        <entry field="true" id="29" symbol="AppName"/>
         <entry field="true" id="8389807" symbol="data"/>
         <entry id="6" module="true" symbol="globals/Rez/Strings"/>
         <entry field="true" id="14" symbol="gemeinde"/>
         <entry id="8389345" symbol="rezId"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="3" module="true" symbol="globals/Rez"/>
-        <entry field="true" id="26" symbol="id_monkey"/>
+        <entry field="true" id="27" symbol="id_monkey"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
@@ -110,16 +114,16 @@
         <entry id="8388644" module="true" symbol="System"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry id="8388640" module="true" symbol="Lang"/>
-        <entry field="true" id="25" symbol="LauncherIcon"/>
+        <entry field="true" id="26" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
         <entry id="9" object="true" symbol="testView"/>
         <entry id="8389350" module="true" symbol="globals"/>
-        <entry field="true" id="18" symbol="myTimer"/>
+        <entry field="true" id="19" symbol="myTimer"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry field="true" id="17" symbol="myLocation"/>
-        <entry id="23" method="true" symbol="allCities"/>
-        <entry id="21" method="true" symbol="onTick"/>
+        <entry field="true" id="18" symbol="myLocation"/>
+        <entry id="24" method="true" symbol="allCities"/>
+        <entry id="22" method="true" symbol="onTick"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry id="13" method="true" symbol="distanceToCurrent"/>
@@ -128,7 +132,7 @@
         <entry field="true" id="16" symbol="locationPopulation"/>
         <entry id="7" module="true" symbol="Cities"/>
         <entry id="8388646" module="true" object="true" symbol="Timer"/>
-        <entry id="22" module="true" symbol="Layouts"/>
+        <entry id="23" module="true" symbol="Layouts"/>
         <entry id="8388642" module="true" symbol="Position"/>
         <entry id="8389125" method="true" symbol="onHide"/>
         <entry id="8388635" module="true" symbol="Application"/>
@@ -146,12 +150,12 @@
         <entry endPc="268476994" name="dLat" stackId="5" startPc="268476953"/>
         <entry endPc="268476994" name="dLon" stackId="6" startPc="268476953"/>
         <entry endPc="268476994" name="distance" stackId="7" startPc="268476953"/>
-        <entry arg="true" endPc="268477310" name="dc" stackId="1" startPc="268477098"/>
-        <entry endPc="268477264" name="populationThousands" stackId="2" startPc="268477134"/>
-        <entry endPc="268477264" name="locationText" stackId="3" startPc="268477134"/>
-        <entry arg="true" endPc="268477417" name="name" stackId="1" startPc="268477376"/>
-        <entry arg="true" endPc="268477575" name="dc" stackId="1" startPc="268477418"/>
-        <entry endPc="268477575" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268477429"/>
+        <entry arg="true" endPc="268477396" name="dc" stackId="1" startPc="268477098"/>
+        <entry endPc="268477350" name="populationQuantifier" stackId="2" startPc="268477134"/>
+        <entry endPc="268477350" name="locationText" stackId="3" startPc="268477134"/>
+        <entry arg="true" endPc="268477503" name="name" stackId="1" startPc="268477462"/>
+        <entry arg="true" endPc="268477661" name="dc" stackId="1" startPc="268477504"/>
+        <entry endPc="268477661" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268477515"/>
     </localVars>
     <deviceInfo deviceVersion="de121dfa604491767422db2c3063530f8fd6465b" partNumber="006-B4062-00"/>
     <annotations>
@@ -162,12 +166,12 @@
     <dataEntryOffsetMappings>
         <dataEntry label="globals" offset="67" parentId="" symbolId="globals" type="module"/>
         <dataEntry label="globals/testView" offset="143" parentId="globals" symbolId="testView" type="class"/>
-        <dataEntry label="globals/Rez" offset="331" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry label="globals/testApp" offset="384" parentId="globals" symbolId="testApp" type="class"/>
-        <dataEntry label="globals/Cities" offset="455" parentId="globals" symbolId="Cities" type="module"/>
-        <dataEntry label="globals/Rez/Drawables" offset="508" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="552" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="587" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez" offset="340" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/testApp" offset="393" parentId="globals" symbolId="testApp" type="class"/>
+        <dataEntry label="globals/Cities" offset="464" parentId="globals" symbolId="Cities" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="517" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="561" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="596" parentId="Rez" symbolId="Strings" type="module"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" endPc="268435471" name="&lt;init&gt;" parent="testView" startPc="268435460">
@@ -212,7 +216,7 @@
         <functionEntry accessMode="public" endPc="268477097" name="onHide" parent="testView" startPc="268477063">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268477310" name="onUpdate" parent="testView" startPc="268477098">
+        <functionEntry accessMode="public" endPc="268477396" name="onUpdate" parent="testView" startPc="268477098">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
@@ -225,28 +229,28 @@
         <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268477313" name="onStart" parent="testApp" startPc="268477311">
+        <functionEntry accessMode="public" endPc="268477399" name="onStart" parent="testApp" startPc="268477397">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268477341" name="getInitialView" parent="testApp" startPc="268477314">
+        <functionEntry accessMode="public" endPc="268477427" name="getInitialView" parent="testApp" startPc="268477400">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268477356" name="initialize" parent="testApp" startPc="268477342">
+        <functionEntry accessMode="public" endPc="268477442" name="initialize" parent="testApp" startPc="268477428">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268477359" name="onStop" parent="testApp" startPc="268477357">
+        <functionEntry accessMode="public" endPc="268477445" name="onStop" parent="testApp" startPc="268477443">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268477375" name="allCities" parent="Cities" startPc="268477360">
+        <functionEntry accessMode="public" endPc="268477461" name="allCities" parent="Cities" startPc="268477446">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268477417" name="getCity" parent="Cities" startPc="268477376">
+        <functionEntry accessMode="public" endPc="268477503" name="getCity" parent="Cities" startPc="268477462">
             <param id="name"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268477575" name="MainLayout" parent="Layouts" startPc="268477418">
+        <functionEntry accessMode="public" endPc="268477661" name="MainLayout" parent="Layouts" startPc="268477504">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
