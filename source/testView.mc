@@ -71,7 +71,7 @@ class testView extends WatchUi.View {
             }
 
              if (locationName != null){
-                locationText = "You are in/near: " + locationName;
+                locationText = "You are in/near: \n" + locationName;
              }else{
                 locationText = "Checking location in database...";
              }
@@ -79,19 +79,22 @@ class testView extends WatchUi.View {
             if (locationPopulationWritten != null){
                 populationText =  "\nPopulation: " + locationPopulationWritten + populationQuantifier; 
             }else{
-                populationText = "\nHow many people live here???";
+                populationText = "\nChecking population in database...";
             }
             
             if (currentAFD == null){
-                afdText = "\nUnknown AFD";
+                afdText = "";
             }else{
                 afdText =  "\nCurrent AFD: " + currentAFD + " %\n";
                 
-                if(currentAFD < 10){
-                    afdText = afdText + "\nNot bad, don't let your guard down";
+                if(currentAFD == 0){
+                    afdText = afdText + "\nDon't let your guard down! AFD didn't run here \n";
                 }
-                if(currentAFD >= 10 && currentAFD <= 20){
-                    afdText = afdText + "\nBelow the national average \nFor now...";
+                if(currentAFD > 0 && currentAFD <= 10){
+                    afdText = afdText + "\nPretty safe, but there are still some Nazi's";
+                }
+                if(currentAFD > 10 && currentAFD <= 20){
+                    afdText = afdText + "\nStill below the national average :)";
                 }
                 if(currentAFD >= 20 && currentAFD <= 30){
                     afdText = afdText + "\nAchtung! Be careful with the Nazi's";

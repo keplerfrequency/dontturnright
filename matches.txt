@@ -10,6 +10,7 @@ Dortmund, Stadt (Teil) <-> Dortmund
 Bremen, Stadt (Teil) <-> Bremen
 Essen, Stadt (Teil) <-> Essen
 Dresden, Stadt (Teil) <-> Dresden
+Nürnberg <-> Nürnberg
 Hannover, Landeshauptstadt (Teil) <-> Hannover
 Duisburg, Stadt (Teil) <-> Duisburg
 Wuppertal, Stadt (Teil) <-> Wuppertal
@@ -41,6 +42,7 @@ Hagen <-> Hagen
 Potsdam, Stadt <-> Potsdam
 Saarbrücken, Landeshauptstadt <-> Saarbrücken
 Hamm, Stadt <-> Hamm
+Oldenburg (Oldenburg), Stadt <-> Oldenburg (Oldenburg)
 Ludwigshafen am Rhein, Stadt <-> Ludwigshafen am Rhein
 Mülheim an der Ruhr, Stadt <-> Mülheim an der Ruhr
 Leverkusen, Stadt <-> Leverkusen
@@ -4357,6 +4359,7 @@ Attenkirchen <-> Attenkirchen
 Sontheim <-> Sontheim
 St. Peter <-> St. Peter
 Grafling <-> Grafling
+Tellingstedt <-> Tellingstedt
 Lengdorf <-> Lengdorf
 Adelheidsdorf <-> Adelheidsdorf
 Großpostwitz/O.L. / Budestecy <-> Großpostwitz/O.L. / Budestecy
