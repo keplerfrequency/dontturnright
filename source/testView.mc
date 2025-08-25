@@ -12,6 +12,7 @@ class testView extends WatchUi.View {
     var locationName;
     var locationPopulation;
     var locationPopulationWritten;
+    var currentAFD;
 
     //var Uckermunde = [14.046489,53.736513];
     //var Pasewalk = [13.990282,53.505112];
@@ -67,7 +68,7 @@ class testView extends WatchUi.View {
                 }
             }
 
-            var locationText = locationName + "\nPopulation: " + locationPopulationWritten + populationQuantifier + "\nLat: " + myLocation[0] + "\nLon: " + myLocation[1];
+            var locationText = locationName + "\nPopulation: " + locationPopulationWritten + populationQuantifier + "\nCurrent AFD: " + currentAFD + " %" +"\nLat: " + myLocation[0] + "\nLon: " + myLocation[1];
             dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, locationText, Graphics.TEXT_JUSTIFY_CENTER);
         } else {
             dc.drawText(dc.getWidth()/2, dc.getHeight()/2 + 30, Graphics.FONT_SMALL, "Getting GPS...", Graphics.TEXT_JUSTIFY_CENTER);
@@ -106,6 +107,7 @@ class testView extends WatchUi.View {
                 System.println("Closest is " + closestGemeinde[0] + " (" + minDistance + " m)");
                 locationName = closestGemeinde[0];
                 locationPopulation = closestGemeinde[3];
+                currentAFD = closestGemeinde[4];
             }
   
         }else {

@@ -1,0 +1,4566 @@
+Berlin <-> Berlin
+Hamburg <-> Hamburg
+München, Landeshauptstadt (Teil) <-> München
+Köln, Stadt (Teil) <-> Köln
+Frankfurt am Main, Stadt (Teil) <-> Frankfurt am Main
+Düsseldorf, Stadt (Teil) <-> Düsseldorf
+Stuttgart, Landeshauptstadt (Teil) <-> Stuttgart
+Leipzig, Stadt (Teil) <-> Leipzig
+Dortmund, Stadt (Teil) <-> Dortmund
+Bremen, Stadt (Teil) <-> Bremen
+Essen, Stadt (Teil) <-> Essen
+Dresden, Stadt (Teil) <-> Dresden
+Hannover, Landeshauptstadt (Teil) <-> Hannover
+Duisburg, Stadt (Teil) <-> Duisburg
+Wuppertal, Stadt (Teil) <-> Wuppertal
+Bochum, Stadt (Teil) <-> Bochum
+Bielefeld, Stadt <-> Bielefeld
+Bonn, Stadt <-> Bonn
+Mannheim, Universitätsstadt <-> Mannheim
+Karlsruhe, Stadt <-> Karlsruhe
+Münster <-> Münster
+Augsburg <-> Augsburg
+Wiesbaden, Landeshauptstadt <-> Wiesbaden
+Mönchengladbach, Stadt <-> Mönchengladbach
+Gelsenkirchen, Stadt <-> Gelsenkirchen
+Aachen, Stadt <-> Aachen
+Braunschweig, Stadt <-> Braunschweig
+Kiel, Landeshauptstadt <-> Kiel
+Chemnitz, Stadt <-> Chemnitz
+Magdeburg, Landeshauptstadt <-> Magdeburg
+Freiburg im Breisgau, Stadt <-> Freiburg im Breisgau
+Krefeld, Stadt (Teil) <-> Krefeld
+Halle (Saale), Stadt <-> Halle (Saale)
+Mainz, Stadt <-> Mainz
+Erfurt, Stadt <-> Erfurt
+Lübeck, Hansestadt <-> Lübeck
+Oberhausen <-> Oberhausen
+Rostock, Hanse- und Universitätsstadt <-> Rostock
+Kassel, documenta-Stadt <-> Kassel
+Hagen <-> Hagen
+Potsdam, Stadt <-> Potsdam
+Saarbrücken, Landeshauptstadt <-> Saarbrücken
+Hamm, Stadt <-> Hamm
+Ludwigshafen am Rhein, Stadt <-> Ludwigshafen am Rhein
+Mülheim an der Ruhr, Stadt <-> Mülheim an der Ruhr
+Leverkusen, Stadt <-> Leverkusen
+Solingen, Klingenstadt <-> Solingen
+Osnabrück, Stadt <-> Osnabrück
+Darmstadt, Wissenschaftsstadt <-> Darmstadt
+Paderborn, Stadt <-> Paderborn
+Herne, Stadt <-> Herne
+Heidelberg, Stadt <-> Heidelberg
+Neuss, Stadt <-> Neuss
+Regensburg <-> Regensburg
+Ingolstadt <-> Ingolstadt
+Pforzheim, Stadt <-> Pforzheim
+Offenbach am Main, Stadt <-> Offenbach am Main
+Würzburg <-> Würzburg
+Fürth <-> Fürth
+Heilbronn, Universitätsstadt <-> Heilbronn
+Wolfsburg, Stadt <-> Wolfsburg
+Ulm, Universitätsstadt <-> Ulm
+Göttingen, Stadt <-> Göttingen
+Bottrop, Stadt <-> Bottrop
+Reutlingen, Stadt <-> Reutlingen
+Bremerhaven, Stadt <-> Bremerhaven
+Recklinghausen, Stadt <-> Recklinghausen
+Erlangen <-> Erlangen
+Remscheid, Stadt <-> Remscheid
+Koblenz, Stadt <-> Koblenz
+Bergisch Gladbach, Stadt <-> Bergisch Gladbach
+Jena, Stadt <-> Jena
+Salzgitter, Stadt <-> Salzgitter
+Trier, Stadt <-> Trier
+Siegen, Universitätsstadt <-> Siegen
+Moers, Stadt <-> Moers
+Kaiserslautern, Stadt <-> Kaiserslautern
+Gütersloh, Stadt <-> Gütersloh
+Hildesheim, Stadt <-> Hildesheim
+Schwerin <-> Schwerin
+Hanau, Brüder-Grimm-Stadt <-> Hanau
+Esslingen am Neckar, Stadt <-> Esslingen am Neckar
+Flensburg, Stadt <-> Flensburg
+Gera, Stadt <-> Gera
+Cottbus/Chóśebuz, Stadt <-> Cottbus/Chóśebuz
+Düren, Stadt <-> Düren
+Ludwigsburg, Stadt <-> Ludwigsburg
+Witten, Stadt <-> Witten
+Iserlohn, Stadt <-> Iserlohn
+Tübingen, Universitätsstadt <-> Tübingen
+Villingen-Schwenningen, Stadt <-> Villingen-Schwenningen
+Gießen, Universitätsstadt <-> Gießen
+Ratingen, Stadt <-> Ratingen
+Zwickau, Stadt, Hochschulstadt <-> Zwickau
+Konstanz, Universitätsstadt <-> Konstanz
+Marl <-> Marl
+Worms, Stadt <-> Worms
+Lünen, Stadt <-> Lünen
+Minden <-> Minden
+Velbert, Stadt <-> Velbert
+Norderstedt, Stadt <-> Norderstedt
+Delmenhorst, Stadt <-> Delmenhorst
+Neumünster, Stadt <-> Neumünster
+Viersen, Stadt <-> Viersen
+Rheine, Stadt <-> Rheine
+Dorsten, Stadt <-> Dorsten
+Dessau-Roßlau, Stadt <-> Dessau-Roßlau
+Wilhelmshaven, Stadt <-> Wilhelmshaven
+Troisdorf, Stadt <-> Troisdorf
+Gladbeck, Stadt <-> Gladbeck
+Bamberg <-> Bamberg
+Arnsberg, Stadt <-> Arnsberg
+Lüneburg, Hansestadt <-> Lüneburg
+Detmold, Stadt <-> Detmold
+Brandenburg an der Havel, Stadt <-> Brandenburg an der Havel
+Castrop-Rauxel, Stadt <-> Castrop-Rauxel
+Marburg, Universitätsstadt <-> Marburg
+Bayreuth <-> Bayreuth
+Bocholt, Stadt <-> Bocholt
+Aschaffenburg <-> Aschaffenburg
+Lüdenscheid, Stadt <-> Lüdenscheid
+Landshut <-> Landshut
+Lippstadt, Stadt <-> Lippstadt
+Aalen, Stadt <-> Aalen
+Herford, Hansestadt <-> Herford
+Dinslaken, Stadt <-> Dinslaken
+Celle, Stadt <-> Celle
+Neuwied, Stadt <-> Neuwied
+Kerpen, Kolpingstadt <-> Kerpen
+Plauen, Stadt <-> Plauen
+Kempten (Allgäu) <-> Kempten (Allgäu)
+Fulda, Stadt <-> Fulda
+Rüsselsheim am Main, Stadt <-> Rüsselsheim am Main
+Grevenbroich, Stadt <-> Grevenbroich
+Weimar, Stadt <-> Weimar
+Rosenheim <-> Rosenheim
+Dormagen, Stadt <-> Dormagen
+Schwäbisch Gmünd, Stadt <-> Schwäbisch Gmünd
+Offenburg, Stadt <-> Offenburg
+Friedrichshafen, Stadt <-> Friedrichshafen
+Neu-Ulm, GKSt <-> Neu-Ulm
+Hürth, Stadt <-> Hürth
+Bergheim <-> Bergheim
+Sindelfingen, Stadt <-> Sindelfingen
+Herten, Stadt <-> Herten
+Neubrandenburg, Vier-Tore-Stadt <-> Neubrandenburg
+Wesel, Stadt <-> Wesel
+Garbsen, Stadt <-> Garbsen
+Unna, Stadt <-> Unna
+Langenfeld (Rheinland), Stadt <-> Langenfeld (Rheinland)
+Euskirchen, Stadt <-> Euskirchen
+Göppingen, Stadt <-> Göppingen
+Hameln, Stadt <-> Hameln
+Eschweiler, Stadt <-> Eschweiler
+Stolberg (Rhld.), Kupferstadt <-> Stolberg (Rhld.)
+Waiblingen, Stadt <-> Waiblingen
+Meerbusch, Stadt <-> Meerbusch
+Frankfurt (Oder), Stadt <-> Frankfurt (Oder)
+Nordhorn, Stadt <-> Nordhorn
+Sankt Augustin, Stadt <-> Sankt Augustin
+Baden-Baden, Stadt <-> Baden-Baden
+Greifswald, Universitäts- und Hansestadt <-> Greifswald
+Pulheim, Stadt <-> Pulheim
+Lingen (Ems), Stadt <-> Lingen (Ems)
+Bad Homburg v. d. Höhe, Stadt <-> Bad Homburg v. d. Höhe
+Görlitz, Stadt, Hochschulstadt <-> Görlitz
+Hilden, Stadt <-> Hilden
+Langenhagen, Stadt <-> Langenhagen
+Wetzlar, Stadt <-> Wetzlar
+Stralsund, Hansestadt <-> Stralsund
+Bad Salzuflen, Stadt <-> Bad Salzuflen
+Schweinfurt <-> Schweinfurt
+Bad Kreuznach, Stadt <-> Bad Kreuznach
+Hattingen, Stadt <-> Hattingen
+Ahlen, Stadt <-> Ahlen
+Passau <-> Passau
+Kleve <-> Kleve
+Neustadt an der Weinstraße, Stadt <-> Neustadt an der Weinstraße
+Wolfenbüttel, Stadt <-> Wolfenbüttel
+Frechen, Stadt <-> Frechen
+Menden (Sauerland), Stadt <-> Menden (Sauerland)
+Ibbenbüren, Stadt <-> Ibbenbüren
+Elmshorn, Stadt <-> Elmshorn
+Böblingen, Stadt <-> Böblingen
+Gummersbach, Stadt <-> Gummersbach
+Rastatt, Stadt <-> Rastatt
+Peine, Stadt <-> Peine
+Ravensburg, Stadt <-> Ravensburg
+Bad Oeynhausen, Stadt <-> Bad Oeynhausen
+Lörrach, Stadt <-> Lörrach
+Heidenheim an der Brenz, Stadt <-> Heidenheim an der Brenz
+Gronau (Westf.), Stadt <-> Gronau (Westf.)
+Lahr/Schwarzwald, Stadt <-> Lahr/Schwarzwald
+Cuxhaven, Stadt <-> Cuxhaven
+Speyer, Stadt <-> Speyer
+Emden, Stadt <-> Emden
+Willich, Stadt <-> Willich
+Bergkamen, Stadt <-> Bergkamen
+Leonberg <-> Leonberg
+Alsdorf <-> Alsdorf
+Oranienburg, Stadt <-> Oranienburg
+Stade, Hansestadt <-> Stade
+Freising, GKSt <-> Freising
+Erftstadt, Stadt <-> Erftstadt
+Rheda-Wiedenbrück, Stadt <-> Rheda-Wiedenbrück
+Hennef (Sieg), Stadt <-> Hennef (Sieg)
+Landau in der Pfalz, Stadt <-> Landau in der Pfalz
+Herzogenrath, Stadt <-> Herzogenrath
+Frankenthal (Pfalz), Stadt <-> Frankenthal (Pfalz)
+Bornheim <-> Bornheim
+Dülmen, Stadt <-> Dülmen
+Goslar, Stadt <-> Goslar
+Bruchsal, Stadt <-> Bruchsal
+Neunkirchen <-> Neunkirchen
+Straubing <-> Straubing
+Soest, Stadt <-> Soest
+Singen (Hohentwiel), Stadt <-> Singen (Hohentwiel)
+Fellbach, Stadt <-> Fellbach
+Albstadt, Stadt <-> Albstadt
+Gotha, Stadt <-> Gotha
+Bünde, Stadt <-> Bünde
+Hof <-> Hof
+Oberursel (Taunus), Stadt <-> Oberursel (Taunus)
+Melle, Stadt <-> Melle
+Dachau, GKSt <-> Dachau
+Kaufbeuren <-> Kaufbeuren
+Filderstadt, Stadt <-> Filderstadt
+Schwerte, Hansestadt an der Ruhr <-> Schwerte
+Weinheim, Stadt <-> Weinheim
+Rottenburg am Neckar, Stadt <-> Rottenburg am Neckar
+Brühl <-> Brühl
+Wittenberg, Lutherstadt <-> Wittenberg
+Rodgau, Stadt <-> Rodgau
+Erkelenz, Stadt <-> Erkelenz
+Falkensee, Stadt <-> Falkensee
+Pinneberg, Stadt <-> Pinneberg
+Neustadt am Rübenberge, Stadt <-> Neustadt am Rübenberge
+Bernau bei Berlin, Stadt <-> Bernau bei Berlin
+Memmingen <-> Memmingen
+Lehrte, Stadt <-> Lehrte
+Seevetal <-> Seevetal
+Erkrath, Fundort des Neanderthalers, Stadt <-> Erkrath
+Bietigheim-Bissingen, Stadt <-> Bietigheim-Bissingen
+Wismar, Hansestadt <-> Wismar
+Homburg, Kreisstadt <-> Homburg
+Kaarst, Stadt <-> Kaarst
+Heinsberg, Stadt <-> Heinsberg
+Monheim am Rhein, Stadt <-> Monheim am Rhein
+Borken, Stadt <-> Borken
+Gifhorn, Stadt <-> Gifhorn
+Weiden i.d.OPf. <-> Weiden i.d.OPf.
+Kirchheim unter Teck, Stadt <-> Kirchheim unter Teck
+Kamen, Stadt <-> Kamen
+Aurich, Stadt <-> Aurich
+Schwäbisch Hall, Stadt <-> Schwäbisch Hall
+Siegburg, Stadt <-> Siegburg
+Amberg <-> Amberg
+Nettetal, Stadt <-> Nettetal
+Laatzen, Stadt <-> Laatzen
+Dreieich, Stadt <-> Dreieich
+Buchholz in der Nordheide, Stadt <-> Buchholz in der Nordheide
+Bensheim, Stadt <-> Bensheim
+Hückelhoven, Stadt <-> Hückelhoven
+Schorndorf <-> Schorndorf
+Freiberg, Stadt, Universitätsstadt <-> Freiberg
+Eberswalde, Stadt <-> Eberswalde
+Wunstorf, Stadt <-> Wunstorf
+Nordhausen, Stadt <-> Nordhausen
+Leinfelden-Echterdingen, Stadt <-> Leinfelden-Echterdingen
+Schwabach <-> Schwabach
+Coburg <-> Coburg
+Neumarkt i.d.OPf., GKSt <-> Neumarkt i.d.OPf.
+Löhne, Stadt <-> Löhne
+Eisenach <-> Eisenach
+Buxtehude, Hansestadt <-> Buxtehude
+Nürtingen, Stadt <-> Nürtingen
+Völklingen, Stadt <-> Völklingen
+Königswinter, Stadt <-> Königswinter
+Germering, GKSt <-> Germering
+Pirna, Stadt <-> Pirna
+Ahaus, Stadt <-> Ahaus
+Lemgo, Stadt <-> Lemgo
+Würselen, Stadt <-> Würselen
+Ansbach <-> Ansbach
+Ostfildern, Stadt <-> Ostfildern
+Pirmasens, Stadt <-> Pirmasens
+Mettmann, Stadt <-> Mettmann
+Kehl, Stadt <-> Kehl
+Freital, Stadt <-> Freital
+Hofheim am Taunus, Kreisstadt <-> Hofheim am Taunus
+Ilmenau, Stadt <-> Ilmenau
+Königs Wusterhausen, Stadt <-> Königs Wusterhausen
+Maintal, Stadt <-> Maintal
+Backnang, Stadt <-> Backnang
+Ettlingen, Stadt <-> Ettlingen
+Niederkassel, Stadt <-> Niederkassel
+Langen (Hessen), Stadt <-> Langen (Hessen)
+Weißenfels, Stadt <-> Weißenfels
+Haltern am See, Stadt <-> Haltern am See
+Greven <-> Greven
+Coesfeld, Stadt <-> Coesfeld
+Kamp-Lintfort, Stadt <-> Kamp-Lintfort
+Bautzen / Budyšin, Stadt <-> Bautzen / Budyšin
+Saarlouis, Kreisstadt <-> Saarlouis
+Halberstadt, Stadt <-> Halberstadt
+Wesseling, Stadt <-> Wesseling
+Stendal, Hansestadt <-> Stendal
+Warendorf, Stadt <-> Warendorf
+Neu-Isenburg, Hugenotten- und Waldenserstadt <-> Neu-Isenburg
+Papenburg, Stadt <-> Papenburg
+Sinsheim, Stadt <-> Sinsheim
+Tuttlingen, Stadt <-> Tuttlingen
+Beckum, Stadt <-> Beckum
+Fürstenfeldbruck, GKSt <-> Fürstenfeldbruck
+Erding, GKSt <-> Erding
+Bitterfeld-Wolfen, Stadt <-> Bitterfeld-Wolfen
+Winsen (Luhe), Stadt <-> Winsen (Luhe)
+Meppen, Stadt <-> Meppen
+Porta Westfalica, Stadt <-> Porta Westfalica
+Cloppenburg, Stadt <-> Cloppenburg
+Mühlhausen/Thüringen, Stadt <-> Mühlhausen/Thüringen
+Suhl, Stadt <-> Suhl
+Limburg a. d. Lahn, Kreisstadt <-> Limburg a. d. Lahn
+Emsdetten, Stadt <-> Emsdetten
+Voerde (Niederrhein), Stadt <-> Voerde (Niederrhein)
+St. Ingbert, Stadt <-> St. Ingbert
+Bad Vilbel, Stadt <-> Bad Vilbel
+Dietzenbach, Kreisstadt <-> Dietzenbach
+Datteln, Stadt <-> Datteln
+Balingen, Stadt <-> Balingen
+Crailsheim, Stadt <-> Crailsheim
+Ingelheim am Rhein, Stadt <-> Ingelheim am Rhein
+Hemer, Stadt <-> Hemer
+Geldern, Stadt <-> Geldern
+Rheinfelden (Baden), Stadt <-> Rheinfelden (Baden)
+Lage <-> Lage
+Goch, Stadt <-> Goch
+Wedel, Stadt <-> Wedel
+Jülich, Stadt <-> Jülich
+Deggendorf, GKSt <-> Deggendorf
+Korschenbroich, Stadt <-> Korschenbroich
+Steinfurt, Stadt <-> Steinfurt
+Seelze, Stadt <-> Seelze
+Biberach an der Riß, Stadt <-> Biberach an der Riß
+Wermelskirchen, Stadt <-> Wermelskirchen
+Ahrensburg, Stadt <-> Ahrensburg
+Kempen, Stadt <-> Kempen
+Merseburg, Stadt <-> Merseburg
+Viernheim, Stadt <-> Viernheim
+Herrenberg, Stadt <-> Herrenberg
+Leer (Ostfriesland), Stadt <-> Leer (Ostfriesland)
+Kornwestheim, Stadt <-> Kornwestheim
+Barsinghausen, Stadt <-> Barsinghausen
+Stuhr <-> Stuhr
+Schwedt/Oder, Stadt <-> Schwedt/Oder
+Vechta, Stadt <-> Vechta
+Zweibrücken, Stadt <-> Zweibrücken
+Geesthacht, Stadt <-> Geesthacht
+Radebeul, Stadt <-> Radebeul
+Forchheim <-> Forchheim
+Uelzen, Hansestadt <-> Uelzen
+Bad Nauheim, Stadt <-> Bad Nauheim
+Achim, Stadt <-> Achim
+Nienburg (Weser), Stadt <-> Nienburg (Weser)
+Itzehoe, Stadt <-> Itzehoe
+Wernigerode, Stadt <-> Wernigerode
+Lampertheim, Stadt <-> Lampertheim
+Naumburg (Saale), Stadt <-> Naumburg (Saale)
+Mörfelden-Walldorf, Stadt <-> Mörfelden-Walldorf
+Fürstenwalde/Spree, Stadt <-> Fürstenwalde/Spree
+Weil am Rhein, Stadt <-> Weil am Rhein
+Neuruppin, Stadt <-> Neuruppin
+Delbrück, Stadt <-> Delbrück
+Merzig, Kreisstadt <-> Merzig
+Emmerich am Rhein, Stadt <-> Emmerich am Rhein
+Radolfzell am Bodensee, Stadt <-> Radolfzell am Bodensee
+Georgsmarienhütte, Stadt <-> Georgsmarienhütte
+Oer-Erkenschwick, Stadt <-> Oer-Erkenschwick
+Ganderkesee <-> Ganderkesee
+Rheinberg, Stadt <-> Rheinberg
+Burgdorf <-> Burgdorf
+Bernburg (Saale), Stadt <-> Bernburg (Saale)
+Walsrode, Stadt <-> Walsrode
+Geestland, Stadt <-> Geestland
+Hoyerswerda / Wojerecy, Stadt <-> Hoyerswerda / Wojerecy
+Altenburg, Stadt <-> Altenburg
+Lohmar, Stadt <-> Lohmar
+Weyhe <-> Weyhe
+Kreuztal, Stadt <-> Kreuztal
+Bad Hersfeld, Kreisstadt <-> Bad Hersfeld
+Rendsburg, Stadt <-> Rendsburg
+Schönebeck (Elbe), Stadt <-> Schönebeck (Elbe)
+Werne, Stadt <-> Werne
+Neuburg a.d.Donau, GKSt <-> Neuburg a.d.Donau
+Bretten, Stadt <-> Bretten
+Idar-Oberstein, Stadt <-> Idar-Oberstein
+Taunusstein, Stadt <-> Taunusstein
+Haan, Stadt <-> Haan
+Andernach, Stadt <-> Andernach
+Oelde, Stadt <-> Oelde
+Gevelsberg, Stadt <-> Gevelsberg
+Rietberg, Stadt <-> Rietberg
+Osterholz-Scharmbeck, Stadt <-> Osterholz-Scharmbeck
+Friedberg, St <-> Friedberg
+Werl, Stadt <-> Werl
+Einbeck, Stadt <-> Einbeck
+Bad Zwischenahn <-> Bad Zwischenahn
+Winnenden, Stadt <-> Winnenden
+Friedberg (Hessen), Kreisstadt <-> Friedberg (Hessen)
+Schwandorf, GKSt <-> Schwandorf
+Meschede, Kreis- und  Hochschulstadt <-> Meschede
+Wedemark <-> Wedemark
+Gaggenau, Stadt <-> Gaggenau
+Ennepetal, Stadt der Kluterthöhle <-> Ennepetal
+Emmendingen, Stadt <-> Emmendingen
+Riesa, Stadt <-> Riesa
+Saalfeld/Saale, Stadt <-> Saalfeld/Saale
+Waltrop, Stadt <-> Waltrop
+Griesheim, Stadt <-> Griesheim
+Blankenfelde-Mahlow <-> Blankenfelde-Mahlow
+Baesweiler, Stadt <-> Baesweiler
+Mühlheim am Main, Stadt <-> Mühlheim am Main
+Mechernich, Stadt <-> Mechernich
+Ludwigsfelde, Stadt <-> Ludwigsfelde
+Tönisvorst, Stadt <-> Tönisvorst
+Bramsche, Stadt <-> Bramsche
+Meißen, Stadt <-> Meißen
+Güstrow, Barlachstadt <-> Güstrow
+Bühl, Stadt <-> Bühl
+Vaihingen an der Enz, Stadt <-> Vaihingen an der Enz
+Rödermark, Stadt <-> Rödermark
+Landsberg am Lech, GKSt <-> Landsberg am Lech
+Rösrath, Stadt <-> Rösrath
+Springe, Stadt <-> Springe
+Zeitz, Stadt <-> Zeitz
+Geilenkirchen, Stadt <-> Geilenkirchen
+Arnstadt, Stadt <-> Arnstadt
+Unterschleißheim, St <-> Unterschleißheim
+Hattersheim am Main, Stadt <-> Hattersheim am Main
+Kelkheim (Taunus), Stadt <-> Kelkheim (Taunus)
+Garmisch-Partenkirchen, M <-> Garmisch-Partenkirchen
+Kevelaer, Stadt <-> Kevelaer
+Lohne (Oldenburg), Stadt <-> Lohne (Oldenburg)
+Höxter, Stadt <-> Höxter
+Reinbek, Stadt <-> Reinbek
+Henstedt-Ulzburg <-> Henstedt-Ulzburg
+Schwelm, Stadt <-> Schwelm
+Königsbrunn, St <-> Königsbrunn
+Wangen im Allgäu, Stadt <-> Wangen im Allgäu
+Leichlingen (Rheinland), Blütenstadt <-> Leichlingen (Rheinland)
+Heppenheim (Bergstraße), Kreisstadt <-> Heppenheim (Bergstraße)
+Geislingen an der Steige, Stadt <-> Geislingen an der Steige
+Baunatal, Stadt <-> Baunatal
+Ehingen (Donau), Stadt <-> Ehingen (Donau)
+Grimma, Stadt <-> Grimma
+Sundern (Sauerland), Stadt <-> Sundern (Sauerland)
+Wegberg, Stadt <-> Wegberg
+Northeim, Stadt <-> Northeim
+Wiesloch, Stadt <-> Wiesloch
+Strausberg, Stadt <-> Strausberg
+Teltow, Stadt <-> Teltow
+Olching, St <-> Olching
+Neukirchen-Vluyn, Stadt <-> Neukirchen-Vluyn
+Bad Neuenahr-Ahrweiler, Stadt <-> Bad Neuenahr-Ahrweiler
+Verden (Aller), Stadt <-> Verden (Aller)
+Weinstadt, Stadt <-> Weinstadt
+Werder (Havel), Stadt <-> Werder (Havel)
+Leimen <-> Leimen
+Hamminkeln, Stadt <-> Hamminkeln
+Rheinbach, Stadt <-> Rheinbach
+Butzbach, Friedrich-Ludwig-Weidig-Stadt <-> Butzbach
+Mühlacker, Stadt <-> Mühlacker
+Lübbecke, Stadt <-> Lübbecke
+Hennigsdorf, Stadt <-> Hennigsdorf
+Hohen Neuendorf, Stadt <-> Hohen Neuendorf
+Overath, Stadt <-> Overath
+Weiterstadt, Stadt <-> Weiterstadt
+Unterhaching <-> Unterhaching
+Zirndorf, St <-> Zirndorf
+Heiligenhaus, Stadt <-> Heiligenhaus
+Achern, Stadt <-> Achern
+Neckarsulm, Stadt <-> Neckarsulm
+Kulmbach, GKSt <-> Kulmbach
+Wetter (Ruhr), Stadt <-> Wetter (Ruhr)
+Selm, Stadt <-> Selm
+Remseck am Neckar, Stadt <-> Remseck am Neckar
+Schloß Holte-Stukenbrock, Stadt <-> Schloß Holte-Stukenbrock
+Nordenham, Stadt <-> Nordenham
+Pfaffenhofen a.d.Ilm, St <-> Pfaffenhofen a.d.Ilm
+Delitzsch, Stadt <-> Delitzsch
+Geretsried, St <-> Geretsried
+Lauf a.d.Pegnitz, St <-> Lauf a.d.Pegnitz
+Friedrichsdorf, Philipp-Reis-Stadt <-> Friedrichsdorf
+Idstein, Hochschulstadt <-> Idstein
+Aschersleben, Stadt <-> Aschersleben
+Lindau (Bodensee), GKSt <-> Lindau (Bodensee)
+Espelkamp, Stadt <-> Espelkamp
+Verl, Stadt <-> Verl
+Horb am Neckar, Stadt <-> Horb am Neckar
+Sangerhausen, Stadt <-> Sangerhausen
+Waldkraiburg, St <-> Waldkraiburg
+Rinteln, Stadt <-> Rinteln
+Öhringen, Stadt <-> Öhringen
+Pfungstadt, Stadt <-> Pfungstadt
+Zittau, Stadt, Hochschulstadt <-> Zittau
+St. Wendel, Kreisstadt <-> St. Wendel
+Harsewinkel, Die Mähdrescherstadt <-> Harsewinkel
+Brilon, Stadt <-> Brilon
+Roth <-> Roth
+Markkleeberg, Stadt <-> Markkleeberg
+Petershagen, Stadt <-> Petershagen
+Helmstedt, Stadt <-> Helmstedt
+Meiningen, Stadt <-> Meiningen
+Salzkotten, Stadt <-> Salzkotten
+Obertshausen, Stadt <-> Obertshausen
+Groß-Gerau, Stadt <-> Groß-Gerau
+Schleswig, Stadt <-> Schleswig
+Eisenhüttenstadt, Stadt <-> Eisenhüttenstadt
+Bedburg, Stadt <-> Bedburg
+Syke, Stadt <-> Syke
+Waldshut-Tiengen, Stadt <-> Waldshut-Tiengen
+Wiehl, Stadt <-> Wiehl
+Norden, Stadt <-> Norden
+Stutensee, Stadt <-> Stutensee
+Rathenow, Stadt <-> Rathenow
+Warstein, Stadt <-> Warstein
+Bingen am Rhein, Stadt <-> Bingen am Rhein
+Lüdinghausen, Stadt <-> Lüdinghausen
+Rottweil, Stadt <-> Rottweil
+Bad Oldesloe, Stadt <-> Bad Oldesloe
+Bad Honnef, Stadt <-> Bad Honnef
+Calw, Stadt <-> Calw
+Weingarten, Stadt <-> Weingarten
+Rudolstadt, Stadt <-> Rudolstadt
+Ellwangen (Jagst), Stadt <-> Ellwangen (Jagst)
+Meckenheim <-> Meckenheim
+Varel, Stadt <-> Varel
+Olpe, Stadt <-> Olpe
+Schmallenberg, Stadt <-> Schmallenberg
+Mosbach, Stadt <-> Mosbach
+Plettenberg, Stadt <-> Plettenberg
+Haren (Ems), Stadt <-> Haren (Ems)
+Starnberg, St <-> Starnberg
+Wandlitz <-> Wandlitz
+Vaterstetten <-> Vaterstetten
+Freudenstadt, Stadt <-> Freudenstadt
+Lennestadt, Stadt <-> Lennestadt
+Sprockhövel, Stadt <-> Sprockhövel
+Herzogenaurach, St <-> Herzogenaurach
+Bad Mergentheim, Stadt <-> Bad Mergentheim
+Isernhagen <-> Isernhagen
+Übach-Palenberg, Stadt <-> Übach-Palenberg
+Jüchen, Stadt <-> Jüchen
+Köthen (Anhalt), Stadt <-> Köthen (Anhalt)
+Leutkirch im Allgäu, Stadt <-> Leutkirch im Allgäu
+Husum <-> Husum
+Westerstede, Stadt <-> Westerstede
+Alfter <-> Alfter
+Limbach-Oberfrohna, Stadt <-> Limbach-Oberfrohna
+Nagold, Stadt <-> Nagold
+Ronnenberg, Stadt <-> Ronnenberg
+Döbeln, Stadt <-> Döbeln
+Senftenberg/Zły Komorow, Stadt <-> Senftenberg/Zły Komorow
+Attendorn, Hansestadt <-> Attendorn
+Senden <-> Senden
+Hann. Münden, Stadt <-> Hann. Münden
+Staßfurt, Stadt <-> Staßfurt
+Sehnde, Stadt <-> Sehnde
+Moormerland <-> Moormerland
+Gersthofen, St <-> Gersthofen
+Riedstadt, Büchnerstadt <-> Riedstadt
+Warburg, Hansestadt <-> Warburg
+Quedlinburg, Welterbestadt <-> Quedlinburg
+Gelnhausen, Barbarossastadt, Kreisstadt <-> Gelnhausen
+Sonneberg, Stadt <-> Sonneberg
+Kaltenkirchen, Stadt <-> Kaltenkirchen
+Neu Wulmstorf <-> Neu Wulmstorf
+Netphen, Stadt <-> Netphen
+Weilheim i.OB, St <-> Weilheim i.OB
+Bad Kissingen, GKSt <-> Bad Kissingen
+Salzwedel, Hansestadt <-> Salzwedel
+Korbach, Hansestadt, Kreisstadt <-> Korbach
+Bad Soden am Taunus, Stadt <-> Bad Soden am Taunus
+Metzingen, Stadt <-> Metzingen
+Vreden, Stadt <-> Vreden
+Wertheim, Stadt <-> Wertheim
+Rotenburg (Wümme), Stadt <-> Rotenburg (Wümme)
+Dillenburg, Oranienstadt <-> Dillenburg
+Laupheim, Stadt <-> Laupheim
+Herdecke, Stadt <-> Herdecke
+Apolda, Stadt <-> Apolda
+Ditzingen, Stadt <-> Ditzingen
+Bad Salzungen, Stadt <-> Bad Salzungen
+Überlingen, Stadt <-> Überlingen
+Rastede <-> Rastede
+Bad Rappenau, Stadt <-> Bad Rappenau
+Kitzingen, GKSt <-> Kitzingen
+Ottobrunn <-> Ottobrunn
+Wallenhorst <-> Wallenhorst
+Eisleben, Lutherstadt <-> Eisleben
+Lengerich <-> Lengerich
+Neusäß, St <-> Neusäß
+Eppingen, Stadt <-> Eppingen
+Karben, Stadt <-> Karben
+Friesoythe, Stadt <-> Friesoythe
+Edewecht <-> Edewecht
+Quickborn <-> Quickborn
+Stadthagen, Stadt <-> Stadthagen
+Haar <-> Haar
+Burg, Stadt <-> Burg
+Eislingen/Fils, Stadt <-> Eislingen/Fils
+Waghäusel, Stadt <-> Waghäusel
+Soltau, Stadt <-> Soltau
+Eschborn, Stadt <-> Eschborn
+Mühldorf a.Inn, St <-> Mühldorf a.Inn
+Büdingen, Stadt <-> Büdingen
+Gardelegen, Hansestadt <-> Gardelegen
+Aichach, St <-> Aichach
+Gauting <-> Gauting
+Rees, Stadt <-> Rees
+Bad Krozingen, Stadt <-> Bad Krozingen
+Donaueschingen, Stadt <-> Donaueschingen
+Mössingen, Stadt <-> Mössingen
+Germersheim, Stadt <-> Germersheim
+Osterode am Harz, Stadt <-> Osterode am Harz
+Sonthofen, St <-> Sonthofen
+Wipperfürth, Hansestadt <-> Wipperfürth
+Glauchau, Stadt <-> Glauchau
+Versmold, Stadt <-> Versmold
+Radevormwald, Stadt auf der Höhe <-> Radevormwald
+Zülpich, Stadt <-> Zülpich
+Halle (Westf.), Stadt <-> Halle (Westf.)
+Lindlar <-> Lindlar
+Eckernförde, Stadt <-> Eckernförde
+Günzburg, GKSt <-> Günzburg
+Dillingen/ Saar, Stadt <-> Dillingen/ Saar
+Schwetzingen, Stadt <-> Schwetzingen
+Ilsede <-> Ilsede
+Hockenheim, Stadt <-> Hockenheim
+Waldkirch, Stadt <-> Waldkirch
+Stadtallendorf, Stadt <-> Stadtallendorf
+Flörsheim am Main, Stadt <-> Flörsheim am Main
+Büren, Stadt <-> Büren
+Spremberg/Grodk, Stadt <-> Spremberg/Grodk
+Zerbst/Anhalt, Stadt <-> Zerbst/Anhalt
+Karlsfeld <-> Karlsfeld
+Schifferstadt, Stadt <-> Schifferstadt
+Wildeshausen, Stadt <-> Wildeshausen
+Elsdorf <-> Elsdorf
+Zossen, Stadt <-> Zossen
+Panketal <-> Panketal
+Seligenstadt, Einhardstadt <-> Seligenstadt
+Sondershausen, Stadt <-> Sondershausen
+Groß-Umstadt, Stadt <-> Groß-Umstadt
+Westoverledingen <-> Westoverledingen
+Xanten, Stadt <-> Xanten
+Rheinstetten, Stadt <-> Rheinstetten
+Neufahrn b.Freising <-> Neufahrn b.Freising
+Puchheim, St <-> Puchheim
+Schortens, Stadt <-> Schortens
+Geseke, Stadt <-> Geseke
+Werdau, Stadt <-> Werdau
+Stadtlohn, Stadt <-> Stadtlohn
+Luckenwalde, Stadt <-> Luckenwalde
+Traunstein, GKSt <-> Traunstein
+Bad Waldsee, Stadt <-> Bad Waldsee
+Wülfrath, Stadt <-> Wülfrath
+Dingolfing, St <-> Dingolfing
+Enger, Widukindstadt <-> Enger
+Senden <-> Senden
+Schramberg, Stadt <-> Schramberg
+Lichtenfels, St <-> Lichtenfels
+Fröndenberg/Ruhr, Stadt <-> Fröndenberg/Ruhr
+Wachtberg <-> Wachtberg
+Duderstadt, Stadt <-> Duderstadt
+Bruchköbel, Stadt <-> Bruchköbel
+Coswig, Stadt <-> Coswig
+Nördlingen, GKSt <-> Nördlingen
+Haßloch <-> Haßloch
+Burgwedel, Stadt <-> Burgwedel
+Herborn <-> Herborn
+Tettnang, Stadt <-> Tettnang
+Waren (Müritz), Stadt <-> Waren (Müritz)
+Schopfheim, Stadt <-> Schopfheim
+Ochtrup, Stadt <-> Ochtrup
+Neunkirchen-Seelscheid <-> Neunkirchen-Seelscheid
+Nottuln <-> Nottuln
+Blieskastel, Stadt <-> Blieskastel
+Wilnsdorf <-> Wilnsdorf
+Wittmund, Stadt <-> Wittmund
+Steinhagen <-> Steinhagen
+Traunreut, St <-> Traunreut
+Hörstel, Stadt <-> Hörstel
+Lilienthal <-> Lilienthal
+Nidderau, Stadt <-> Nidderau
+Schwanewede <-> Schwanewede
+Meinerzhagen, Stadt <-> Meinerzhagen
+Torgau, Stadt <-> Torgau
+Uetze <-> Uetze
+Leinefelde-Worbis, Stadt <-> Leinefelde-Worbis
+Neustrelitz, Residenzstadt <-> Neustrelitz
+Telgte, Stadt <-> Telgte
+Müllheim im Markgräflerland, Stadt <-> Müllheim im Markgräflerland
+Reichenbach im Vogtland, Stadt <-> Reichenbach im Vogtland
+Kürten <-> Kürten
+Greiz, Stadt <-> Greiz
+Bad Schwartau, Stadt <-> Bad Schwartau
+Bad Pyrmont, Stadt <-> Bad Pyrmont
+Giengen an der Brenz, Stadt <-> Giengen an der Brenz
+Oberkirch, Stadt <-> Oberkirch
+Moosburg a.d.Isar, St <-> Moosburg a.d.Isar
+Donauwörth, GKSt <-> Donauwörth
+Lebach, Stadt <-> Lebach
+Borna, Stadt <-> Borna
+Bad Friedrichshall, Stadt <-> Bad Friedrichshall
+Dillingen a.d.Donau, GKSt <-> Dillingen a.d.Donau
+Schenefeld <-> Schenefeld
+Engelskirchen <-> Engelskirchen
+Ennigerloh, Stadt <-> Ennigerloh
+Waldbröl, Stadt <-> Waldbröl
+Hechingen, Stadt <-> Hechingen
+Bad Tölz, St <-> Bad Tölz
+Wassenberg, Stadt <-> Wassenberg
+Pfullingen, Stadt <-> Pfullingen
+Mölln <-> Mölln
+Rhede, Stadt <-> Rhede
+Marsberg, Stadt <-> Marsberg
+Windeck <-> Windeck
+Bad Harzburg, Stadt <-> Bad Harzburg
+Burghausen, St <-> Burghausen
+Hiddenhausen <-> Hiddenhausen
+Mayen, Stadt <-> Mayen
+Wolfratshausen, St <-> Wolfratshausen
+Weil der Stadt, Stadt <-> Weil der Stadt
+Sulzbach-Rosenberg, St <-> Sulzbach-Rosenberg
+Nauen, Stadt <-> Nauen
+Wenden <-> Wenden
+Alzey, Stadt <-> Alzey
+Blankenburg (Harz), Stadt <-> Blankenburg (Harz)
+Burscheid, Stadt <-> Burscheid
+Sarstedt, Stadt <-> Sarstedt
+Kleinmachnow <-> Kleinmachnow
+Bückeburg, Stadt <-> Bückeburg
+Schkeuditz, Stadt <-> Schkeuditz
+Haiger, Stadt <-> Haiger
+Heusenstamm, Stadt <-> Heusenstamm
+Haldensleben, Stadt <-> Haldensleben
+Gröbenzell <-> Gröbenzell
+Schmalkalden, Stadt <-> Schmalkalden
+Neuenhagen bei Berlin <-> Neuenhagen bei Berlin
+Eitorf <-> Eitorf
+Korntal-Münchingen, Stadt <-> Korntal-Münchingen
+Annaberg-Buchholz, Stadt <-> Annaberg-Buchholz
+Holzminden, Stadt <-> Holzminden
+Aue-Bad Schlema, Stadt <-> Aue-Bad Schlema
+Prenzlau, Stadt <-> Prenzlau
+Bad Dürkheim, Stadt <-> Bad Dürkheim
+Gilching <-> Gilching
+Schönefeld <-> Schönefeld
+Bad Segeberg, Stadt <-> Bad Segeberg
+Wittlich, Stadt <-> Wittlich
+Kolbermoor, St <-> Kolbermoor
+Oschersleben (Bode), Stadt <-> Oschersleben (Bode)
+Hemmingen <-> Hemmingen
+Hohe Börde <-> Hohe Börde
+Schneverdingen, Stadt <-> Schneverdingen
+Weilerswist <-> Weilerswist
+Eschwege, Kreisstadt <-> Eschwege
+Schwalmtal <-> Schwalmtal
+Bad Driburg, Stadt <-> Bad Driburg
+Crimmitschau, Stadt <-> Crimmitschau
+Radeberg, Stadt <-> Radeberg
+Seesen, Stadt <-> Seesen
+Reichshof <-> Reichshof
+Lahnstein, Stadt <-> Lahnstein
+Gerlingen, Stadt <-> Gerlingen
+Kronberg im Taunus, Stadt <-> Kronberg im Taunus
+Renningen, Stadt <-> Renningen
+Bremervörde, Stadt <-> Bremervörde
+Uetersen, Stadt <-> Uetersen
+Hessisch Oldendorf, Stadt <-> Hessisch Oldendorf
+Wörth am Rhein, Stadt <-> Wörth am Rhein
+Bergneustadt, Stadt <-> Bergneustadt
+Sömmerda, Stadt <-> Sömmerda
+Marktoberdorf, St <-> Marktoberdorf
+Sachsenheim, Stadt <-> Sachsenheim
+Hochheim am Main, Stadt <-> Hochheim am Main
+Swisttal <-> Swisttal
+Vlotho, Stadt <-> Vlotho
+Heusweiler <-> Heusweiler
+Püttlingen, Stadt <-> Püttlingen
+Glinde, Stadt <-> Glinde
+Südbrookmerland <-> Südbrookmerland
+Schwalmstadt, Konfirmationsstadt <-> Schwalmstadt
+Illertissen, St <-> Illertissen
+Weißenburg i.Bay., GKSt <-> Weißenburg i.Bay.
+Bad Reichenhall, GKSt <-> Bad Reichenhall
+Buchen (Odenwald), Stadt <-> Buchen (Odenwald)
+Bad Münstereifel, Stadt <-> Bad Münstereifel
+Pfinztal <-> Pfinztal
+Großenhain, Stadt <-> Großenhain
+Hoppegarten <-> Hoppegarten
+Bad Berleburg, Stadt <-> Bad Berleburg
+Vechelde <-> Vechelde
+Heilbad Heiligenstadt, Stadt <-> Heilbad Heiligenstadt
+Bad Aibling, St <-> Bad Aibling
+Konz, Stadt <-> Konz
+Rhauderfehn <-> Rhauderfehn
+Kreuzau <-> Kreuzau
+Parchim, Stadt <-> Parchim
+Alfeld (Leine), Stadt <-> Alfeld (Leine)
+Taufkirchen <-> Taufkirchen
+Schwalbach <-> Schwalbach
+Wadgassen <-> Wadgassen
+Vilshofen an der Donau, St <-> Vilshofen an der Donau
+Halstenbek <-> Halstenbek
+Bad Saulgau, Stadt <-> Bad Saulgau
+Bönen <-> Bönen
+Bobingen, St <-> Bobingen
+Bexbach, Stadt <-> Bexbach
+Alzenau, St <-> Alzenau
+Diepholz, Stadt <-> Diepholz
+Werdohl, Stadt <-> Werdohl
+Schrobenhausen, St <-> Schrobenhausen
+Holzwickede <-> Holzwickede
+Garching b.München, St <-> Garching b.München
+Bad Säckingen, Stadt <-> Bad Säckingen
+Vellmar, Stadt <-> Vellmar
+Pohlheim, Stadt <-> Pohlheim
+Frankenberg (Eder), Philipp-Soldan-Stadt <-> Frankenberg (Eder)
+Bürstadt, Stadt <-> Bürstadt
+Ismaning <-> Ismaning
+Nümbrecht <-> Nümbrecht
+Bendorf <-> Bendorf
+Remagen, Stadt <-> Remagen
+Stockach, Stadt <-> Stockach
+Damme, Stadt <-> Damme
+Oberasbach, St <-> Oberasbach
+Babenhausen, M <-> Babenhausen
+Trossingen, Stadt <-> Trossingen
+Freilassing, St <-> Freilassing
+Gescher, Glockenstadt <-> Gescher
+Freudenberg <-> Freudenberg
+Auerbach/Vogtl., Stadt <-> Auerbach/Vogtl.
+Sigmaringen, Stadt <-> Sigmaringen
+Bad Münder am Deister, Stadt <-> Bad Münder am Deister
+Cham, St <-> Cham
+Horn-Bad Meinberg, Stadt <-> Horn-Bad Meinberg
+Forst (Lausitz)/Baršć (Łužyca), Stadt <-> Forst (Lausitz)/Baršć (Łužyca)
+Nidda, Stadt <-> Nidda
+Bad Wildungen, Stadt <-> Bad Wildungen
+Eutin, Stadt <-> Eutin
+Bad Lippspringe, Stadt <-> Bad Lippspringe
+Oerlinghausen, Stadt <-> Oerlinghausen
+Sinzig, Stadt <-> Sinzig
+Leopoldshöhe <-> Leopoldshöhe
+Wittenberge, Stadt <-> Wittenberge
+Finnentrop <-> Finnentrop
+Kamenz / Kamjenc, Stadt <-> Kamenz / Kamjenc
+Schwarzenbek, Stadt <-> Schwarzenbek
+Marktredwitz, GKSt <-> Marktredwitz
+Eltville am Rhein, Stadt <-> Eltville am Rhein
+Schmelz <-> Schmelz
+Thale, Stadt <-> Thale
+Künzell <-> Künzell
+Kelheim, St <-> Kelheim
+Hünfeld, Konrad-Zuse-Stadt <-> Hünfeld
+Penzberg, St <-> Penzberg
+Eggenstein-Leopoldshafen <-> Eggenstein-Leopoldshafen
+Brackenheim, Stadt <-> Brackenheim
+Königstein im Taunus, Stadt <-> Königstein im Taunus
+Bad Langensalza, Stadt <-> Bad Langensalza
+Heidenau <-> Heidenau
+Hövelhof, Sennegemeinde <-> Hövelhof
+Wurster Nordseeküste <-> Wurster Nordseeküste
+Bad Bentheim, Stadt <-> Bad Bentheim
+Bruckmühl, M <-> Bruckmühl
+Altena, Stadt <-> Altena
+Eppelborn <-> Eppelborn
+Bitburg, Stadt <-> Bitburg
+Bad Wörishofen, St <-> Bad Wörishofen
+Kronach, St <-> Kronach
+Wadern, Stadt <-> Wadern
+Losheim am See <-> Losheim am See
+Gunzenhausen, St <-> Gunzenhausen
+Simmerath <-> Simmerath
+Kierspe, Stadt <-> Kierspe
+Poing <-> Poing
+Reinheim, Stadt <-> Reinheim
+Bassum, Stadt <-> Bassum
+Preetz <-> Preetz
+Eilenburg, Stadt <-> Eilenburg
+Herzebrock-Clarholz <-> Herzebrock-Clarholz
+Seeheim-Jugenheim <-> Seeheim-Jugenheim
+Blaustein, Stadt <-> Blaustein
+Kirchlengern <-> Kirchlengern
+Ginsheim-Gustavsburg, Stadt <-> Ginsheim-Gustavsburg
+Straelen, Stadt <-> Straelen
+Wardenburg <-> Wardenburg
+Sulzbach/ Saar, Stadt <-> Sulzbach/ Saar
+Wendelstein, M <-> Wendelstein
+Halver, Stadt <-> Halver
+Kirchhain, Stadt <-> Kirchhain
+Oyten <-> Oyten
+Wiefelstede <-> Wiefelstede
+Stockelsdorf <-> Stockelsdorf
+Erwitte, Stadt <-> Erwitte
+Bargteheide, Stadt <-> Bargteheide
+Künzelsau, Stadt <-> Künzelsau
+Hille <-> Hille
+Pocking, St <-> Pocking
+Marienberg, Stadt <-> Marienberg
+Bad Essen <-> Bad Essen
+Breisach am Rhein, Stadt <-> Breisach am Rhein
+Wurzen, Stadt <-> Wurzen
+Markranstädt, Stadt <-> Markranstädt
+Brüggen, Burggemeinde <-> Brüggen
+Walldorf, Stadt <-> Walldorf
+Rahden, Stadt <-> Rahden
+Brakel, Stadt <-> Brakel
+Holzkirchen <-> Holzkirchen
+Drensteinfurt, Stadt <-> Drensteinfurt
+Loxstedt <-> Loxstedt
+Karlsbad <-> Karlsbad
+Guben, Stadt <-> Guben
+Stahnsdorf <-> Stahnsdorf
+Petersberg <-> Petersberg
+Großostheim, M <-> Großostheim
+Hude (Oldb) <-> Hude (Oldb)
+Illingen <-> Illingen
+Kelsterbach, Stadt <-> Kelsterbach
+Bad Arolsen, Stadt <-> Bad Arolsen
+Wendlingen am Neckar, Stadt <-> Wendlingen am Neckar
+Taucha, Stadt <-> Taucha
+Dieburg, Stadt <-> Dieburg
+Regenstauf, M <-> Regenstauf
+Schiffweiler <-> Schiffweiler
+Kernen im Remstal <-> Kernen im Remstal
+Schlüchtern, Stadt <-> Schlüchtern
+Zeulenroda-Triebes, Stadt <-> Zeulenroda-Triebes
+Odenthal <-> Odenthal
+Rüdersdorf bei Berlin <-> Rüdersdorf bei Berlin
+Ascheberg <-> Ascheberg
+Eppelheim, Stadt <-> Eppelheim
+Boppard, Stadt <-> Boppard
+Lübbenau/Spreewald / Lubnjow/Błota, Stadt <-> Lübbenau/Spreewald / Lubnjow/Błota
+Erlensee, Stadt <-> Erlensee
+Schwarzenberg/Erzgeb., Stadt <-> Schwarzenberg/Erzgeb.
+Finsterwalde, Stadt <-> Finsterwalde
+Großenkneten <-> Großenkneten
+Neustadt in Holstein, Stadt <-> Neustadt in Holstein
+Baiersbronn <-> Baiersbronn
+Templin, Stadt <-> Templin
+Stadtbergen, St <-> Stadtbergen
+Blomberg <-> Blomberg
+Mindelheim, St <-> Mindelheim
+Freiberg am Neckar, Stadt <-> Freiberg am Neckar
+Beckingen <-> Beckingen
+Alsfeld, Stadt <-> Alsfeld
+Michelstadt, Stadt <-> Michelstadt
+Marbach am Neckar, Stadt <-> Marbach am Neckar
+Usingen, Stadt <-> Usingen
+Petershagen/Eggersdorf <-> Petershagen/Eggersdorf
+Bad Bramstedt, Stadt <-> Bad Bramstedt
+Schwalbach am Taunus, Stadt <-> Schwalbach am Taunus
+Königslutter am Elm, Stadt <-> Königslutter am Elm
+Ratekau <-> Ratekau
+Altdorf b.Nürnberg, St <-> Altdorf b.Nürnberg
+Schriesheim, Stadt <-> Schriesheim
+Ebersbach an der Fils, Stadt <-> Ebersbach an der Fils
+Füssen, St <-> Füssen
+Sandhausen <-> Sandhausen
+Weener, Stadt <-> Weener
+Grenzach-Wyhlen <-> Grenzach-Wyhlen
+Langenau, Stadt <-> Langenau
+Bad Neustadt a.d.Saale, St <-> Bad Neustadt a.d.Saale
+Raunheim, Stadt <-> Raunheim
+Mainburg, St <-> Mainburg
+Gehrden, Stadt <-> Gehrden
+Ribnitz-Damgarten, Bernsteinstadt <-> Ribnitz-Damgarten
+Witzenhausen, Stadt <-> Witzenhausen
+Mühlenbecker Land <-> Mühlenbecker Land
+Brake (Unterweser), Stadt <-> Brake (Unterweser)
+Reken <-> Reken
+Mering, M <-> Mering
+Munster, Stadt <-> Munster
+Ober-Ramstadt, Stadt <-> Ober-Ramstadt
+Weißwasser/O.L., Stadt / Běła Woda <-> Weißwasser/O.L.
+Schwabmünchen, St <-> Schwabmünchen
+Abensberg, St <-> Abensberg
+Lohr a.Main, St <-> Lohr a.Main
+Malsch <-> Malsch
+Isny im Allgäu, Stadt <-> Isny im Allgäu
+Bad Wurzach, Stadt <-> Bad Wurzach
+Niederzier <-> Niederzier
+Grefrath, Sport- und Freizeitgemeinde <-> Grefrath
+Rehlingen-Siersburg <-> Rehlingen-Siersburg
+Garrel <-> Garrel
+Langerwehe <-> Langerwehe
+Rellingen <-> Rellingen
+Karlstadt, St <-> Karlstadt
+Ratzeburg, Stadt <-> Ratzeburg
+Selb, GKSt <-> Selb
+Münster (Hessen) <-> Münster (Hessen)
+Landsberg, Stadt <-> Landsberg
+Montabaur, Stadt <-> Montabaur
+Harsefeld, Flecken <-> Harsefeld
+Homberg (Efze), Reformationsstadt, Kreisstadt <-> Homberg (Efze)
+Jever, Stadt <-> Jever
+Münsingen, Stadt <-> Münsingen
+Ritterhude <-> Ritterhude
+Dorfen, St <-> Dorfen
+Olsberg, Stadt <-> Olsberg
+Langelsheim, Stadt <-> Langelsheim
+Neustadt b.Coburg, GKSt <-> Neustadt b.Coburg
+Landau a.d.Isar, St <-> Landau a.d.Isar
+Oberndorf am Neckar, Stadt <-> Oberndorf am Neckar
+Pattensen, Stadt <-> Pattensen
+Niederkrüchten <-> Niederkrüchten
+Wilsdruff, Stadt <-> Wilsdruff
+Much <-> Much
+Büttelborn <-> Büttelborn
+Burbach <-> Burbach
+Spenge, Stadt <-> Spenge
+Sassenberg, Stadt <-> Sassenberg
+Groß-Zimmern <-> Groß-Zimmern
+Löbau, Stadt <-> Löbau
+Eberbach, Stadt <-> Eberbach
+Kraichtal, Stadt <-> Kraichtal
+Neustadt a.d.Donau, St <-> Neustadt a.d.Donau
+Schiffdorf <-> Schiffdorf
+Fredersdorf-Vogelsdorf <-> Fredersdorf-Vogelsdorf
+Eckental, M <-> Eckental
+Hofgeismar, Stadt <-> Hofgeismar
+Murrhardt, Stadt <-> Murrhardt
+Aßlar, Stadt <-> Aßlar
+Hilchenbach, Stadt <-> Hilchenbach
+Neubiberg <-> Neubiberg
+Hückeswagen, Schloss-Stadt <-> Hückeswagen
+Bissendorf <-> Bissendorf
+Langwedel <-> Langwedel
+Uhingen, Stadt <-> Uhingen
+Burglengenfeld, St <-> Burglengenfeld
+Stein <-> Stein
+Tornesch, Stadt <-> Tornesch
+Fritzlar, Dom- und Kaiserstadt <-> Fritzlar
+Hainburg <-> Hainburg
+Edingen-Neckarhausen <-> Edingen-Neckarhausen
+Niedernhausen <-> Niedernhausen
+Gründau <-> Gründau
+Ottweiler, Stadt <-> Ottweiler
+Eching <-> Eching
+Langenselbold, Stadt <-> Langenselbold
+Lengede <-> Lengede
+Remshalden <-> Remshalden
+Saterland <-> Saterland
+Grünstadt, Stadt <-> Grünstadt
+Neu-Anspach, Stadt <-> Neu-Anspach
+Löningen, Stadt <-> Löningen
+Sylt <-> Sylt
+Lorsch, Karolingerstadt <-> Lorsch
+Markdorf, Stadt <-> Markdorf
+Freigericht <-> Freigericht
+Riegelsberg <-> Riegelsberg
+Bad Camberg, Stadt <-> Bad Camberg
+Lauda-Königshofen, Stadt <-> Lauda-Königshofen
+Brühl <-> Brühl
+Angermünde, Stadt <-> Angermünde
+Kalkar, Stadt <-> Kalkar
+Gernsbach, Stadt <-> Gernsbach
+Tostedt <-> Tostedt
+Lauchhammer, Stadt <-> Lauchhammer
+Aldenhoven <-> Aldenhoven
+Plochingen, Stadt <-> Plochingen
+Hatten <-> Hatten
+Clausthal-Zellerfeld, Berg- und Universitätsstadt <-> Clausthal-Zellerfeld
+Wennigsen (Deister) <-> Wennigsen (Deister)
+Markgröningen, Stadt <-> Markgröningen
+Oschatz, Stadt <-> Oschatz
+Sandersdorf-Brehna, Stadt <-> Sandersdorf-Brehna
+Eggenfelden, St <-> Eggenfelden
+Krumbach (Schwaben), St <-> Krumbach (Schwaben)
+Ahrensfelde <-> Ahrensfelde
+Erbach <-> Erbach
+Lich, Stadt <-> Lich
+Rommerskirchen <-> Rommerskirchen
+Erbach <-> Erbach
+Leuna, Stadt <-> Leuna
+Weißenhorn, St <-> Weißenhorn
+Bovenden, Flecken <-> Bovenden
+Rosengarten <-> Rosengarten
+Schwentinental, Stadt <-> Schwentinental
+Sendenhorst, Stadt <-> Sendenhorst
+Großefehn <-> Großefehn
+Lübben (Spreewald) / Lubin (Błota), Stadt <-> Lübben (Spreewald) / Lubin (Błota)
+Quakenbrück, Stadt <-> Quakenbrück
+Mühltal <-> Mühltal
+Melsungen, Stadt <-> Melsungen
+St. Leon-Rot <-> St. Leon-Rot
+Neutraubling, St <-> Neutraubling
+Belm <-> Belm
+Holzgerlingen, Stadt <-> Holzgerlingen
+Dippoldiswalde, Stadt <-> Dippoldiswalde
+Wiesmoor, Stadt <-> Wiesmoor
+Hohenstein-Ernstthal, Stadt <-> Hohenstein-Ernstthal
+Mittweida, Stadt, Hochschulstadt <-> Mittweida
+Grafing b.München, St <-> Grafing b.München
+Vöhringen <-> Vöhringen
+Immenstadt i.Allgäu, St <-> Immenstadt i.Allgäu
+Friesenheim <-> Friesenheim
+Höchstadt a.d.Aisch, St <-> Höchstadt a.d.Aisch
+Wittstock/Dosse, Stadt <-> Wittstock/Dosse
+Maisach <-> Maisach
+Eichstätt, GKSt <-> Eichstätt
+Zeven, Stadt <-> Zeven
+Neuenkirchen <-> Neuenkirchen
+Lohfelden <-> Lohfelden
+Lotte <-> Lotte
+Obersulm <-> Obersulm
+Wanzleben-Börde, Stadt <-> Wanzleben-Börde
+Buchloe, St <-> Buchloe
+Saarwellingen <-> Saarwellingen
+Feucht, M <-> Feucht
+Borchen <-> Borchen
+Meerane, Stadt <-> Meerane
+Haßfurt, St <-> Haßfurt
+Meckenbeuren <-> Meckenbeuren
+Spaichingen, Stadt <-> Spaichingen
+Grünberg, Stadt <-> Grünberg
+Schneeberg, M <-> Schneeberg
+Gräfelfing <-> Gräfelfing
+Hünxe <-> Hünxe
+Barßel <-> Barßel
+Jessen (Elster), Stadt <-> Jessen (Elster)
+Denzlingen <-> Denzlingen
+Waldbronn <-> Waldbronn
+Philippsburg, Stadt <-> Philippsburg
+Frankenberg/Sa., Stadt, Garnisonsstadt <-> Frankenberg/Sa.
+Markt Schwaben, M <-> Markt Schwaben
+Beelitz, Stadt <-> Beelitz
+Bergen auf Rügen, Stadt <-> Bergen auf Rügen
+Hilpoltstein, St <-> Hilpoltstein
+Bad Soden-Salmünster, Stadt <-> Bad Soden-Salmünster
+Schüttorf, Stadt <-> Schüttorf
+Bedburg-Hau <-> Bedburg-Hau
+Michendorf <-> Michendorf
+Ettenheim, Stadt <-> Ettenheim
+Pegnitz, St <-> Pegnitz
+Schmölln, Stadt <-> Schmölln
+Stemwede <-> Stemwede
+Genthin, Stadt <-> Genthin
+Uslar, Stadt <-> Uslar
+Linnich, Stadt <-> Linnich
+Schermbeck <-> Schermbeck
+Haselünne, Stadt <-> Haselünne
+Solms, Stadt <-> Solms
+Asperg, Stadt <-> Asperg
+Schleiden, Stadt <-> Schleiden
+Dinklage, Stadt <-> Dinklage
+Oberhaching <-> Oberhaching
+Tauberbischofsheim, Stadt <-> Tauberbischofsheim
+Wentorf bei Hamburg <-> Wentorf bei Hamburg
+Östringen, Stadt <-> Östringen
+Beverstedt <-> Beverstedt
+Neckargemünd, Stadt <-> Neckargemünd
+Marienheide <-> Marienheide
+Bad Schönborn <-> Bad Schönborn
+Pfullendorf, Stadt <-> Pfullendorf
+Kalletal <-> Kalletal
+Mutterstadt <-> Mutterstadt
+Barsbüttel <-> Barsbüttel
+Hüllhorst <-> Hüllhorst
+Ubstadt-Weiher <-> Ubstadt-Weiher
+Sulingen, Stadt <-> Sulingen
+Bad Salzdetfurth, Stadt <-> Bad Salzdetfurth
+Ergolding, M <-> Ergolding
+Fehmarn, Stadt <-> Fehmarn
+Lappersdorf, M <-> Lappersdorf
+Herbrechtingen, Stadt <-> Herbrechtingen
+Bad Dürrheim, Stadt <-> Bad Dürrheim
+Hagen am Teutoburger Wald <-> Hagen am Teutoburger Wald
+Linden <-> Linden
+Weinsberg, Stadt <-> Weinsberg
+Plattling, St <-> Plattling
+Treuchtlingen, St <-> Treuchtlingen
+Ketsch <-> Ketsch
+Neustadt a.d.Aisch, St <-> Neustadt a.d.Aisch
+Winterberg, Stadt <-> Winterberg
+Bad Laasphe, Stadt <-> Bad Laasphe
+Gangelt <-> Gangelt
+Hadamar, Stadt <-> Hadamar
+Roßdorf <-> Roßdorf
+Ottersberg, Flecken <-> Ottersberg
+Brieselang <-> Brieselang
+Bad Doberan, Stadt <-> Bad Doberan
+Rosbach v. d. Höhe, Stadt <-> Rosbach v. d. Höhe
+Spiesen-Elversberg <-> Spiesen-Elversberg
+Biedenkopf, Stadt <-> Biedenkopf
+Teutschenthal <-> Teutschenthal
+Waltershausen, Stadt <-> Waltershausen
+Bohmte <-> Bohmte
+Bebra, Stadt <-> Bebra
+Schöneiche bei Berlin <-> Schöneiche bei Berlin
+Olfen, Stadt <-> Olfen
+Weilburg, Stadt <-> Weilburg
+Lauterbach (Hessen), Kreisstadt <-> Lauterbach (Hessen)
+Zehdenick, Stadt <-> Zehdenick
+Quierschied <-> Quierschied
+Wehr <-> Wehr
+Twistringen, Stadt <-> Twistringen
+Kerken <-> Kerken
+Gärtringen <-> Gärtringen
+Eppstein, Stadt <-> Eppstein
+Hösbach, M <-> Hösbach
+Oebisfelde-Weferlingen, Stadt <-> Oebisfelde-Weferlingen
+Altötting, St <-> Altötting
+Wietmarschen <-> Wietmarschen
+Südliches Anhalt, Stadt <-> Südliches Anhalt
+Peißenberg, M <-> Peißenberg
+Cremlingen <-> Cremlingen
+Herzberg am Harz, Stadt <-> Herzberg am Harz
+Rotenburg a. d. Fulda, Stadt <-> Rotenburg a. d. Fulda
+Bergen <-> Bergen
+Hettstedt, Stadt <-> Hettstedt
+Trebur <-> Trebur
+Bad Fallingbostel, Stadt <-> Bad Fallingbostel
+Kirchheim b.München <-> Kirchheim b.München
+Titisee-Neustadt, Stadt <-> Titisee-Neustadt
+Manching, M <-> Manching
+Roding, St <-> Roding
+Jüterbog, Stadt <-> Jüterbog
+Ladenburg, Stadt <-> Ladenburg
+Bischofsheim <-> Bischofsheim
+Kaufungen <-> Kaufungen
+Pfarrkirchen, St <-> Pfarrkirchen
+Wadersloh <-> Wadersloh
+Sulz am Neckar, Stadt <-> Sulz am Neckar
+Bad Urach, Stadt <-> Bad Urach
+Neunkirchen <-> Neunkirchen
+Beverungen, Stadt <-> Beverungen
+Velen, Stadt <-> Velen
+Brunsbüttel, Stadt <-> Brunsbüttel
+Velten, Stadt <-> Velten
+Hungen, Stadt <-> Hungen
+Neuenburg am Rhein, Stadt <-> Neuenburg am Rhein
+Winsen (Aller) <-> Winsen (Aller)
+Scheeßel <-> Scheeßel
+Wächtersbach, Stadt <-> Wächtersbach
+Möckern <-> Möckern
+Blaubeuren, Stadt <-> Blaubeuren
+Dossenheim <-> Dossenheim
+Mettlach <-> Mettlach
+Altenstadt <-> Altenstadt
+Wolfhagen, Hans-Staden-Stadt <-> Wolfhagen
+Feuchtwangen, St <-> Feuchtwangen
+Schongau, St <-> Schongau
+Preußisch Oldendorf, Stadt <-> Preußisch Oldendorf
+Röthenbach a.d.Pegnitz, St <-> Röthenbach a.d.Pegnitz
+Gladenbach, Stadt <-> Gladenbach
+Bretzfeld <-> Bretzfeld
+Hirschaid, M <-> Hirschaid
+Buseck <-> Buseck
+Niefern-Öschelbronn <-> Niefern-Öschelbronn
+Emstek <-> Emstek
+Gaimersheim, M <-> Gaimersheim
+Fuldatal <-> Fuldatal
+Hersbruck, St <-> Hersbruck
+Ihlow <-> Ihlow
+Bad Windsheim, St <-> Bad Windsheim
+Tholey <-> Tholey
+Edemissen <-> Edemissen
+Rödental, St <-> Rödental
+St. Georgen im Schwarzwald, Stadt <-> St. Georgen im Schwarzwald
+Hessisch Lichtenau, Stadt <-> Hessisch Lichtenau
+Graben-Neudorf <-> Graben-Neudorf
+Bad Wünnenberg, Stadt <-> Bad Wünnenberg
+Neuhausen auf den Fildern <-> Neuhausen auf den Fildern
+Rielasingen-Worblingen <-> Rielasingen-Worblingen
+Alpen <-> Alpen
+Ense <-> Ense
+Bad Abbach, M <-> Bad Abbach
+Monschau, Stadt <-> Monschau
+Linkenheim-Hochstetten <-> Linkenheim-Hochstetten
+Laichingen, Stadt <-> Laichingen
+Wasserburg a.Inn, St <-> Wasserburg a.Inn
+Borken (Hessen), Stadt <-> Borken (Hessen)
+Dinkelsbühl, GKSt <-> Dinkelsbühl
+Issum <-> Issum
+Wolmirstedt, Stadt <-> Wolmirstedt
+Tamm, Stadt <-> Tamm
+Zella-Mehlis, Stadt <-> Zella-Mehlis
+Heddesheim <-> Heddesheim
+Wernau (Neckar), Stadt <-> Wernau (Neckar)
+Besigheim, Stadt <-> Besigheim
+Zetel <-> Zetel
+Salem <-> Salem
+Oftersheim <-> Oftersheim
+Rosdorf <-> Rosdorf
+Dingelstädt, Stadt <-> Dingelstädt
+Frohburg, Stadt <-> Frohburg
+Havixbeck <-> Havixbeck
+Ebersberg, St <-> Ebersberg
+Leutenbach <-> Leutenbach
+Meitingen, M <-> Meitingen
+Bad Sassendorf <-> Bad Sassendorf
+Kronshagen <-> Kronshagen
+Perleberg, Stadt <-> Perleberg
+Ludwigslust, Stadt <-> Ludwigslust
+Burladingen, Stadt <-> Burladingen
+Vilsbiburg, St <-> Vilsbiburg
+Steinheim, Stadt <-> Steinheim
+Überherrn <-> Überherrn
+Gundelfingen <-> Gundelfingen
+Gaildorf, Stadt <-> Gaildorf
+Osterhofen, St <-> Osterhofen
+Wettenberg <-> Wettenberg
+Oberkrämer <-> Oberkrämer
+Lauffen am Neckar, Stadt <-> Lauffen am Neckar
+Sassenburg <-> Sassenburg
+Glienicke/Nordbahn <-> Glienicke/Nordbahn
+Hauzenberg, St <-> Hauzenberg
+Hagenow, Stadt <-> Hagenow
+Welver <-> Welver
+Hemsbach, Stadt <-> Hemsbach
+Uplengen <-> Uplengen
+Maxhütte-Haidhof, St <-> Maxhütte-Haidhof
+Geeste <-> Geeste
+Lippetal <-> Lippetal
+Anklam, Hansestadt <-> Anklam
+Lehre <-> Lehre
+Murnau a.Staffelsee, M <-> Murnau a.Staffelsee
+Essenbach, M <-> Essenbach
+Neustadt in Sachsen, Stadt <-> Neustadt in Sachsen
+Pößneck, Stadt <-> Pößneck
+Nordstemmen <-> Nordstemmen
+Pritzwalk, Stadt <-> Pritzwalk
+Apen <-> Apen
+Steinheim an der Murr, Stadt <-> Steinheim an der Murr
+Drolshagen, Stadt <-> Drolshagen
+Nörvenich <-> Nörvenich
+Oberschleißheim <-> Oberschleißheim
+Durmersheim <-> Durmersheim
+Bad Freienwalde (Oder), Stadt <-> Bad Freienwalde (Oder)
+Hallbergmoos <-> Hallbergmoos
+Billerbeck, Stadt <-> Billerbeck
+Remchingen <-> Remchingen
+Harrislee <-> Harrislee
+Rangsdorf <-> Rangsdorf
+Weeze <-> Weeze
+Stelle <-> Stelle
+Peiting, M <-> Peiting
+Jork <-> Jork
+Teningen <-> Teningen
+Eichenzell <-> Eichenzell
+Schöneck <-> Schöneck
+Ostrhauderfehn <-> Ostrhauderfehn
+Hildburghausen, Stadt <-> Hildburghausen
+Kissing <-> Kissing
+Oberderdingen, Stadt <-> Oberderdingen
+Leingarten, Stadt <-> Leingarten
+Limburgerhof <-> Limburgerhof
+Rudersberg <-> Rudersberg
+Gerstetten <-> Gerstetten
+Neuenrade, Stadt <-> Neuenrade
+Erkner, Stadt <-> Erkner
+Bad Nenndorf, Stadt <-> Bad Nenndorf
+Marktheidenfeld, St <-> Marktheidenfeld
+Raesfeld <-> Raesfeld
+Eningen unter Achalm <-> Eningen unter Achalm
+Walldürn, Stadt <-> Walldürn
+Wickede (Ruhr) <-> Wickede (Ruhr)
+Schwaigern, Stadt <-> Schwaigern
+Wolnzach, M <-> Wolnzach
+Scharbeutz <-> Scharbeutz
+Mettingen <-> Mettingen
+Lauenburg/ Elbe, Stadt <-> Lauenburg/ Elbe
+Eichenau <-> Eichenau
+Muldestausee <-> Muldestausee
+Bad Schwalbach, Kreisstadt <-> Bad Schwalbach
+Bopfingen, Stadt <-> Bopfingen
+Sinzheim <-> Sinzheim
+Korb <-> Korb
+Ammerbuch <-> Ammerbuch
+Bad Dürrenberg, Solestadt <-> Bad Dürrenberg
+Miesbach, St <-> Miesbach
+Unterföhring <-> Unterföhring
+Möhnesee <-> Möhnesee
+Glückstadt, Stadt <-> Glückstadt
+Kirchhundem <-> Kirchhundem
+Zwönitz, Stadt <-> Zwönitz
+Lindenberg i.Allgäu, St <-> Lindenberg i.Allgäu
+Geisenfeld, St <-> Geisenfeld
+Zeuthen <-> Zeuthen
+Burgthann <-> Burgthann
+Lauingen (Donau), St <-> Lauingen (Donau)
+Handewitt <-> Handewitt
+Rothenburg ob der Tauber, GKSt <-> Rothenburg ob der Tauber
+Dautphetal <-> Dautphetal
+Oestrich-Winkel, Stadt <-> Oestrich-Winkel
+Geisenheim, Hochschulstadt <-> Geisenheim
+Schwieberdingen <-> Schwieberdingen
+Nußloch <-> Nußloch
+Recke <-> Recke
+Extertal <-> Extertal
+Krummhörn <-> Krummhörn
+Ostbevern <-> Ostbevern
+Straubenhardt <-> Straubenhardt
+Altdorf <-> Altdorf
+Diez, Stadt <-> Diez
+Salzatal <-> Salzatal
+Waldkirchen, St <-> Waldkirchen
+Engen, Stadt <-> Engen
+Gräfenhainichen, Stadt <-> Gräfenhainichen
+Rheinau, Stadt <-> Rheinau
+Rutesheim, Stadt <-> Rutesheim
+Coswig (Anhalt), Stadt <-> Coswig (Anhalt)
+Welzheim, Stadt <-> Welzheim
+Drochtersen <-> Drochtersen
+Ochsenfurt, St <-> Ochsenfurt
+Balve, Stadt <-> Balve
+Trostberg, St <-> Trostberg
+Kranenburg <-> Kranenburg
+Kriftel <-> Kriftel
+Cadolzburg, M <-> Cadolzburg
+Schöningen, Stadt <-> Schöningen
+Isselburg, Stadt <-> Isselburg
+Mömbris, M <-> Mömbris
+Riedlingen, Stadt <-> Riedlingen
+Stollberg/Erzgeb., Stadt <-> Stollberg/Erzgeb.
+Kall <-> Kall
+Südheide <-> Südheide
+Rosendahl <-> Rosendahl
+Wittingen, Stadt <-> Wittingen
+Bannewitz <-> Bannewitz
+Kloster Lehnin <-> Kloster Lehnin
+Planegg <-> Planegg
+Ebersbach-Neugersdorf, Stadt <-> Ebersbach-Neugersdorf
+Mülheim-Kärlich, Stadt <-> Mülheim-Kärlich
+Denkendorf <-> Denkendorf
+Osterwieck, Stadt <-> Osterwieck
+Höhenkirchen-Siegertsbrunn <-> Höhenkirchen-Siegertsbrunn
+Raubling <-> Raubling
+Grünwald <-> Grünwald
+Gengenbach, Stadt <-> Gengenbach
+Boizenburg/ Elbe, Stadt <-> Boizenburg/ Elbe
+Bad Belzig, Stadt <-> Bad Belzig
+Werther (Westf.), Stadt <-> Werther (Westf.)
+Niestetal <-> Niestetal
+Oelsnitz/Erzgeb., Stadt <-> Oelsnitz/Erzgeb.
+Herrsching a.Ammersee <-> Herrsching a.Ammersee
+Herxheim bei Landau/ Pfalz <-> Herxheim bei Landau/ Pfalz
+Wolgast, Stadt <-> Wolgast
+Wustermark <-> Wustermark
+Braunfels, Stadt <-> Braunfels
+Regen, St <-> Regen
+Eisenberg <-> Eisenberg
+Langgöns <-> Langgöns
+Harsum <-> Harsum
+Lichtenstein/Sa., Stadt <-> Lichtenstein/Sa.
+Egelsbach <-> Egelsbach
+Mandelbachtal <-> Mandelbachtal
+Grafschaft <-> Grafschaft
+Rodenbach <-> Rodenbach
+Altensteig, Stadt <-> Altensteig
+Kleinblittersdorf <-> Kleinblittersdorf
+Haigerloch, Stadt <-> Haigerloch
+Westerkappeln <-> Westerkappeln
+Hasbergen <-> Hasbergen
+Lichtenau <-> Lichtenau
+Lorch, Stadt <-> Lorch
+Malente <-> Malente
+Gottmadingen <-> Gottmadingen
+Prien a.Chiemsee, M <-> Prien a.Chiemsee
+Fürth <-> Fürth
+Ruppichteroth <-> Ruppichteroth
+Schkopau <-> Schkopau
+Neuhof <-> Neuhof
+Burgkirchen a.d.Alz <-> Burgkirchen a.d.Alz
+Dallgow-Döberitz <-> Dallgow-Döberitz
+Nideggen, Stadt <-> Nideggen
+Meßstetten, Stadt <-> Meßstetten
+Kenzingen, Stadt <-> Kenzingen
+Steinbach (Taunus), Stadt <-> Steinbach (Taunus)
+Herbolzheim, Stadt <-> Herbolzheim
+Bad Staffelstein, St <-> Bad Staffelstein
+Hagen im Bremischen <-> Hagen im Bremischen
+Hammelburg, St <-> Hammelburg
+Mülsen <-> Mülsen
+Emsbüren <-> Emsbüren
+Adendorf <-> Adendorf
+Diedorf, M <-> Diedorf
+Neuenhaus, Stadt <-> Neuenhaus
+Möglingen <-> Möglingen
+Bischofswerda, Stadt <-> Bischofswerda
+Karlsdorf-Neuthard <-> Karlsdorf-Neuthard
+Bad Iburg, Stadt <-> Bad Iburg
+Hüttenberg <-> Hüttenberg
+Weinböhla <-> Weinböhla
+Schwielowsee <-> Schwielowsee
+Selfkant <-> Selfkant
+Donzdorf, Stadt <-> Donzdorf
+Schorfheide <-> Schorfheide
+Nordkirchen <-> Nordkirchen
+Morbach <-> Morbach
+Gernsheim, Schöfferstadt <-> Gernsheim
+Dießen am Ammersee, M <-> Dießen am Ammersee
+Wald-Michelbach <-> Wald-Michelbach
+Schönwalde-Glien <-> Schönwalde-Glien
+Taufkirchen (Vils) <-> Taufkirchen (Vils)
+Plankstadt <-> Plankstadt
+Feldkirchen-Westerham <-> Feldkirchen-Westerham
+Burgau, St <-> Burgau
+Morsbach <-> Morsbach
+Nossen, Stadt <-> Nossen
+Merzenich <-> Merzenich
+Dissen am Teutoburger Wald, Stadt <-> Dissen am Teutoburger Wald
+Böhl-Iggelheim <-> Böhl-Iggelheim
+Wildau, Stadt <-> Wildau
+Aerzen, Flecken <-> Aerzen
+Weingarten (Baden) <-> Weingarten (Baden)
+Klipphausen <-> Klipphausen
+Nauheim <-> Nauheim
+Schönaich <-> Schönaich
+Langenzenn, St <-> Langenzenn
+Schalksmühle <-> Schalksmühle
+Gronau (Leine), Stadt <-> Gronau (Leine)
+Bad Wildbad, Stadt <-> Bad Wildbad
+Bogen, St <-> Bogen
+Steinen <-> Steinen
+Betzdorf, Stadt <-> Betzdorf
+Büdelsdorf, Stadt <-> Büdelsdorf
+Burgstädt, Stadt <-> Burgstädt
+Goldenstedt <-> Goldenstedt
+Bad Lauterberg im Harz, Stadt <-> Bad Lauterberg im Harz
+Hünstetten <-> Hünstetten
+Reiskirchen <-> Reiskirchen
+Barmstedt, Stadt <-> Barmstedt
+Schleusingen, Stadt <-> Schleusingen
+Braunsbedra, Stadt <-> Braunsbedra
+Felsberg, Stadt <-> Felsberg
+Appenweier <-> Appenweier
+Endingen am Kaiserstuhl, Stadt <-> Endingen am Kaiserstuhl
+Aulendorf, Stadt <-> Aulendorf
+Werlte, Stadt <-> Werlte
+Anröchte <-> Anröchte
+Kirchseeon, M <-> Kirchseeon
+Schauenburg <-> Schauenburg
+Rüthen, Stadt <-> Rüthen
+Marpingen <-> Marpingen
+Altenberge <-> Altenberge
+Neuenstadt am Kocher, Stadt <-> Neuenstadt am Kocher
+Friedeburg <-> Friedeburg
+Mörlenbach <-> Mörlenbach
+Flöha, Stadt <-> Flöha
+Birkenfeld <-> Birkenfeld
+Grevesmühlen, Stadt <-> Grevesmühlen
+Tangerhütte, Stadt <-> Tangerhütte
+Bestwig <-> Bestwig
+Meuselwitz, Stadt <-> Meuselwitz
+Altusried, M <-> Altusried
+Hambühren <-> Hambühren
+Steinfeld (Oldenburg) <-> Steinfeld (Oldenburg)
+Süßen, Stadt <-> Süßen
+Kirkel <-> Kirkel
+Kirchzarten <-> Kirchzarten
+Lollar, Stadt <-> Lollar
+Kirchlinteln <-> Kirchlinteln
+Oelsnitz/Vogtl., Stadt <-> Oelsnitz/Vogtl.
+Merchweiler <-> Merchweiler
+Friedrichsthal, Stadt <-> Friedrichsthal
+Gommern, Stadt <-> Gommern
+Simbach a.Inn, St <-> Simbach a.Inn
+Niebüll, Stadt <-> Niebüll
+Steinau an der Straße, Brüder-Grimm-Stadt <-> Steinau an der Straße
+Tangermünde, Stadt <-> Tangermünde
+Mengen, Stadt <-> Mengen
+Wendeburg <-> Wendeburg
+Olbernhau, Stadt <-> Olbernhau
+Stephanskirchen <-> Stephanskirchen
+Hilter am Teutoburger Wald <-> Hilter am Teutoburger Wald
+Königsbach-Stein <-> Königsbach-Stein
+Beilngries, St <-> Beilngries
+Kaufering, M <-> Kaufering
+Heubach, Stadt <-> Heubach
+Gemünden a.Main, St <-> Gemünden a.Main
+Werneck, M <-> Werneck
+Nohfelden <-> Nohfelden
+Dettingen an der Erms <-> Dettingen an der Erms
+Blumberg, Stadt <-> Blumberg
+Lenggries <-> Lenggries
+Querfurt, Stadt <-> Querfurt
+Ohrdruf, Stadt <-> Ohrdruf
+Münchberg, St <-> Münchberg
+Wildberg <-> Wildberg
+Markt Indersdorf, M <-> Markt Indersdorf
+Bobenheim-Roxheim <-> Bobenheim-Roxheim
+Vettweiß <-> Vettweiß
+Niddatal, Stadt <-> Niddatal
+Bleicherode, Stadt <-> Bleicherode
+Rödinghausen <-> Rödinghausen
+Nordwalde <-> Nordwalde
+Willstätt <-> Willstätt
+Ammersbek <-> Ammersbek
+Weil im Schönbuch <-> Weil im Schönbuch
+Bad Orb, Stadt <-> Bad Orb
+Bad Ems, Stadt <-> Bad Ems
+Mittenwalde <-> Mittenwalde
+Ottendorf-Okrilla <-> Ottendorf-Okrilla
+Weilheim an der Teck, Stadt <-> Weilheim an der Teck
+Walzbachtal <-> Walzbachtal
+Schwaikheim <-> Schwaikheim
+Gudensberg, Stadt <-> Gudensberg
+Eschenburg <-> Eschenburg
+Biebertal <-> Biebertal
+Tutzing <-> Tutzing
+Hünfelden <-> Hünfelden
+Augustdorf <-> Augustdorf
+Kümmersbruck <-> Kümmersbruck
+Spelle <-> Spelle
+Rehburg-Loccum, Stadt <-> Rehburg-Loccum
+Pliezhausen <-> Pliezhausen
+Elchingen <-> Elchingen
+Bad Frankenhausen/Kyffhäuser, Stadt <-> Bad Frankenhausen/Kyffhäuser
+Südlohn <-> Südlohn
+Neuried <-> Neuried
+Rüdesheim am Rhein, Stadt <-> Rüdesheim am Rhein
+Laubach <-> Laubach
+Emmerthal <-> Emmerthal
+Oldenburg in Holstein, Stadt <-> Oldenburg in Holstein
+Altenholz <-> Altenholz
+Goldbach, M <-> Goldbach
+Wahlstedt, Stadt <-> Wahlstedt
+Plüderhausen <-> Plüderhausen
+Klötze, Stadt <-> Klötze
+Everswinkel <-> Everswinkel
+Twist <-> Twist
+Höchst i. Odw. <-> Höchst i. Odw.
+Ostercappeln <-> Ostercappeln
+Ilsfeld <-> Ilsfeld
+Oberharz am Brocken, Stadt <-> Oberharz am Brocken
+Kösching, M <-> Kösching
+Brandis, Stadt <-> Brandis
+Waltenhofen <-> Waltenhofen
+Roßtal, M <-> Roßtal
+Ainring <-> Ainring
+Trebbin, Stadt <-> Trebbin
+Visbek <-> Visbek
+Erlenbach a.Main, St <-> Erlenbach a.Main
+Linsengericht <-> Linsengericht
+Heilsbronn, St <-> Heilsbronn
+Nersingen <-> Nersingen
+Schotten, Stadt <-> Schotten
+Pasewalk, Stadt <-> Pasewalk
+Römerberg <-> Römerberg
+Wettin-Löbejün, Stadt <-> Wettin-Löbejün
+Hirschberg an der Bergstraße <-> Hirschberg an der Bergstraße
+Altlandsberg, Stadt <-> Altlandsberg
+Nieder-Olm, Stadt <-> Nieder-Olm
+Aichtal, Stadt <-> Aichtal
+Birkenau <-> Birkenau
+Bisingen <-> Bisingen
+Sebnitz, Stadt <-> Sebnitz
+Magstadt <-> Magstadt
+Bad Breisig, Stadt <-> Bad Breisig
+Demmin, Hansestadt <-> Demmin
+Oberzent, Stadt <-> Oberzent
+Oberhausen-Rheinhausen <-> Oberhausen-Rheinhausen
+Wilkau-Haßlau, Stadt <-> Wilkau-Haßlau
+Köngen <-> Köngen
+Bockenem, Stadt <-> Bockenem
+Perl <-> Perl
+Runkel, Stadt <-> Runkel
+Osthofen, Stadt <-> Osthofen
+Heiligenhafen, Stadt <-> Heiligenhafen
+Großbeeren <-> Großbeeren
+Mainhausen <-> Mainhausen
+Ilsenburg (Harz), Stadt <-> Ilsenburg (Harz)
+Pfedelbach <-> Pfedelbach
+Großhansdorf <-> Großhansdorf
+Wallerfangen <-> Wallerfangen
+Bad Bevensen, Stadt <-> Bad Bevensen
+Visselhövede, Stadt <-> Visselhövede
+Bad König, Stadt <-> Bad König
+Wölfersheim <-> Wölfersheim
+Höchberg, M <-> Höchberg
+Hohenhameln <-> Hohenhameln
+Schulzendorf <-> Schulzendorf
+Großröhrsdorf, Stadt <-> Großröhrsdorf
+Ehringshausen <-> Ehringshausen
+Zorneding <-> Zorneding
+Töging a.Inn, St <-> Töging a.Inn
+Fürstenau, Stadt <-> Fürstenau
+Veitshöchheim <-> Veitshöchheim
+Kißlegg <-> Kißlegg
+Osterburg (Altmark), Hansestadt <-> Osterburg (Altmark)
+Giesen <-> Giesen
+Petersberg <-> Petersberg
+Miltenberg, St <-> Miltenberg
+Schmitten im Taunus <-> Schmitten im Taunus
+Dassel, Stadt <-> Dassel
+Wertingen, St <-> Wertingen
+Ochsenhausen, Stadt <-> Ochsenhausen
+Teisendorf, M <-> Teisendorf
+Nuthetal <-> Nuthetal
+Molbergen <-> Molbergen
+Kemberg, Stadt <-> Kemberg
+Schlitz, Stadt <-> Schlitz
+Höhr-Grenzhausen, Stadt <-> Höhr-Grenzhausen
+Bad Liebenzell, Stadt <-> Bad Liebenzell
+Lügde, Stadt der Osterräder <-> Lügde
+March <-> March
+Schlangen <-> Schlangen
+Aidlingen <-> Aidlingen
+Nalbach <-> Nalbach
+Hemau, St <-> Hemau
+Mücke <-> Mücke
+Essen (Oldenburg) <-> Essen (Oldenburg)
+Oberstdorf, M <-> Oberstdorf
+Kandel, Stadt <-> Kandel
+Worpswede <-> Worpswede
+Wehrheim <-> Wehrheim
+Zwenkau, Stadt <-> Zwenkau
+Urbach <-> Urbach
+Alsbach-Hähnlein <-> Alsbach-Hähnlein
+Lüchow (Wendland), Stadt <-> Lüchow (Wendland)
+Hohenmölsen, Stadt <-> Hohenmölsen
+Laufenburg (Baden), Stadt <-> Laufenburg (Baden)
+Luckau, Stadt <-> Luckau
+Steinbach-Hallenberg, Stadt <-> Steinbach-Hallenberg
+Kolkwitz/Gołkojce <-> Kolkwitz/Gołkojce
+Gnarrenburg <-> Gnarrenburg
+Dornstadt <-> Dornstadt
+Waldfeucht <-> Waldfeucht
+Ehningen <-> Ehningen
+Frickenhausen <-> Frickenhausen
+Ilvesheim <-> Ilvesheim
+Bleckede, Stadt <-> Bleckede
+Werneuchen, Stadt <-> Werneuchen
+Waldheim, Stadt <-> Waldheim
+Hilzingen <-> Hilzingen
+Trittau <-> Trittau
+Salzhemmendorf, Flecken <-> Salzhemmendorf
+Neustadt (Hessen), Stadt <-> Neustadt (Hessen)
+Elsenfeld, M <-> Elsenfeld
+Ichenhausen, St <-> Ichenhausen
+Altenbeken <-> Altenbeken
+Hürtgenwald <-> Hürtgenwald
+Grimmen, Stadt <-> Grimmen
+Dielheim <-> Dielheim
+Lichtenstein <-> Lichtenstein
+Storkow (Mark), Stadt <-> Storkow (Mark)
+Barleben <-> Barleben
+Schaafheim <-> Schaafheim
+Eisenberg (Pfalz), Stadt <-> Eisenberg (Pfalz)
+Wangerland <-> Wangerland
+Nittenau, St <-> Nittenau
+Rain <-> Rain
+Aschheim <-> Aschheim
+Gomaringen <-> Gomaringen
+Adelsdorf <-> Adelsdorf
+Freystadt, St <-> Freystadt
+Tecklenburg, Stadt <-> Tecklenburg
+Florstadt, Stadt <-> Florstadt
+Ebsdorfergrund <-> Ebsdorfergrund
+Titz <-> Titz
+Kyritz, Stadt <-> Kyritz
+Niesky, Stadt <-> Niesky
+Zahna-Elster, Stadt <-> Zahna-Elster
+Mendig, Stadt <-> Mendig
+Elsfleth, Stadt <-> Elsfleth
+Zwiesel, St <-> Zwiesel
+Berching, St <-> Berching
+Wunsiedel, St <-> Wunsiedel
+Sassnitz, Stadt <-> Sassnitz
+Bad Gandersheim, Stadt <-> Bad Gandersheim
+Gäufelden <-> Gäufelden
+Rehau, St <-> Rehau
+Torgelow, Stadt <-> Torgelow
+Fehrbellin <-> Fehrbellin
+Bruchhausen-Vilsen, Flecken <-> Bruchhausen-Vilsen
+Grünheide (Mark) <-> Grünheide (Mark)
+Obernkirchen, Stadt <-> Obernkirchen
+Bockhorn <-> Bockhorn
+Zörbig, Stadt <-> Zörbig
+Bad Liebenwerda, Stadt <-> Bad Liebenwerda
+Elze, Stadt <-> Elze
+Bad Laer <-> Bad Laer
+Hohenbrunn <-> Hohenbrunn
+Auerbach i.d.OPf., St <-> Auerbach i.d.OPf.
+Gerstungen <-> Gerstungen
+Biblis <-> Biblis
+Bestensee <-> Bestensee
+Vallendar, Stadt <-> Vallendar
+Bad Schussenried, Stadt <-> Bad Schussenried
+Reinfeld (Holstein), Stadt <-> Reinfeld (Holstein)
+Neuötting, St <-> Neuötting
+Wetter (Hessen), Stadt <-> Wetter (Hessen)
+Steinheim am Albuch <-> Steinheim am Albuch
+Weißenthurm, Stadt <-> Weißenthurm
+Nittendorf, M <-> Nittendorf
+Brand-Erbisdorf, Stadt <-> Brand-Erbisdorf
+Bad Lauchstädt, Goethestadt <-> Bad Lauchstädt
+Sulzbach (Taunus) <-> Sulzbach (Taunus)
+Borgholzhausen, Stadt <-> Borgholzhausen
+Neustadt an der Orla, Stadt <-> Neustadt an der Orla
+Kusterdingen <-> Kusterdingen
+Neuenkirchen-Vörden <-> Neuenkirchen-Vörden
+Ueckermünde, Seebad , Stadt <-> Ueckermünde
+Plön, Stadt <-> Plön
+Bad Griesbach i.Rottal, St <-> Bad Griesbach i.Rottal
+Oststeinbek <-> Oststeinbek
+Breckerfeld, Hansestadt <-> Breckerfeld
+Südharz <-> Südharz
+Liederbach am Taunus <-> Liederbach am Taunus
+Vohburg a.d.Donau, St <-> Vohburg a.d.Donau
+Kabelsketal <-> Kabelsketal
+Memmelsdorf <-> Memmelsdorf
+Kressbronn am Bodensee <-> Kressbronn am Bodensee
+Hallstadt, St <-> Hallstadt
+Eslohe (Sauerland) <-> Eslohe (Sauerland)
+Zschopau, Stadt, Motorradstadt <-> Zschopau
+Mühlhausen <-> Mühlhausen
+Neuried <-> Neuried
+Schwaig b.Nürnberg <-> Schwaig b.Nürnberg
+Sinntal <-> Sinntal
+Wenzenbach <-> Wenzenbach
+Naunhof, Stadt <-> Naunhof
+Nettersheim <-> Nettersheim
+Heek <-> Heek
+Groß Kreutz (Havel) <-> Groß Kreutz (Havel)
+Bösel <-> Bösel
+Bellheim <-> Bellheim
+Roetgen, Tor zur Eifel <-> Roetgen
+Dörverden <-> Dörverden
+Raguhn-Jeßnitz, Stadt <-> Raguhn-Jeßnitz
+Keltern <-> Keltern
+Mainaschaff <-> Mainaschaff
+Rauenberg, Stadt <-> Rauenberg
+Schemmerhofen <-> Schemmerhofen
+Herzberg (Elster), Stadt <-> Herzberg (Elster)
+Efringen-Kirchen <-> Efringen-Kirchen
+Neuhaus am Rennweg, Stadt <-> Neuhaus am Rennweg
+Rimbach <-> Rimbach
+Langweid a.Lech <-> Langweid a.Lech
+Großenlüder <-> Großenlüder
+Weilmünster, Marktflecken <-> Weilmünster
+Furth im Wald, St <-> Furth im Wald
+Hemmoor, Stadt <-> Hemmoor
+Waldenbuch, Stadt <-> Waldenbuch
+Sande <-> Sande
+Gleichen <-> Gleichen
+Sonsbeck <-> Sonsbeck
+Borgentreich, Orgelstadt <-> Borgentreich
+Geratal <-> Geratal
+Sülzetal <-> Sülzetal
+Bad Bergzabern, Stadt <-> Bad Bergzabern
+Untergruppenbach <-> Untergruppenbach
+Schladen-Werla <-> Schladen-Werla
+Wissen, Stadt <-> Wissen
+Möckmühl, Stadt <-> Möckmühl
+Meßkirch, Stadt <-> Meßkirch
+Flieden <-> Flieden
+Kandern, Stadt <-> Kandern
+Heiden <-> Heiden
+Obertraubling <-> Obertraubling
+Kappeln <-> Kappeln
+Fürstenzell, M <-> Fürstenzell
+Pullach i.Isartal <-> Pullach i.Isartal
+Kirn, Stadt <-> Kirn
+Tirschenreuth, St <-> Tirschenreuth
+Volkach, St <-> Volkach
+Schnaittach, M <-> Schnaittach
+Hermsdorf <-> Hermsdorf
+Obernburg a.Main, St <-> Obernburg a.Main
+Biederitz <-> Biederitz
+Ortenberg <-> Ortenberg
+Fuldabrück <-> Fuldabrück
+Bad Rothenfelde <-> Bad Rothenfelde
+Löwenberger Land <-> Löwenberger Land
+Garching a.d.Alz <-> Garching a.d.Alz
+Lienen <-> Lienen
+Staufen im Breisgau, Stadt <-> Staufen im Breisgau
+Seegebiet Mansfelder Land <-> Seegebiet Mansfelder Land
+Dietmannsried, M <-> Dietmannsried
+Nonnweiler <-> Nonnweiler
+Heikendorf <-> Heikendorf
+Furtwangen im Schwarzwald, Stadt <-> Furtwangen im Schwarzwald
+Ergoldsbach, M <-> Ergoldsbach
+Dornburg <-> Dornburg
+Schleiz, Stadt <-> Schleiz
+Rülzheim <-> Rülzheim
+Nordheim <-> Nordheim
+Rottenburg a.d.Laaber, St <-> Rottenburg a.d.Laaber
+Wörrstadt, Stadt <-> Wörrstadt
+Kleinostheim <-> Kleinostheim
+Blankenheim <-> Blankenheim
+Allersberg, M <-> Allersberg
+Doberlug-Kirchhain, Stadt <-> Doberlug-Kirchhain
+Ballenstedt, Stadt <-> Ballenstedt
+Unterwellenborn <-> Unterwellenborn
+Kahl a.Main <-> Kahl a.Main
+Viechtach, St <-> Viechtach
+Colditz, Stadt <-> Colditz
+Stadtilm, Stadt <-> Stadtilm
+Großräschen/Rań, Stadt <-> Großräschen/Rań
+Woltersdorf <-> Woltersdorf
+Langenberg <-> Langenberg
+Timmendorfer Strand <-> Timmendorfer Strand
+Staufenberg <-> Staufenberg
+Großheide <-> Großheide
+Niederwerrn <-> Niederwerrn
+Meine <-> Meine
+Möser <-> Möser
+Reilingen <-> Reilingen
+Aspach <-> Aspach
+Heroldsberg, M <-> Heroldsberg
+Kuppenheim, Stadt <-> Kuppenheim
+Barntrup, Stadt <-> Barntrup
+Lauter-Bernsbach, Stadt <-> Lauter-Bernsbach
+Arnstein, St <-> Arnstein
+Schwarzenbruck <-> Schwarzenbruck
+Hainichen <-> Hainichen
+Kirchen (Sieg), Stadt <-> Kirchen (Sieg)
+Föritztal <-> Föritztal
+Selters (Taunus) <-> Selters (Taunus)
+Uhldingen-Mühlhofen <-> Uhldingen-Mühlhofen
+Ottobeuren, M <-> Ottobeuren
+Reichelsheim (Odenwald) <-> Reichelsheim (Odenwald)
+Reichenbach an der Fils <-> Reichenbach an der Fils
+Bersenbrück, Stadt <-> Bersenbrück
+Biebergemünd <-> Biebergemünd
+Kellinghusen, Stadt (einschl. Störkathen) <-> Kellinghusen
+Bad Feilnbach <-> Bad Feilnbach
+Neuenbürg, Stadt <-> Neuenbürg
+Lützen, Stadt <-> Lützen
+Friedland <-> Friedland
+Wettringen <-> Wettringen
+Teterow, Bergringstadt <-> Teterow
+Mansfeld, Stadt <-> Mansfeld
+Herrieden, St <-> Herrieden
+Moritzburg <-> Moritzburg
+Lahnau <-> Lahnau
+Ahrensbök <-> Ahrensbök
+Hohberg <-> Hohberg
+Dornstetten, Stadt <-> Dornstetten
+Borsdorf <-> Borsdorf
+Calbe (Saale), Stadt <-> Calbe (Saale)
+Willebadessen, Stadt <-> Willebadessen
+Uedem <-> Uedem
+Premnitz, Stadt <-> Premnitz
+Landstuhl, Sickingenstadt, Stadt <-> Landstuhl
+Wachtendonk <-> Wachtendonk
+Penig, Stadt <-> Penig
+Zell am Harmersbach, Stadt <-> Zell am Harmersbach
+Mücheln (Geiseltal), Stadt <-> Mücheln (Geiseltal)
+Budenheim <-> Budenheim
+Reichertshofen, M <-> Reichertshofen
+Simmern/ Hunsrück, Stadt <-> Simmern/ Hunsrück
+Nierstein, Stadt <-> Nierstein
+Ransbach-Baumbach, Stadt <-> Ransbach-Baumbach
+Forst <-> Forst
+Schieder-Schwalenberg, Stadt <-> Schieder-Schwalenberg
+Bad Sulza, Stadt <-> Bad Sulza
+Helmbrechts, St <-> Helmbrechts
+Bad Endorf, M <-> Bad Endorf
+Bönnigheim, Stadt <-> Bönnigheim
+Jettingen <-> Jettingen
+Elz <-> Elz
+Leisnig, Stadt <-> Leisnig
+Lauchringen <-> Lauchringen
+Sauerlach <-> Sauerlach
+Berg <-> Berg
+Grafenau <-> Grafenau
+Oranienbaum-Wörlitz, Stadt <-> Oranienbaum-Wörlitz
+Hausham <-> Hausham
+Knittlingen, Stadt <-> Knittlingen
+Salach <-> Salach
+Bad Lausick, Stadt <-> Bad Lausick
+Osternienburger Land <-> Osternienburger Land
+Berg b.Neumarkt i.d.OPf. <-> Berg b.Neumarkt i.d.OPf.
+Thedinghausen <-> Thedinghausen
+Siegsdorf <-> Siegsdorf
+Schierling, M <-> Schierling
+Freisen <-> Freisen
+Nessetal <-> Nessetal
+Bad Sooden-Allendorf, Stadt <-> Bad Sooden-Allendorf
+Großbottwar, Stadt <-> Großbottwar
+Dannenberg (Elbe), Stadt <-> Dannenberg (Elbe)
+Teublitz, St <-> Teublitz
+Kühlungsborn, Ostseebad, Stadt <-> Kühlungsborn
+Haibach <-> Haibach
+Lenningen <-> Lenningen
+Neresheim, Stadt <-> Neresheim
+Neunburg vorm Wald, St <-> Neunburg vorm Wald
+Könnern, Stadt <-> Könnern
+Bad Schmiedeberg, Stadt <-> Bad Schmiedeberg
+Weida, Stadt <-> Weida
+Meinersen <-> Meinersen
+Medebach, Hansestadt <-> Medebach
+Neuendettelsau <-> Neuendettelsau
+Neunkirchen a.Brand, M <-> Neunkirchen a.Brand
+Amt Wachsenburg <-> Amt Wachsenburg
+Hüfingen, Stadt <-> Hüfingen
+Salzbergen <-> Salzbergen
+Ankum <-> Ankum
+Drei Gleichen <-> Drei Gleichen
+Georgenthal <-> Georgenthal
+Postbauer-Heng, M <-> Postbauer-Heng
+Althengstett <-> Althengstett
+Beeskow, Stadt <-> Beeskow
+Birkenwerder <-> Birkenwerder
+Oberkochen, Stadt <-> Oberkochen
+Hemmingen <-> Hemmingen
+Liebenburg <-> Liebenburg
+Barby, Stadt <-> Barby
+Großrosseln <-> Großrosseln
+Baiersdorf, St <-> Baiersdorf
+Erzhausen <-> Erzhausen
+Saulheim <-> Saulheim
+Bruchmühlbach-Miesau <-> Bruchmühlbach-Miesau
+Teuchern, Stadt <-> Teuchern
+Leck <-> Leck
+Lauta, Stadt <-> Lauta
+Ehrenkirchen <-> Ehrenkirchen
+Bühlertal <-> Bühlertal
+Bad Grund (Harz) <-> Bad Grund (Harz)
+Weikersheim, Stadt <-> Weikersheim
+Bad Endbach <-> Bad Endbach
+Stockstadt a.Main, M <-> Stockstadt a.Main
+Kirchheimbolanden, Stadt <-> Kirchheimbolanden
+Illingen <-> Illingen
+Kirchberg <-> Kirchberg
+Elsteraue <-> Elsteraue
+Bordesholm <-> Bordesholm
+Jesteburg <-> Jesteburg
+Bad Düben, Stadt <-> Bad Düben
+Krailling <-> Krailling
+Loßburg <-> Loßburg
+Hellenthal <-> Hellenthal
+Parsberg, St <-> Parsberg
+Löffingen, Stadt <-> Löffingen
+Bad Füssing <-> Bad Füssing
+Asbach <-> Asbach
+Heuchelheim a. d. Lahn <-> Heuchelheim a. d. Lahn
+Grasberg <-> Grasberg
+Aldingen <-> Aldingen
+Altomünster, M <-> Altomünster
+Rheinsberg, Stadt <-> Rheinsberg
+Sögel <-> Sögel
+Barth, Stadt <-> Barth
+Bismark (Altmark), Stadt <-> Bismark (Altmark)
+Calau/Kalawa, Stadt <-> Calau/Kalawa
+Elsterwerda, Stadt <-> Elsterwerda
+Reisbach, M <-> Reisbach
+Gundelfingen a.d.Donau, St <-> Gundelfingen a.d.Donau
+Bad Liebenstein, Stadt <-> Bad Liebenstein
+Hopsten <-> Hopsten
+Berchtesgaden, M <-> Berchtesgaden
+Hengersberg, M <-> Hengersberg
+Seefeld <-> Seefeld
+Algermissen <-> Algermissen
+Strullendorf <-> Strullendorf
+Bützow, Stadt <-> Bützow
+Untermeitingen <-> Untermeitingen
+Küps, M <-> Küps
+Nörten-Hardenberg, Flecken <-> Nörten-Hardenberg
+Nordharz <-> Nordharz
+Bodenheim <-> Bodenheim
+Lößnitz, Stadt <-> Lößnitz
+Altrip <-> Altrip
+Schömberg <-> Schömberg
+Lastrup <-> Lastrup
+Daun, Stadt <-> Daun
+Weissach <-> Weissach
+Vohenstrauß, St <-> Vohenstrauß
+Pfronten <-> Pfronten
+Emlichheim <-> Emlichheim
+Karlstein a.Main <-> Karlstein a.Main
+Winterbach <-> Winterbach
+Bad Herrenalb, Stadt <-> Bad Herrenalb
+Oederan, Stadt <-> Oederan
+Stadland <-> Stadland
+Inden <-> Inden
+Schweich, Stadt <-> Schweich
+Ramstein-Miesenbach, Stadt <-> Ramstein-Miesenbach
+Seeland, Stadt <-> Seeland
+Allstedt, Stadt <-> Allstedt
+Treuen, Stadt <-> Treuen
+Vetschau/Spreewald / Wětošow/Błota, Stadt <-> Vetschau/Spreewald / Wětošow/Błota
+Gettorf <-> Gettorf
+Schonungen <-> Schonungen
+Langenargen <-> Langenargen
+Feldkirchen <-> Feldkirchen
+Radeburg, Stadt <-> Radeburg
+Bad Wimpfen, Stadt <-> Bad Wimpfen
+Altenberg, Stadt <-> Altenberg
+Weissach im Tal <-> Weissach im Tal
+Holdorf <-> Holdorf
+Cappeln (Oldenburg) <-> Cappeln (Oldenburg)
+Gundelsheim <-> Gundelsheim
+Münnerstadt, St <-> Münnerstadt
+Elzach, Stadt <-> Elzach
+Treuenbrietzen, Stadt <-> Treuenbrietzen
+Oberstenfeld <-> Oberstenfeld
+Lugau/Erzgeb., Stadt <-> Lugau/Erzgeb.
+Legden <-> Legden
+Ahnatal <-> Ahnatal
+Naila, St <-> Naila
+Staufenberg <-> Staufenberg
+Klettgau <-> Klettgau
+Kremmen, Stadt <-> Kremmen
+Söhlde <-> Söhlde
+Jockgrim <-> Jockgrim
+Flintbek <-> Flintbek
+Bördeland <-> Bördeland
+Renchen, Stadt <-> Renchen
+Dannstadt-Schauernheim <-> Dannstadt-Schauernheim
+Groitzsch, Stadt <-> Groitzsch
+Dörentrup <-> Dörentrup
+Großmehring <-> Großmehring
+Dummerstorf <-> Dummerstorf
+Leipheim, St <-> Leipheim
+Sontra, Stadt <-> Sontra
+Bad Kötzting, St <-> Bad Kötzting
+Bergkirchen <-> Bergkirchen
+Belgern-Schildau, Stadt <-> Belgern-Schildau
+Harzgerode, Stadt <-> Harzgerode
+Dittelbrunn <-> Dittelbrunn
+Abtsgmünd <-> Abtsgmünd
+Otterndorf, Stadt <-> Otterndorf
+Bad Berka, Stadt <-> Bad Berka
+Falkenstein/Vogtl., Stadt <-> Falkenstein/Vogtl.
+Klingenthal, Stadt <-> Klingenthal
+Bunde <-> Bunde
+Saarburg, Stadt <-> Saarburg
+Rimpar, M <-> Rimpar
+Wietze <-> Wietze
+Schellerten <-> Schellerten
+Harztor <-> Harztor
+Sulzbach a.Main, M <-> Sulzbach a.Main
+Heidenrod <-> Heidenrod
+Friedrichroda, Stadt <-> Friedrichroda
+Allendorf (Eder) <-> Allendorf (Eder)
+Ortenburg, M <-> Ortenburg
+Pleinfeld, M <-> Pleinfeld
+Flein <-> Flein
+Mittenwald, M <-> Mittenwald
+Großkarolinenfeld <-> Großkarolinenfeld
+Edermünde <-> Edermünde
+Burkardroth, M <-> Burkardroth
+Allensbach <-> Allensbach
+Albbruck <-> Albbruck
+Heidesee <-> Heidesee
+Delligsen, Flecken <-> Delligsen
+Hasselroth <-> Hasselroth
+Horstmar, Stadt der Burgmannshöfe <-> Horstmar
+Schutterwald <-> Schutterwald
+Sinzing <-> Sinzing
+Pfaffenhofen a.d.Roth, M <-> Pfaffenhofen a.d.Roth
+Baienfurt <-> Baienfurt
+Pockau-Lengefeld, Stadt <-> Pockau-Lengefeld
+Wallersdorf, M <-> Wallersdorf
+Aichwald <-> Aichwald
+Pulsnitz, Stadt <-> Pulsnitz
+Wabern <-> Wabern
+Geisenhausen, M <-> Geisenhausen
+Hardegsen, Stadt <-> Hardegsen
+Zwingenberg <-> Zwingenberg
+Schwülper <-> Schwülper
+Großkrotzenburg <-> Großkrotzenburg
+Eisfeld, Stadt <-> Eisfeld
+Pfalzgrafenweiler <-> Pfalzgrafenweiler
+Schwanstetten, M <-> Schwanstetten
+Alfdorf <-> Alfdorf
+Hinte <-> Hinte
+Oberstaufen, M <-> Oberstaufen
+Haslach im Kinzigtal, Stadt <-> Haslach im Kinzigtal
+Weimar (Lahn) <-> Weimar (Lahn)
+Am Mellensee <-> Am Mellensee
+Roßwein, Stadt <-> Roßwein
+Scheßlitz, St <-> Scheßlitz
+Enkenbach-Alsenborn <-> Enkenbach-Alsenborn
+Schwendi <-> Schwendi
+Meldorf, Stadt <-> Meldorf
+Ebern, St <-> Ebern
+Bous <-> Bous
+Bindlach <-> Bindlach
+Laufen, St <-> Laufen
+Gerolstein, Stadt <-> Gerolstein
+Breuberg, Stadt <-> Breuberg
+Annweiler am Trifels, Stadt <-> Annweiler am Trifels
+Aken (Elbe), Stadt <-> Aken (Elbe)
+Pilsting, M <-> Pilsting
+Frielendorf, Marktflecken <-> Frielendorf
+Altmannstein, M <-> Altmannstein
+Bad Sachsa, Stadt <-> Bad Sachsa
+Neulußheim <-> Neulußheim
+Reinsdorf <-> Reinsdorf
+Nortorf <-> Nortorf
+Greding, St <-> Greding
+Berne <-> Berne
+Markneukirchen, Stadt <-> Markneukirchen
+Namborn <-> Namborn
+Ampfing <-> Ampfing
+Maxdorf <-> Maxdorf
+Waldstetten <-> Waldstetten
+Freyung, St <-> Freyung
+Wriezen, Stadt <-> Wriezen
+Stolzenau <-> Stolzenau
+Neukieritzsch <-> Neukieritzsch
+Schöppingen <-> Schöppingen
+Türkheim, M <-> Türkheim
+Kalbe (Milde), Stadt <-> Kalbe (Milde)
+Roßleben-Wiehe, Stadt <-> Roßleben-Wiehe
+Burgebrach, M <-> Burgebrach
+Oppenheim, Stadt <-> Oppenheim
+Am Ettersberg <-> Am Ettersberg
+Schwanau <-> Schwanau
+Ostrach <-> Ostrach
+Birkenfeld <-> Birkenfeld
+Tuntenhausen <-> Tuntenhausen
+Ruhstorf a.d.Rott, M <-> Ruhstorf a.d.Rott
+Fernwald <-> Fernwald
+Königsee, Stadt <-> Königsee
+Immenhausen, Stadt <-> Immenhausen
+Sonnenbühl <-> Sonnenbühl
+Königsbronn <-> Königsbronn
+Bischofswiesen <-> Bischofswiesen
+Eiterfeld, Marktgemeinde <-> Eiterfeld
+Geiselhöring, St <-> Geiselhöring
+Wagenfeld <-> Wagenfeld
+Nobitz <-> Nobitz
+Jettingen-Scheppach, M <-> Jettingen-Scheppach
+Rednitzhembach <-> Rednitzhembach
+Esens, Stadt <-> Esens
+Lahntal <-> Lahntal
+Pöttmes, M <-> Pöttmes
+Lichtenau <-> Lichtenau
+Ilshofen, Stadt <-> Ilshofen
+Lengenfeld, Stadt <-> Lengenfeld
+Kottmar <-> Kottmar
+Höchstädt a.d.Donau, St <-> Höchstädt a.d.Donau
+Stegaurach <-> Stegaurach
+Durach <-> Durach
+Coppenbrügge, Flecken <-> Coppenbrügge
+Neuhofen <-> Neuhofen
+Homberg (Ohm), Stadt <-> Homberg (Ohm)
+Geithain, Stadt <-> Geithain
+Lautertal (Odenwald) <-> Lautertal (Odenwald)
+Lemwerder <-> Lemwerder
+Dermbach <-> Dermbach
+Laer <-> Laer
+Reppenstedt <-> Reppenstedt
+Edenkoben, Stadt <-> Edenkoben
+Reichelsheim (Wetterau), Stadt <-> Reichelsheim (Wetterau)
+Müncheberg, Stadt <-> Müncheberg
+Ladbergen <-> Ladbergen
+Hermeskeil, Stadt <-> Hermeskeil
+Murg <-> Murg
+Ensdorf <-> Ensdorf
+Calden <-> Calden
+Georgensgmünd <-> Georgensgmünd
+Weilrod <-> Weilrod
+Dettelbach, St <-> Dettelbach
+Kahla, Stadt <-> Kahla
+Eibenstock, Stadt <-> Eibenstock
+Auenwald <-> Auenwald
+Gröditz, Stadt <-> Gröditz
+Bonndorf im Schwarzwald, Stadt <-> Bonndorf im Schwarzwald
+Saerbeck, NRW-Klimakommune <-> Saerbeck
+Waldeck <-> Waldeck
+Lambsheim <-> Lambsheim
+Grömitz <-> Grömitz
+Erndtebrück <-> Erndtebrück
+Hardheim <-> Hardheim
+Neukirchen/Erzgeb. <-> Neukirchen/Erzgeb.
+Dietenheim, Stadt <-> Dietenheim
+Herscheid <-> Herscheid
+Böhlen, Stadt <-> Böhlen
+Bakum <-> Bakum
+Neukirchen <-> Neukirchen
+Horneburg, Flecken <-> Horneburg
+Grassau, M <-> Grassau
+Mallersdorf-Pfaffenberg, M <-> Mallersdorf-Pfaffenberg
+Berglen <-> Berglen
+Eberdingen <-> Eberdingen
+Schallstadt <-> Schallstadt
+Wiernsheim <-> Wiernsheim
+Gedern, Stadt <-> Gedern
+Mutlangen <-> Mutlangen
+Waging a.See, M <-> Waging a.See
+Gerolzhofen, St <-> Gerolzhofen
+Niedere Börde <-> Niedere Börde
+Schipkau <-> Schipkau
+Leegebruch <-> Leegebruch
+Schönkirchen <-> Schönkirchen
+Bernkastel-Kues, Stadt <-> Bernkastel-Kues
+Malchin, Stadt <-> Malchin
+Dettenheim <-> Dettenheim
+Lathen <-> Lathen
+Breidenbach <-> Breidenbach
+Putzbrunn <-> Putzbrunn
+Heringen (Werra), Stadt <-> Heringen (Werra)
+Lützelbach <-> Lützelbach
+Katlenburg-Lindau <-> Katlenburg-Lindau
+Wüstenrot <-> Wüstenrot
+Wutöschingen <-> Wutöschingen
+Dinkelscherben, M <-> Dinkelscherben
+Waldsassen, St <-> Waldsassen
+Gerbstedt, Stadt <-> Gerbstedt
+Stadtroda, Stadt <-> Stadtroda
+Emmering <-> Emmering
+Deizisau <-> Deizisau
+Barnstorf, Flecken <-> Barnstorf
+Ebermannstadt, St <-> Ebermannstadt
+Holle <-> Holle
+Leinburg <-> Leinburg
+Klingenberg <-> Klingenberg
+Villmar, Marktflecken <-> Villmar
+Brannenburg <-> Brannenburg
+Polch, Stadt <-> Polch
+Huy <-> Huy
+Argenbühl <-> Argenbühl
+Boxberg <-> Boxberg
+Altenkirchen (Westerwald), Stadt <-> Altenkirchen (Westerwald)
+Mitterteich, St <-> Mitterteich
+Eichendorf, M <-> Eichendorf
+Bienenbüttel <-> Bienenbüttel
+Bernau a.Chiemsee <-> Bernau a.Chiemsee
+Moringen, Stadt <-> Moringen
+Waldmünchen, St <-> Waldmünchen
+Neuenstein <-> Neuenstein
+Schelklingen, Stadt <-> Schelklingen
+Rötha, Stadt <-> Rötha
+Hartha, Stadt <-> Hartha
+Bardowick, Flecken <-> Bardowick
+Schwarzenbach a.d.Saale, St <-> Schwarzenbach a.d.Saale
+Ketzin/Havel, Stadt <-> Ketzin/Havel
+Weisendorf, M <-> Weisendorf
+Weiskirchen <-> Weiskirchen
+Kropp <-> Kropp
+Wöllstadt <-> Wöllstadt
+Schöffengrund <-> Schöffengrund
+Nattheim <-> Nattheim
+Neulingen <-> Neulingen
+Grasbrunn <-> Grasbrunn
+Murr <-> Murr
+Zusmarshausen, M <-> Zusmarshausen
+Neustadt-Glewe, Stadt <-> Neustadt-Glewe
+Fockbek <-> Fockbek
+Hage, Flecken <-> Hage
+Oedheim <-> Oedheim
+Machern <-> Machern
+Jerichow, Stadt <-> Jerichow
+Blankenhain, Stadt <-> Blankenhain
+Herdorf, Stadt <-> Herdorf
+Schliersee, M <-> Schliersee
+Kupferzell <-> Kupferzell
+Greifenstein <-> Greifenstein
+Bispingen <-> Bispingen
+Osterburken, Stadt <-> Osterburken
+Buttstädt <-> Buttstädt
+Arnstorf, M <-> Arnstorf
+Mainleus, M <-> Mainleus
+Kölleda, Stadt <-> Kölleda
+Grafenau <-> Grafenau
+Neustadt (Wied) <-> Neustadt (Wied)
+Glandorf <-> Glandorf
+Haag i.OB, M <-> Haag i.OB
+Metelen <-> Metelen
+Pegau, Stadt <-> Pegau
+Cölbe <-> Cölbe
+Büchen <-> Büchen
+Immenstaad am Bodensee <-> Immenstaad am Bodensee
+Salzweg <-> Salzweg
+Sanitz <-> Sanitz
+Bad Brückenau, St <-> Bad Brückenau
+Volkmarsen, Stadt <-> Volkmarsen
+Laudenbach <-> Laudenbach
+Einhausen <-> Einhausen
+Sinn <-> Sinn
+Kiefersfelden <-> Kiefersfelden
+Rheinmünster <-> Rheinmünster
+Hecklingen, Stadt <-> Hecklingen
+Gau-Algesheim, Stadt <-> Gau-Algesheim
+Kalbach <-> Kalbach
+Bietigheim <-> Bietigheim
+Bad Sobernheim, Stadt <-> Bad Sobernheim
+Röhrmoos <-> Röhrmoos
+Dunningen <-> Dunningen
+Burgkunstadt, St <-> Burgkunstadt
+Artern, Stadt <-> Artern
+Wathlingen <-> Wathlingen
+Maulbronn, Stadt <-> Maulbronn
+Grammetal <-> Grammetal
+Eppertshausen <-> Eppertshausen
+Rosenfeld, Stadt <-> Rosenfeld
+Südeichsfeld <-> Südeichsfeld
+Römhild, Stadt <-> Römhild
+Essingen <-> Essingen
+Heitersheim, Stadt <-> Heitersheim
+Tiefenbach <-> Tiefenbach
+Glashütte, Stadt <-> Glashütte
+Knetzgau <-> Knetzgau
+Dietfurt a.d.Altmühl, St <-> Dietfurt a.d.Altmühl
+Uffenheim, St <-> Uffenheim
+Tangstedt <-> Tangstedt
+Immendingen <-> Immendingen
+Biebesheim am Rhein <-> Biebesheim am Rhein
+Nienhagen <-> Nienhagen
+Rodalben, Stadt <-> Rodalben
+Gerbrunn <-> Gerbrunn
+Steinenbronn <-> Steinenbronn
+Thannhausen, St <-> Thannhausen
+Sohland a. d. Spree <-> Sohland a. d. Spree
+Eggolsheim, M <-> Eggolsheim
+Bad Saarow <-> Bad Saarow
+Unstrut-Hainich <-> Unstrut-Hainich
+Sottrum <-> Sottrum
+Fredenbeck <-> Fredenbeck
+Beilstein <-> Beilstein
+Zellingen, M <-> Zellingen
+Annaburg, Stadt <-> Annaburg
+Elbe-Parey <-> Elbe-Parey
+Otzberg <-> Otzberg
+Eichwalde <-> Eichwalde
+Burghaun, Marktgemeinde <-> Burghaun
+Weiler-Simmerberg, M <-> Weiler-Simmerberg
+Ottersweier <-> Ottersweier
+Petershausen <-> Petershausen
+Veitsbronn <-> Veitsbronn
+Nuthe-Urstromtal <-> Nuthe-Urstromtal
+Velden, M <-> Velden
+Bammental <-> Bammental
+Zimmern ob Rottweil <-> Zimmern ob Rottweil
+Obergünzburg, M <-> Obergünzburg
+Bechhofen <-> Bechhofen
+Winterlingen <-> Winterlingen
+Güglingen, Stadt <-> Güglingen
+Grafenwöhr, St <-> Grafenwöhr
+Oberding <-> Oberding
+Rheurdt <-> Rheurdt
+Hutthurm, M <-> Hutthurm
+Kappelrodeck <-> Kappelrodeck
+Altlußheim <-> Altlußheim
+Benningen am Neckar <-> Benningen am Neckar
+Arendsee (Altmark), Stadt <-> Arendsee (Altmark)
+Wassertrüdingen, St <-> Wassertrüdingen
+Au i.d.Hallertau, M <-> Au i.d.Hallertau
+Wutha-Farnroda <-> Wutha-Farnroda
+Brechen <-> Brechen
+Linz am Rhein, Stadt <-> Linz am Rhein
+Hofbieber <-> Hofbieber
+Offenbach an der Queich <-> Offenbach an der Queich
+Ihringen <-> Ihringen
+Schwarzenfeld, M <-> Schwarzenfeld
+Hanstedt <-> Hanstedt
+Waldachtal <-> Waldachtal
+Rodenberg, Stadt <-> Rodenberg
+Schwabhausen <-> Schwabhausen
+Vilseck, St <-> Vilseck
+Neumarkt-Sankt Veit, St <-> Neumarkt-Sankt Veit
+Bad Hönningen, Stadt <-> Bad Hönningen
+Hachenburg, Stadt <-> Hachenburg
+Litzendorf <-> Litzendorf
+Kämpfelbach <-> Kämpfelbach
+Bad Rodach, St <-> Bad Rodach
+Vogtsburg im Kaiserstuhl, Stadt <-> Vogtsburg im Kaiserstuhl
+Zell im Wiesental, Stadt <-> Zell im Wiesental
+Gersheim <-> Gersheim
+Trochtelfingen, Stadt <-> Trochtelfingen
+Satow <-> Satow
+Laage, Stadt <-> Laage
+Bernsdorf <-> Bernsdorf
+Wolfschlugen <-> Wolfschlugen
+Wittenburg, Stadt <-> Wittenburg
+Glücksburg (Ostsee), Stadt <-> Glücksburg (Ostsee)
+Bondorf <-> Bondorf
+Gammertingen, Stadt <-> Gammertingen
+Ilmtal-Weinstraße <-> Ilmtal-Weinstraße
+Edertal, Nationalparkgemeinde <-> Edertal
+Alpirsbach, Stadt <-> Alpirsbach
+Ingersheim <-> Ingersheim
+Neckartenzlingen <-> Neckartenzlingen
+Havelberg, Hansestadt <-> Havelberg
+Aarbergen <-> Aarbergen
+Ruhpolding <-> Ruhpolding
+Geisingen, Stadt <-> Geisingen
+Gangkofen, M <-> Gangkofen
+Bad Marienberg (Westerwald), Stadt <-> Bad Marienberg (Westerwald)
+Deißlingen <-> Deißlingen
+Rodewisch, Stadt <-> Rodewisch
+Dötlingen <-> Dötlingen
+Nabburg, St <-> Nabburg
+Dornhan, Stadt <-> Dornhan
+Westhausen <-> Westhausen
+Erdweg <-> Erdweg
+Niedergörsdorf <-> Niedergörsdorf
+Schliengen <-> Schliengen
+Isenbüttel <-> Isenbüttel
+Adelebsen, Flecken <-> Adelebsen
+Neuffen, Stadt <-> Neuffen
+Biesenthal, Stadt <-> Biesenthal
+Schönberg (Holstein) <-> Schönberg (Holstein)
+Arnstein, St <-> Arnstein
+Windsbach, St <-> Windsbach
+Birstein <-> Birstein
+Pentling <-> Pentling
+Dettingen unter Teck <-> Dettingen unter Teck
+Nachrodt-Wiblingwerde <-> Nachrodt-Wiblingwerde
+Lachendorf <-> Lachendorf
+Uder <-> Uder
+Wrestedt <-> Wrestedt
+Sittensen <-> Sittensen
+Zierenberg, Stadt <-> Zierenberg
+Pleidelsheim <-> Pleidelsheim
+Ellerau <-> Ellerau
+Dierdorf, Stadt <-> Dierdorf
+Lossatal <-> Lossatal
+Riedenburg, St <-> Riedenburg
+Großalmerode, Stadt <-> Großalmerode
+Dußlingen <-> Dußlingen
+Klingenberg a.Main, St <-> Klingenberg a.Main
+Werra-Suhl-Tal, Stadt <-> Werra-Suhl-Tal
+Falkenberg/Elster, Stadt <-> Falkenberg/Elster
+Ebersdorf b.Coburg <-> Ebersdorf b.Coburg
+Moosinning <-> Moosinning
+Oberthal <-> Oberthal
+Eutingen im Gäu <-> Eutingen im Gäu
+Sehmatal <-> Sehmatal
+Dudenhofen <-> Dudenhofen
+Untergriesbach, M <-> Untergriesbach
+Friedland <-> Friedland
+Unstruttal <-> Unstruttal
+Muggensturm <-> Muggensturm
+Dohna, Stadt <-> Dohna
+Bischberg <-> Bischberg
+Nieheim, Stadt <-> Nieheim
+Hüttlingen <-> Hüttlingen
+Buttenwiesen <-> Buttenwiesen
+Altbach <-> Altbach
+Billigheim <-> Billigheim
+Gochsheim <-> Gochsheim
+Malchow, Inselstadt <-> Malchow
+Michelau i.OFr. <-> Michelau i.OFr.
+Schlangenbad <-> Schlangenbad
+Spangenberg, Liebenbachstadt <-> Spangenberg
+Nesse-Apfelstädt <-> Nesse-Apfelstädt
+Stockstadt am Rhein <-> Stockstadt am Rhein
+Hörselberg-Hainich <-> Hörselberg-Hainich
+Beelen <-> Beelen
+Waldsee <-> Waldsee
+Neustadt a.d.Waldnaab, St <-> Neustadt a.d.Waldnaab
+Westerburg, Stadt <-> Westerburg
+Diekholzen <-> Diekholzen
+Faßberg <-> Faßberg
+Mengkofen <-> Mengkofen
+Großbreitenbach, Stadt <-> Großbreitenbach
+Thalheim/Erzgeb., Stadt <-> Thalheim/Erzgeb.
+Bickenbach <-> Bickenbach
+Mainhardt <-> Mainhardt
+Schlüsselfeld, St <-> Schlüsselfeld
+Burkhardtsdorf <-> Burkhardtsdorf
+Bad Blankenburg, Stadt <-> Bad Blankenburg
+Boostedt <-> Boostedt
+Plaidt <-> Plaidt
+Sickte <-> Sickte
+Auetal <-> Auetal
+Langquaid, M <-> Langquaid
+Lichtentanne <-> Lichtentanne
+Rohrbach <-> Rohrbach
+Karlshuld <-> Karlshuld
+Kronau <-> Kronau
+Jade <-> Jade
+Plau am See, Stadt <-> Plau am See
+Schirgiswalde-Kirschau, Stadt <-> Schirgiswalde-Kirschau
+Bad Königshofen i.Grabfeld, St <-> Bad Königshofen i.Grabfeld
+Tarp <-> Tarp
+Mudersbach <-> Mudersbach
+Meersburg, Stadt <-> Meersburg
+Uelsen <-> Uelsen
+Kirchardt <-> Kirchardt
+Hohenlockstedt <-> Hohenlockstedt
+Hebertshausen <-> Hebertshausen
+Emskirchen, M <-> Emskirchen
+Kirchheim am Neckar <-> Kirchheim am Neckar
+Niedereschach <-> Niedereschach
+Allershausen <-> Allershausen
+Königsfeld im Schwarzwald <-> Königsfeld im Schwarzwald
+An der Schmücke, Stadt <-> An der Schmücke
+Butjadingen <-> Butjadingen
+Geislingen, Stadt <-> Geislingen
+Lübz, Stadt <-> Lübz
+Ispringen <-> Ispringen
+Gransee, Stadt <-> Gransee
+Horst (Holstein) <-> Horst (Holstein)
+Tittmoning, St <-> Tittmoning
+Berga-Wünschendorf, Stadt <-> Berga-Wünschendorf
+Hohenstein <-> Hohenstein
+Haiterbach, Stadt <-> Haiterbach
+Waldbrunn (Westerwald) <-> Waldbrunn (Westerwald)
+Lingenfeld <-> Lingenfeld
+Elztal <-> Elztal
+Weidenberg, M <-> Weidenberg
+Rühen <-> Rühen
+Lohra <-> Lohra
+Gmund a.Tegernsee <-> Gmund a.Tegernsee
+Geltendorf <-> Geltendorf
+Pyrbaum, M <-> Pyrbaum
+Karstädt <-> Karstädt
+Bad Birnbach, M <-> Bad Birnbach
+Rohrdorf <-> Rohrdorf
+Kipfenberg, M <-> Kipfenberg
+Pliening <-> Pliening
+Barbing <-> Barbing
+Heringsdorf <-> Heringsdorf
+Nufringen <-> Nufringen
+Sontheim an der Brenz <-> Sontheim an der Brenz
+Schrozberg, Stadt <-> Schrozberg
+Bodelshausen <-> Bodelshausen
+Schwarmstedt <-> Schwarmstedt
+Treffurt, Stadt <-> Treffurt
+Hausach, Stadt <-> Hausach
+Bräunlingen, Stadt <-> Bräunlingen
+Speichersdorf <-> Speichersdorf
+Dasing <-> Dasing
+Löchgau <-> Löchgau
+Schwarzheide, Stadt <-> Schwarzheide
+Wemding, St <-> Wemding
+Waibstadt, Stadt <-> Waibstadt
+Nottertal-Heilinger Höhen, Stadt <-> Nottertal-Heilinger Höhen
+Schäftlarn <-> Schäftlarn
+Bredstedt, Stadt <-> Bredstedt
+Herrnhut, Stadt <-> Herrnhut
+Umkirch <-> Umkirch
+Kemnath, St <-> Kemnath
+Kastellaun, Stadt <-> Kastellaun
+Fürstenberg/Havel, Stadt <-> Fürstenberg/Havel
+Kalefeld <-> Kalefeld
+Leun, Stadt <-> Leun
+Oberlungwitz, Stadt <-> Oberlungwitz
+Beselich <-> Beselich
+Neubulach, Stadt <-> Neubulach
+Münzenberg, Stadt <-> Münzenberg
+Satteldorf <-> Satteldorf
+Ober-Mörlen <-> Ober-Mörlen
+Dietenhofen, M <-> Dietenhofen
+Nienburg (Saale), Stadt <-> Nienburg (Saale)
+Haimhausen <-> Haimhausen
+Wusterhausen/Dosse <-> Wusterhausen/Dosse
+Hirschau, St <-> Hirschau
+Saal a.d.Donau <-> Saal a.d.Donau
+Mengerskirchen, Marktflecken <-> Mengerskirchen
+Kolitzheim <-> Kolitzheim
+Bruckberg <-> Bruckberg
+Willingen (Upland) <-> Willingen (Upland)
+Weischlitz <-> Weischlitz
+Limeshain <-> Limeshain
+Marne, Stadt <-> Marne
+Bobritzsch-Hilbersdorf <-> Bobritzsch-Hilbersdorf
+Wirges, Stadt <-> Wirges
+Tacherting <-> Tacherting
+Wolfach, Stadt <-> Wolfach
+Nandlstadt, M <-> Nandlstadt
+Brotterode-Trusetal, Stadt <-> Brotterode-Trusetal
+Böhmenkirch <-> Böhmenkirch
+Rot am See <-> Rot am See
+Hambergen <-> Hambergen
+Merzhausen <-> Merzhausen
+Babenhausen, M <-> Babenhausen
+Oberboihingen <-> Oberboihingen
+Floh-Seligenthal <-> Floh-Seligenthal
+Ebensfeld, M <-> Ebensfeld
+Bad Emstal <-> Bad Emstal
+Wittichenau / Kulow, Stadt <-> Wittichenau / Kulow
+Mügeln, Stadt <-> Mügeln
+Greußen, Stadt <-> Greußen
+Niedenstein, Stadt <-> Niedenstein
+Schöntal <-> Schöntal
+Tegernheim <-> Tegernheim
+Isen, M <-> Isen
+Grünhain-Beierfeld, Stadt <-> Grünhain-Beierfeld
+Fischbachau <-> Fischbachau
+Kaltennordheim, Stadt <-> Kaltennordheim
+Wiedemar <-> Wiedemar
+Wartenberg <-> Wartenberg
+Kuchen <-> Kuchen
+Mellrichstadt, St <-> Mellrichstadt
+Baar-Ebenhausen <-> Baar-Ebenhausen
+Bötzingen <-> Bötzingen
+Zeithain <-> Zeithain
+Affing <-> Affing
+Rochlitz, Stadt, Stadt des Roten Porphyr <-> Rochlitz
+Bad Grönenbach, M <-> Bad Grönenbach
+Dettenhausen <-> Dettenhausen
+Altenkunstadt <-> Altenkunstadt
+Gemmingen <-> Gemmingen
+Hambrücken <-> Hambrücken
+Leutershausen, St <-> Leutershausen
+Dietramszell <-> Dietramszell
+Kirchentellinsfurt <-> Kirchentellinsfurt
+Großpösna <-> Großpösna
+Neudenau, Stadt <-> Neudenau
+Schweitenkirchen <-> Schweitenkirchen
+Harburg (Schwaben), St <-> Harburg (Schwaben)
+Bad Lobenstein, Stadt <-> Bad Lobenstein
+Aying <-> Aying
+Odelzhausen <-> Odelzhausen
+Laboe <-> Laboe
+Saaldorf-Surheim <-> Saaldorf-Surheim
+Lamspringe <-> Lamspringe
+Battenberg (Eder), Stadt <-> Battenberg (Eder)
+Baltmannsweiler <-> Baltmannsweiler
+Schönenberg-Kübelberg <-> Schönenberg-Kübelberg
+Kleinwallstadt, M <-> Kleinwallstadt
+Grabfeld <-> Grabfeld
+Wesendorf <-> Wesendorf
+Kippenheim <-> Kippenheim
+Abenberg, St <-> Abenberg
+Pöcking <-> Pöcking
+Seelow, Stadt <-> Seelow
+Rackwitz <-> Rackwitz
+Wernberg-Köblitz, M <-> Wernberg-Köblitz
+Küssaberg <-> Küssaberg
+Drebkau/Drjowk, Stadt <-> Drebkau/Drjowk
+Frankenblick <-> Frankenblick
+Ofterdingen <-> Ofterdingen
+Riedering <-> Riedering
+Heimsheim, Stadt <-> Heimsheim
+Beratzhausen, M <-> Beratzhausen
+Dörpen <-> Dörpen
+Traben-Trarbach, Stadt <-> Traben-Trarbach
+Büchenbach <-> Büchenbach
+Echzell <-> Echzell
+Markt Erlbach, M <-> Markt Erlbach
+Vöhl, Nationalparkgemeinde <-> Vöhl
+Ingelfingen, Stadt <-> Ingelfingen
+Weßling <-> Weßling
+Igersheim <-> Igersheim
+Rechberghausen <-> Rechberghausen
+Stolpen, Stadt <-> Stolpen
+Blaichach <-> Blaichach
+Walddorfhäslach <-> Walddorfhäslach
+Eschede <-> Eschede
+Bessenbach <-> Bessenbach
+Rottach-Egern <-> Rottach-Egern
+Giebelstadt, M <-> Giebelstadt
+Grävenwiesbach <-> Grävenwiesbach
+Dietzhölztal <-> Dietzhölztal
+Kusel, Stadt <-> Kusel
+Zeil a.Main, St <-> Zeil a.Main
+Neuenkirchen <-> Neuenkirchen
+Ahlerstedt <-> Ahlerstedt
+Monheim, St <-> Monheim
+Ludwigsau <-> Ludwigsau
+Kumhausen <-> Kumhausen
+Bernhardswald <-> Bernhardswald
+Brunnthal <-> Brunnthal
+Sersheim <-> Sersheim
+Wasungen, Stadt <-> Wasungen
+Grabow, Stadt <-> Grabow
+Niederorschel <-> Niederorschel
+Waakirchen <-> Waakirchen
+Munderkingen, Stadt <-> Munderkingen
+Triftern, M <-> Triftern
+Ovelgönne <-> Ovelgönne
+Pfeffenhausen, M <-> Pfeffenhausen
+Zeitlarn <-> Zeitlarn
+Blaufelden <-> Blaufelden
+Lütjenburg, Stadt <-> Lütjenburg
+Ochtendung <-> Ochtendung
+Hagenbach, Stadt <-> Hagenbach
+Nünchritz <-> Nünchritz
+Bad Gottleuba-Berggießhübel, Stadt <-> Bad Gottleuba-Berggießhübel
+Hohenwestedt <-> Hohenwestedt
+Obersontheim <-> Obersontheim
+Wegscheid, M <-> Wegscheid
+Ertingen <-> Ertingen
+Sibbesse <-> Sibbesse
+Stühlingen, Stadt <-> Stühlingen
+Esterwegen <-> Esterwegen
+Schönau a.Königssee <-> Schönau a.Königssee
+Obrigheim <-> Obrigheim
+Altenstadt <-> Altenstadt
+Sasbach <-> Sasbach
+Rottendorf <-> Rottendorf
+Dornburg-Camburg, Stadt <-> Dornburg-Camburg
+Sulzbach an der Murr <-> Sulzbach an der Murr
+Nackenheim <-> Nackenheim
+Walluf <-> Walluf
+Otterberg, Stadt <-> Otterberg
+Deining <-> Deining
+Külsheim, Stadt <-> Külsheim
+Mittelangeln <-> Mittelangeln
+Uhlstädt-Kirchhasel <-> Uhlstädt-Kirchhasel
+Rehfelde <-> Rehfelde
+Großaitingen <-> Großaitingen
+Glashütten <-> Glashütten
+Velburg, St <-> Velburg
+Rangendingen <-> Rangendingen
+Zarrentin am Schaalsee, Stadt <-> Zarrentin am Schaalsee
+Kirchdorf a.Inn <-> Kirchdorf a.Inn
+Ranstadt <-> Ranstadt
+Pommelsbrunn <-> Pommelsbrunn
+Schöppenstedt, Stadt <-> Schöppenstedt
+Helsa <-> Helsa
+Tiefenbronn <-> Tiefenbronn
+Horgenzell <-> Horgenzell
+Ellrich, Stadt <-> Ellrich
+Egling <-> Egling
+Rockenhausen, Stadt <-> Rockenhausen
+Himmelpforten <-> Himmelpforten
+Guxhagen <-> Guxhagen
+Ebstorf,Klosterflecken <-> Ebstorf
+Estenfeld <-> Estenfeld
+Wannweil <-> Wannweil
+Oberkotzau, M <-> Oberkotzau
+Gersfeld (Rhön), Stadt <-> Gersfeld (Rhön)
+Forchtenberg, Stadt <-> Forchtenberg
+Norderney, Stadt <-> Norderney
+Schechen <-> Schechen
+Thalmässing, M <-> Thalmässing
+Grebenstein, Stadt <-> Grebenstein
+Weitnau, M <-> Weitnau
+Jahnsdorf/Erzgeb. <-> Jahnsdorf/Erzgeb.
+Bergrheinfeld <-> Bergrheinfeld
+Seubersdorf i.d.OPf. <-> Seubersdorf i.d.OPf.
+Jestetten <-> Jestetten
+Mühlhausen <-> Mühlhausen
+Piding <-> Piding
+Moosthenning <-> Moosthenning
+Calberlah <-> Calberlah
+Meckesheim <-> Meckesheim
+Waldems <-> Waldems
+Lindenfels, Stadt <-> Lindenfels
+Neuberg <-> Neuberg
+Aschau i.Chiemgau <-> Aschau i.Chiemgau
+Ühlingen-Birkendorf <-> Ühlingen-Birkendorf
+Großschirma, Stadt <-> Großschirma
+Bodenkirchen <-> Bodenkirchen
+Baindt <-> Baindt
+Rosengarten <-> Rosengarten
+Eltmann, St <-> Eltmann
+Angelbachtal <-> Angelbachtal
+Reichenau <-> Reichenau
+Mahlberg, Stadt <-> Mahlberg
+Kappel-Grafenhausen <-> Kappel-Grafenhausen
+Laaber, M <-> Laaber
+Wackersdorf <-> Wackersdorf
+Prüm, Stadt <-> Prüm
+Iffezheim <-> Iffezheim
+Oberammergau <-> Oberammergau
+Müden (Aller) <-> Müden (Aller)
+Wermsdorf <-> Wermsdorf
+Lenzkirch <-> Lenzkirch
+Süderbrarup <-> Süderbrarup
+Warthausen <-> Warthausen
+Wilhermsdorf, M <-> Wilhermsdorf
+Tharandt, Stadt <-> Tharandt
+Erdmannhausen <-> Erdmannhausen
+Hofheim i.UFr., St <-> Hofheim i.UFr.
+Niederaula, Marktgemeinde <-> Niederaula
+Steyerberg, Flecken <-> Steyerberg
+Lüdersdorf <-> Lüdersdorf
+Habichtswald <-> Habichtswald
+Pottenstein, St <-> Pottenstein
+Ruhla, Stadt <-> Ruhla
+Reichertshausen <-> Reichertshausen
+St. Johann <-> St. Johann
+Spalt, St <-> Spalt
+Hemhofen <-> Hemhofen
+Großschönau <-> Großschönau
+Bad Boll <-> Bad Boll
+Lonsee <-> Lonsee
+Sundhagen <-> Sundhagen
+Erlenbach <-> Erlenbach
+Bennewitz <-> Bennewitz
+Neuhausen <-> Neuhausen
+Gadebusch, Stadt <-> Gadebusch
+Diemelstadt, Stadt <-> Diemelstadt
+Wörthsee <-> Wörthsee
+Burg Stargard, Stadt <-> Burg Stargard
+Frensdorf <-> Frensdorf
+Sulzfeld <-> Sulzfeld
+Adelsheim, Stadt <-> Adelsheim
+Erbendorf, St <-> Erbendorf
+Ötigheim <-> Ötigheim
+Waldmohr, Stadt <-> Waldmohr
+Modautal <-> Modautal
+Deggingen <-> Deggingen
+Oettingen i.Bay., St <-> Oettingen i.Bay.
+Laufach <-> Laufach
+Weitramsdorf <-> Weitramsdorf
+Espenau <-> Espenau
+Marxzell <-> Marxzell
+Engstingen <-> Engstingen
+Heiningen <-> Heiningen
+Bad Hindelang, M <-> Bad Hindelang
+Fahrenzhausen <-> Fahrenzhausen
+Driedorf <-> Driedorf
+Wörth a.d.Donau, St <-> Wörth a.d.Donau
+Steißlingen <-> Steißlingen
+Heroldsbach <-> Heroldsbach
+Münstertal/Schwarzwald <-> Münstertal/Schwarzwald
+Lensahn <-> Lensahn
+Brigachtal <-> Brigachtal
+Osterrönfeld <-> Osterrönfeld
+Zschorlau <-> Zschorlau
+Trappenkamp <-> Trappenkamp
+Lindern (Oldenburg) <-> Lindern (Oldenburg)
+Allmersbach im Tal <-> Allmersbach im Tal
+Eckersdorf <-> Eckersdorf
+Altentreptow, Stadt <-> Altentreptow
+Lohsa / Łaz <-> Lohsa / Łaz
+Cochem, Stadt <-> Cochem
+Bad Bellingen <-> Bad Bellingen
+Fischach, M <-> Fischach
+Ronneburg <-> Ronneburg
+Igensdorf, M <-> Igensdorf
+Hügelsheim <-> Hügelsheim
+Halsbrücke <-> Halsbrücke
+Großheubach, M <-> Großheubach
+Talheim <-> Talheim
+Kitzscher, Stadt <-> Kitzscher
+Unkel, Stadt <-> Unkel
+Achstetten <-> Achstetten
+Todtnau, Stadt <-> Todtnau
+Krauchenwies <-> Krauchenwies
+Wettstetten <-> Wettstetten
+Denkendorf <-> Denkendorf
+Süsel <-> Süsel
+Oberteuringen <-> Oberteuringen
+Oberaudorf <-> Oberaudorf
+Sulzberg, M <-> Sulzberg
+Fraureuth <-> Fraureuth
+Oerlenbach <-> Oerlenbach
+Frankenhardt <-> Frankenhardt
+Binz, Ostseebad <-> Binz
+Haßmersheim <-> Haßmersheim
+Petersaurach <-> Petersaurach
+Hahnbach, M <-> Hahnbach
+Büsum <-> Büsum
+Rheinzabern <-> Rheinzabern
+Zolling <-> Zolling
+Falkenstein/Harz, Stadt <-> Falkenstein/Harz
+Lichtenau <-> Lichtenau
+Übersee <-> Übersee
+Mintraching <-> Mintraching
+Glonn, M <-> Glonn
+Illerkirchberg <-> Illerkirchberg
+Pfreimd, St <-> Pfreimd
+Arzberg <-> Arzberg
+Molfsee <-> Molfsee
+Waldbüttelbrunn <-> Waldbüttelbrunn
+Windorf, M <-> Windorf
+Oberthulba, M <-> Oberthulba
+Rust <-> Rust
+Uebigau-Wahrenbrück, Stadt <-> Uebigau-Wahrenbrück
+Schwaan, Stadt <-> Schwaan
+Naumburg, Stadt <-> Naumburg
+Abstatt <-> Abstatt
+Amöneburg, Stadt <-> Amöneburg
+Burgwald <-> Burgwald
+Braunlage, Stadt <-> Braunlage
+Emmelshausen, Stadt <-> Emmelshausen
+Westerrönfeld <-> Westerrönfeld
+Arnsdorf <-> Arnsdorf
+Zapfendorf, M <-> Zapfendorf
+Dahme/Mark, Stadt <-> Dahme/Mark
+Windischeschenbach, St <-> Windischeschenbach
+Creußen, St <-> Creußen
+Hartheim am Rhein <-> Hartheim am Rhein
+Oberviechtach, St <-> Oberviechtach
+Mudau <-> Mudau
+Unterschneidheim <-> Unterschneidheim
+Mammendorf <-> Mammendorf
+Drebach <-> Drebach
+Amt Creuzburg, Stadt <-> Amt Creuzburg
+Unterensingen <-> Unterensingen
+Königsmoos <-> Königsmoos
+Fronreute <-> Fronreute
+Wehretal <-> Wehretal
+Vacha, Stadt <-> Vacha
+Allmendingen <-> Allmendingen
+Hohenwart, M <-> Hohenwart
+Lenting <-> Lenting
+Velpke <-> Velpke
+Wiggensbach, M <-> Wiggensbach
+Brachttal <-> Brachttal
+Brensbach <-> Brensbach
+Rabenau <-> Rabenau
+Wiesentheid, M <-> Wiesentheid
+Heeslingen <-> Heeslingen
+Mockrehna <-> Mockrehna
+Krayenberggemeinde <-> Krayenberggemeinde
+Stavenhagen, Reuterstadt, Stadt <-> Stavenhagen
+Nassau, Stadt <-> Nassau
+Karlskron <-> Karlskron
+Aglasterhausen <-> Aglasterhausen
+Freren, Stadt <-> Freren
+Breitenbrunn/Erzgeb. <-> Breitenbrunn/Erzgeb.
+Salzhausen <-> Salzhausen
+Oppenau, Stadt <-> Oppenau
+Gablingen <-> Gablingen
+Bibertal <-> Bibertal
+Hochdorf <-> Hochdorf
+Niederstetten, Stadt <-> Niederstetten
+Uttenreuth <-> Uttenreuth
+Niederstotzingen, Stadt <-> Niederstotzingen
+Rennertshofen, M <-> Rennertshofen
+Scheyern <-> Scheyern
+Hohenahr <-> Hohenahr
+Weismain, St <-> Weismain
+Bad Wiessee <-> Bad Wiessee
+Neuhausen/Spree / Kopańce/Sprjewja <-> Neuhausen/Spree / Kopańce/Sprjewja
+Stadtoldendorf, Stadt <-> Stadtoldendorf
+Uchte, Flecken <-> Uchte
+Hilders, Marktgemeinde <-> Hilders
+Stetten am kalten Markt <-> Stetten am kalten Markt
+Iphofen, St <-> Iphofen
+Tönning, Stadt <-> Tönning
+Kröpelin, Stadt <-> Kröpelin
+Ebhausen <-> Ebhausen
+Bodman-Ludwigshafen <-> Bodman-Ludwigshafen
+Eriskirch <-> Eriskirch
+Tengen, Stadt <-> Tengen
+Schöllnach, M <-> Schöllnach
+Malschwitz / Malešecy <-> Malschwitz / Malešecy
+Alheim <-> Alheim
+Lauchheim, Stadt <-> Lauchheim
+Schacht-Audorf <-> Schacht-Audorf
+Hammersbach <-> Hammersbach
+Eggesin, Stadt <-> Eggesin
+Stadecken-Elsheim <-> Stadecken-Elsheim
+Raschau-Markersbach <-> Raschau-Markersbach
+Wildeck <-> Wildeck
+Seelbach <-> Seelbach
+Tespe <-> Tespe
+Kruft <-> Kruft
+Frontenhausen, M <-> Frontenhausen
+Emmingen-Liptingen <-> Emmingen-Liptingen
+Bischofsheim i.d.Rhön, St <-> Bischofsheim i.d.Rhön
+Ötisheim <-> Ötisheim
+Appen <-> Appen
+Winhöring <-> Winhöring
+Marienmünster, Stadt <-> Marienmünster
+Möhrendorf <-> Möhrendorf
+Trendelburg, Stadt <-> Trendelburg
+Inning a.Ammersee <-> Inning a.Ammersee
+Stockheim <-> Stockheim
+Freinsheim, Stadt <-> Freinsheim
+Hesel <-> Hesel
+Mömlingen <-> Mömlingen
+Amt Neuhaus <-> Amt Neuhaus
+Schömberg <-> Schömberg
+Bernried <-> Bernried
+Thum, Stadt <-> Thum
+Asbach-Bäumenheim <-> Asbach-Bäumenheim
+Geisa, Stadt <-> Geisa
+Winnweiler <-> Winnweiler
+Niedernberg <-> Niedernberg
+Seddiner See <-> Seddiner See
+Röbel/Müritz, Stadt <-> Röbel/Müritz
+Duingen, Flecken <-> Duingen
+Wilhelmsdorf <-> Wilhelmsdorf
+Herbertingen <-> Herbertingen
+Rückersdorf <-> Rückersdorf
+Harpstedt, Flecken <-> Harpstedt
+Wesertal <-> Wesertal
+Altenstadt a.d.Waldnaab <-> Altenstadt a.d.Waldnaab
+Scheinfeld, St <-> Scheinfeld
+Callenberg <-> Callenberg
+Finsing <-> Finsing
+Maselheim <-> Maselheim
+Wörth a.Main, St <-> Wörth a.Main
+Neukirch/Lausitz <-> Neukirch/Lausitz
+Oderwitz <-> Oderwitz
+Hollfeld, St <-> Hollfeld
+Vellberg, Stadt <-> Vellberg
+Lommatzsch, Stadt <-> Lommatzsch
+Neunkirchen a.Sand <-> Neunkirchen a.Sand
+Niederwiesa <-> Niederwiesa
+Bad Buchau, Stadt <-> Bad Buchau
+Waldbrunn <-> Waldbrunn
+Herzlake <-> Herzlake
+Jahnatal <-> Jahnatal
+Bodenwerder, Münchhausenstadt <-> Bodenwerder
+Löhnberg <-> Löhnberg
+Vogt <-> Vogt
+Hochspeyer <-> Hochspeyer
+Röttenbach <-> Röttenbach
+Buchholz (Westerwald) <-> Buchholz (Westerwald)
+Mietingen <-> Mietingen
+Pausa-Mühltroff, Stadt <-> Pausa-Mühltroff
+Bad Bocklet, M <-> Bad Bocklet
+Wilthen, Stadt <-> Wilthen
+Waldsolms <-> Waldsolms
+Börnsen <-> Börnsen
+Altenmünster <-> Altenmünster
+Mittenaar <-> Mittenaar
+Willingshausen <-> Willingshausen
+Hörsel <-> Hörsel
+Groß-Bieberau, Stadt <-> Groß-Bieberau
+Königsbrück, Stadt <-> Königsbrück
+Windhagen <-> Windhagen
+Ebersburg <-> Ebersburg
+Triberg im Schwarzwald, Stadt <-> Triberg im Schwarzwald
+Moorrege <-> Moorrege
+Aindling, M <-> Aindling
+Heideck, St <-> Heideck
+Neuenkirchen <-> Neuenkirchen
+Rotthalmünster, M <-> Rotthalmünster
+Eisingen <-> Eisingen
+Bellenberg <-> Bellenberg
+Lähden <-> Lähden
+Badenweiler <-> Badenweiler
+Kürnach <-> Kürnach
+Krautheim, Stadt <-> Krautheim
+Leidersbach <-> Leidersbach
+Burgheim, M <-> Burgheim
+Vierkirchen <-> Vierkirchen
+Bad Bodenteich, Flecken <-> Bad Bodenteich
+Reichenbach/O.L., Stadt <-> Reichenbach/O.L.
+Gschwend <-> Gschwend
+Oy-Mittelberg <-> Oy-Mittelberg
+Gemmrigheim <-> Gemmrigheim
+Striegistal <-> Striegistal
+Böbingen an der Rems <-> Böbingen an der Rems
+Fichtenau <-> Fichtenau
+Otterfing <-> Otterfing
+Utting am Ammersee <-> Utting am Ammersee
+Oberhaid <-> Oberhaid
+Crivitz, Stadt <-> Crivitz
+Seehausen (Altmark), Hansestadt <-> Seehausen (Altmark)
+Adorf/Vogtl., Stadt <-> Adorf/Vogtl.
+Kutenholz <-> Kutenholz
+Gutach im Breisgau <-> Gutach im Breisgau
+Rattelsdorf <-> Rattelsdorf
+Bubenreuth <-> Bubenreuth
+Hosenfeld <-> Hosenfeld
+Marklohe <-> Marklohe
+Müllrose, Stadt <-> Müllrose
+Tambach-Dietharz/Thür. Wald, Stadt <-> Tambach-Dietharz/Thür. Wald
+Herbstein, Stadt <-> Herbstein
+Chieming <-> Chieming
+Bergen <-> Bergen
+Kreischa <-> Kreischa
+Sankt Wolfgang <-> Sankt Wolfgang
+Lübtheen, Stadt <-> Lübtheen
+Heringen/Helme, Stadt <-> Heringen/Helme
+Freden (Leine) <-> Freden (Leine)
+Weilerbach <-> Weilerbach
+Nastätten, Stadt <-> Nastätten
+Aßling <-> Aßling
+Bönningstedt <-> Bönningstedt
+Eberhardzell <-> Eberhardzell
+Tann (Rhön), Stadt <-> Tann (Rhön)
+Söhrewald <-> Söhrewald
+Hitzacker (Elbe), Stadt <-> Hitzacker (Elbe)
+Vöhringen <-> Vöhringen
+Breitscheid <-> Breitscheid
+Hagenburg, Flecken <-> Hagenburg
+Bahlingen am Kaiserstuhl <-> Bahlingen am Kaiserstuhl
+Wöllstein <-> Wöllstein
+Rot an der Rot <-> Rot an der Rot
+Ober-Olm <-> Ober-Olm
+Owingen <-> Owingen
+Heimbach <-> Heimbach
+Diemelsee <-> Diemelsee
+Marlow, Stadt <-> Marlow
+Altdorf <-> Altdorf
+Breitengüßbach <-> Breitengüßbach
+Cunewalde <-> Cunewalde
+Rauschenberg, Stadt <-> Rauschenberg
+Rheinbreitbach <-> Rheinbreitbach
+Gerabronn, Stadt <-> Gerabronn
+Mohlsdorf-Teichwolframsdorf <-> Mohlsdorf-Teichwolframsdorf
+Limbach <-> Limbach
+Hardthausen am Kocher <-> Hardthausen am Kocher
+Forbach <-> Forbach
+Creglingen, Stadt <-> Creglingen
+Röthlein <-> Röthlein
+Gingen an der Fils <-> Gingen an der Fils
+Hartenstein <-> Hartenstein
+Knüllwald <-> Knüllwald
+Rennerod, Stadt <-> Rennerod
+Rhede (Ems) <-> Rhede (Ems)
+Wachenheim an der Weinstraße, Stadt <-> Wachenheim an der Weinstraße
+Oppenweiler <-> Oppenweiler
+Liebenwalde, Stadt <-> Liebenwalde
+Putbus, Stadt <-> Putbus
+Adlkofen <-> Adlkofen
+Neuburg a.Inn <-> Neuburg a.Inn
+Nehren <-> Nehren
+Bad Berneck i.Fichtelgebirge, St <-> Bad Berneck i.Fichtelgebirge
+Kirchberg i.Wald <-> Kirchberg i.Wald
+Rettenberg <-> Rettenberg
+Seeon-Seebruck <-> Seeon-Seebruck
+Dischingen <-> Dischingen
+Stegen <-> Stegen
+Augustusburg, Stadt <-> Augustusburg
+Berg <-> Berg
+Sonnefeld <-> Sonnefeld
+Mittelbiberach <-> Mittelbiberach
+Ummendorf <-> Ummendorf
+Frammersbach, M <-> Frammersbach
+Buggingen <-> Buggingen
+Maikammer <-> Maikammer
+Engelsbrand <-> Engelsbrand
+Güntersleben <-> Güntersleben
+Breitungen/Werra <-> Breitungen/Werra
+Apensen <-> Apensen
+Albershausen <-> Albershausen
+Freyburg (Unstrut), Stadt <-> Freyburg (Unstrut)
+Dahlem <-> Dahlem
+Donaustauf, M <-> Donaustauf
+Gessertshausen <-> Gessertshausen
+Heiligengrabe <-> Heiligengrabe
+Scheidegg, M <-> Scheidegg
+Deggenhausertal <-> Deggenhausertal
+Schönberg <-> Schönberg
+Poppenhausen <-> Poppenhausen
+Steinhöfel <-> Steinhöfel
+Ehrenfriedersdorf, Stadt <-> Ehrenfriedersdorf
+Grebenhain <-> Grebenhain
+Offingen, M <-> Offingen
+Büchlberg <-> Büchlberg
+Inzell <-> Inzell
+Dornum <-> Dornum
+Untereisesheim <-> Untereisesheim
+Maßbach, M <-> Maßbach
+Münsing <-> Münsing
+Hartmannsdorf <-> Hartmannsdorf
+Starzach <-> Starzach
+Lautertal <-> Lautertal
+Maulburg <-> Maulburg
+Olbersdorf <-> Olbersdorf
+Obing <-> Obing
+Leiblfing <-> Leiblfing
+Feldafing <-> Feldafing
+Hallenberg, Stadt <-> Hallenberg
+Ebersbach <-> Ebersbach
+Affalterbach <-> Affalterbach
+Wörth <-> Wörth
+Edling <-> Edling
+Schönau <-> Schönau
+Anzing <-> Anzing
+Gößweinstein, M <-> Gößweinstein
+Feldberger Seenlandschaft <-> Feldberger Seenlandschaft
+Boxberg/O.L. / Hamor <-> Boxberg/O.L. / Hamor
+Hankensbüttel <-> Hankensbüttel
+Suderburg <-> Suderburg
+Contwig <-> Contwig
+Surwold <-> Surwold
+Borkum, Stadt <-> Borkum
+Eurasburg <-> Eurasburg
+Waldershof, St <-> Waldershof
+Rabenau <-> Rabenau
+Fridolfing <-> Fridolfing
+Rheinhausen <-> Rheinhausen
+Peitz/Picnjo, Stadt <-> Peitz/Picnjo
+Milower Land <-> Milower Land
+Daaden, Stadt <-> Daaden
+Zell a.Main, M <-> Zell a.Main
+Grabenstätt <-> Grabenstätt
+Triefenstein, M <-> Triefenstein
+Eschenbach i.d.OPf., St <-> Eschenbach i.d.OPf.
+Barchfeld-Immelborn <-> Barchfeld-Immelborn
+Strasburg (Uckermark), Stadt <-> Strasburg (Uckermark)
+Langenlonsheim <-> Langenlonsheim
+Röhrnbach, M <-> Röhrnbach
+Schnaittenbach, St <-> Schnaittenbach
+Wilster, Stadt <-> Wilster
+Schwarzenbach a.Wald, St <-> Schwarzenbach a.Wald
+Dürrröhrsdorf-Dittersbach <-> Dürrröhrsdorf-Dittersbach
+Metten, M <-> Metten
+Ellerbek <-> Ellerbek
+Meinhard <-> Meinhard
+Buch <-> Buch
+Großhabersdorf <-> Großhabersdorf
+Neufahrn i.NB <-> Neufahrn i.NB
+Dransfeld, Stadt <-> Dransfeld
+Aldersbach <-> Aldersbach
+Grettstadt <-> Grettstadt
+Dahn, Stadt <-> Dahn
+Kirchberg an der Jagst, Stadt <-> Kirchberg an der Jagst
+Badbergen <-> Badbergen
+Rheinböllen, Stadt <-> Rheinböllen
+Mögglingen <-> Mögglingen
+Simbach, M <-> Simbach
+Anger <-> Anger
+Burgrieden <-> Burgrieden
+Nienstädt <-> Nienstädt
+Sonnenstein <-> Sonnenstein
+Reinhardshagen <-> Reinhardshagen
+Hohentengen <-> Hohentengen
+Waldfischbach-Burgalben <-> Waldfischbach-Burgalben
+Empfingen <-> Empfingen
+Emmerting <-> Emmerting
+Schenklengsfeld <-> Schenklengsfeld
+Wachau <-> Wachau
+Drage <-> Drage
+Niedernhall, Stadt <-> Niedernhall
+Freiamt <-> Freiamt
+Neuzelle <-> Neuzelle
+Leiferde <-> Leiferde
+Neureichenau <-> Neureichenau
+Traitsching <-> Traitsching
+Penzing <-> Penzing
+Riederich <-> Riederich
+Loitz, Stadt <-> Loitz
+Weisenheim am Sand <-> Weisenheim am Sand
+Winkelhaid <-> Winkelhaid
+Pressath, St <-> Pressath
+Doberschau-Gaußig / Dobruša-Huska <-> Doberschau-Gaußig / Dobruša-Huska
+Sennfeld <-> Sennfeld
+Lauenau, Flecken <-> Lauenau
+Kirchberg (Hunsrück), Stadt <-> Kirchberg (Hunsrück)
+Eging a.See, M <-> Eging a.See
+Biessenhofen <-> Biessenhofen
+Amtzell <-> Amtzell
+Hohenthann <-> Hohenthann
+Aichhalden <-> Aichhalden
+Baruth/Mark, Stadt <-> Baruth/Mark
+Thyrnau <-> Thyrnau
+Ihrlerstein <-> Ihrlerstein
+Neuhausen ob Eck <-> Neuhausen ob Eck
+Kranzberg <-> Kranzberg
+Vogtei <-> Vogtei
+Brück, Stadt <-> Brück
+Graal-Müritz, Ostseeheilbad <-> Graal-Müritz
+Gefrees, St <-> Gefrees
+Rheinbrohl <-> Rheinbrohl
+Bermatingen <-> Bermatingen
+Bruck i.d.OPf., M <-> Bruck i.d.OPf.
+Messel <-> Messel
+Eching <-> Eching
+Baumholder, Stadt <-> Baumholder
+Großbettlingen <-> Großbettlingen
+Niederaichbach <-> Niederaichbach
+Kühbach, M <-> Kühbach
+Beilrode <-> Beilrode
+Lindhorst <-> Lindhorst
+Burg (Spreewald)/Bórkowy (Błota) <-> Burg (Spreewald)/Bórkowy (Błota)
+Dahlen, Stadt <-> Dahlen
+Selbitz, St <-> Selbitz
+Wiesenburg/Mark <-> Wiesenburg/Mark
+Amstetten <-> Amstetten
+Dietingen <-> Dietingen
+Tapfheim <-> Tapfheim
+Bodenwöhr <-> Bodenwöhr
+Althütte <-> Althütte
+Bürgstadt, M <-> Bürgstadt
+Krostitz <-> Krostitz
+Weinbach <-> Weinbach
+Stadtlauringen, M <-> Stadtlauringen
+Rockenberg <-> Rockenberg
+Neckarbischofsheim, Stadt <-> Neckarbischofsheim
+Twistetal <-> Twistetal
+Rott a.Inn <-> Rott a.Inn
+Gräfenberg, St <-> Gräfenberg
+Zaberfeld <-> Zaberfeld
+Wyk auf Föhr, Stadt <-> Wyk auf Föhr
+Waldaschaff <-> Waldaschaff
+Hornberg, Stadt <-> Hornberg
+Walkenried <-> Walkenried
+Niederfischbach <-> Niederfischbach
+Elmenhorst/Lichtenhagen <-> Elmenhorst/Lichtenhagen
+Görwihl <-> Görwihl
+Nordwestuckermark <-> Nordwestuckermark
+Neckarwestheim <-> Neckarwestheim
+Reichenberg <-> Reichenberg
+Schwebheim <-> Schwebheim
+Hallerndorf <-> Hallerndorf
+Gondelsheim <-> Gondelsheim
+Gorxheimertal <-> Gorxheimertal
+Mauer <-> Mauer
+Langerringen <-> Langerringen
+Wietzendorf <-> Wietzendorf
+Meißenheim <-> Meißenheim
+Altenmarkt a.d.Alz <-> Altenmarkt a.d.Alz
+Rietz-Neuendorf <-> Rietz-Neuendorf
+Dargun, Stadt <-> Dargun
+Siegenburg, M <-> Siegenburg
+Untersiemau <-> Untersiemau
+Buchenberg, M <-> Buchenberg
+Niederdorfelden <-> Niederdorfelden
+Stammham <-> Stammham
+Gelenau/Erzgeb. <-> Gelenau/Erzgeb.
+Alling <-> Alling
+Schöllkrippen, M <-> Schöllkrippen
+Fronhausen <-> Fronhausen
+Kochel a.See <-> Kochel a.See
+Alfhausen <-> Alfhausen
+Tittling, M <-> Tittling
+Burg (Dithmarschen) <-> Burg (Dithmarschen)
+Waldkappel, Stadt <-> Waldkappel
+Fuchstal <-> Fuchstal
+Großwallstadt <-> Großwallstadt
+Thurnau, M <-> Thurnau
+Lichtenfels, St <-> Lichtenfels
+Kirchberg an der Murr <-> Kirchberg an der Murr
+Pförring, M <-> Pförring
+Geringswalde, Stadt <-> Geringswalde
+Durbach <-> Durbach
+Thierhaupten, M <-> Thierhaupten
+Freudenberg <-> Freudenberg
+Großdubrau / Wulka Dubrawa <-> Großdubrau / Wulka Dubrawa
+Sörup <-> Sörup
+Rothenburg/O.L., Stadt <-> Rothenburg/O.L.
+Schönheide <-> Schönheide
+Moorenweis <-> Moorenweis
+Neubeuern, M <-> Neubeuern
+Tessin, Blumenstadt <-> Tessin
+Tarmstedt <-> Tarmstedt
+Großrinderfeld <-> Großrinderfeld
+Römerstein <-> Römerstein
+Pfaffing <-> Pfaffing
+Niederau <-> Niederau
+Sengenthal <-> Sengenthal
+Altshausen <-> Altshausen
+Massing, M <-> Massing
+Johannesberg <-> Johannesberg
+Bockhorn <-> Bockhorn
+Woldegk, Windmühlenstadt <-> Woldegk
+Wanfried, Stadt <-> Wanfried
+Riegel am Kaiserstuhl <-> Riegel am Kaiserstuhl
+Kirchdorf an der Iller <-> Kirchdorf an der Iller
+Kraiburg a.Inn, M <-> Kraiburg a.Inn
+Wolpertswende <-> Wolpertswende
+Seckach <-> Seckach
+Schlier <-> Schlier
+Ahorn <-> Ahorn
+Grasellenbach <-> Grasellenbach
+Doberschütz <-> Doberschütz
+Lauf <-> Lauf
+Penzlin, Stadt <-> Penzlin
+Mönkeberg <-> Mönkeberg
+Friolzheim <-> Friolzheim
+Oberaurach <-> Oberaurach
+Bad Tabarz <-> Bad Tabarz
+Langenbach <-> Langenbach
+Kreßberg <-> Kreßberg
+Wyhl am Kaiserstuhl <-> Wyhl am Kaiserstuhl
+Hattorf am Harz <-> Hattorf am Harz
+Langenwetzendorf <-> Langenwetzendorf
+Graben <-> Graben
+Gars a.Inn, M <-> Gars a.Inn
+Steinach <-> Steinach
+Sprendlingen <-> Sprendlingen
+Ellhofen <-> Ellhofen
+Mühlhausen-Ehingen <-> Mühlhausen-Ehingen
+Otterbach <-> Otterbach
+Kritzmow <-> Kritzmow
+Dassow, Stadt <-> Dassow
+Rosenbach/Vogtl. <-> Rosenbach/Vogtl.
+Weil <-> Weil
+Gau-Odernheim <-> Gau-Odernheim
+Neubukow, Schliemannstadt <-> Neubukow
+Wienhausen, Klostergemeinde <-> Wienhausen
+Wiesau, M <-> Wiesau
+Waldenburg, Stadt <-> Waldenburg
+Waldalgesheim <-> Waldalgesheim
+Süderholz <-> Süderholz
+Philippsthal (Werra), Marktgemeinde <-> Philippsthal (Werra)
+Cadenberge <-> Cadenberge
+Neukloster, Stadt <-> Neukloster
+Kisdorf <-> Kisdorf
+Haselbachtal <-> Haselbachtal
+Hütschenhausen <-> Hütschenhausen
+Wurmlingen <-> Wurmlingen
+Escheburg <-> Escheburg
+Lunzenau, Stadt <-> Lunzenau
+Baunach, St <-> Baunach
+Markt Rettenbach, M <-> Markt Rettenbach
+Tiefenbach <-> Tiefenbach
+Kaisheim, M <-> Kaisheim
+Mildstedt <-> Mildstedt
+Wäschenbeuren <-> Wäschenbeuren
+Hasloh <-> Hasloh
+Zell (Mosel), Stadt <-> Zell (Mosel)
+Eigeltingen <-> Eigeltingen
+Buch a.Erlbach <-> Buch a.Erlbach
+Lorch, Stadt <-> Lorch
+Lambrecht (Pfalz), Stadt <-> Lambrecht (Pfalz)
+Schefflenz <-> Schefflenz
+Eschau, M <-> Eschau
+Wiesenfelden <-> Wiesenfelden
+Marschacht <-> Marschacht
+Risum-Lindholm <-> Risum-Lindholm
+Bad Zwesten <-> Bad Zwesten
+Ellingen, St <-> Ellingen
+Kiedrich <-> Kiedrich
+Pressig, M <-> Pressig
+Falkenberg <-> Falkenberg
+Pappenheim, St <-> Pappenheim
+Langenbrettach <-> Langenbrettach
+Crottendorf <-> Crottendorf
+Mehlingen <-> Mehlingen
+Bad Heilbrunn <-> Bad Heilbrunn
+Schönberg <-> Schönberg
+Schlierbach <-> Schlierbach
+Neckarsteinach, Stadt <-> Neckarsteinach
+Guntersblum <-> Guntersblum
+Hoya, Stadt <-> Hoya
+Schonach im Schwarzwald <-> Schonach im Schwarzwald
+Kirchroth <-> Kirchroth
+Groß Pankow (Prignitz) <-> Groß Pankow (Prignitz)
+Kreuzwertheim, M <-> Kreuzwertheim
+Syrgenstein <-> Syrgenstein
+Nüdlingen <-> Nüdlingen
+Kyffhäuserland <-> Kyffhäuserland
+Helmstadt-Bargen <-> Helmstadt-Bargen
+Wolfegg <-> Wolfegg
+Fraunberg <-> Fraunberg
+Güsten, Stadt <-> Güsten
+Spiegelau <-> Spiegelau
+Seßlach, St <-> Seßlach
+Kindelbrück <-> Kindelbrück
+Weiherhammer <-> Weiherhammer
+Amorbach, St <-> Amorbach
+St. Blasien, Stadt <-> St. Blasien
+Mertingen <-> Mertingen
+Bad Ditzenbach <-> Bad Ditzenbach
+Neustetten <-> Neustetten
+Hohenpeißenberg <-> Hohenpeißenberg
+Mistelgau <-> Mistelgau
+Billigheim-Ingenheim <-> Billigheim-Ingenheim
+Germaringen <-> Germaringen
+Diepenau, Flecken <-> Diepenau
+Grafrath <-> Grafrath
+Schondorf am Ammersee <-> Schondorf am Ammersee
+Wasserburg (Bodensee) <-> Wasserburg (Bodensee)
+Marklkofen <-> Marklkofen
+Regis-Breitingen, Stadt <-> Regis-Breitingen
+Steffenberg <-> Steffenberg
+Eppendorf <-> Eppendorf
+Ursensollen <-> Ursensollen
+Steinhöring <-> Steinhöring
+Rickenbach <-> Rickenbach
+Ebelsbach <-> Ebelsbach
+Dauchingen <-> Dauchingen
+Eich <-> Eich
+Amelinghausen <-> Amelinghausen
+Neckartailfingen <-> Neckartailfingen
+Andechs <-> Andechs
+Gensingen <-> Gensingen
+Bad Überkingen <-> Bad Überkingen
+Bitz <-> Bitz
+Döhlau <-> Döhlau
+Windach <-> Windach
+Tann, M <-> Tann
+Hohenstein <-> Hohenstein
+Mirow, Stadt <-> Mirow
+Hollenstedt <-> Hollenstedt
+Letschin <-> Letschin
+Gerolsbach <-> Gerolsbach
+Lichtenau <-> Lichtenau
+Diespeck <-> Diespeck
+Allendorf (Lumda), Stadt <-> Allendorf (Lumda)
+Göllheim <-> Göllheim
+Massenbachhausen <-> Massenbachhausen
+Welden, M <-> Welden
+Märkische Heide/Markojska Góla <-> Märkische Heide/Markojska Góla
+Gieboldehausen, Flecken <-> Gieboldehausen
+Zinnowitz, Ostseebad <-> Zinnowitz
+Michelfeld <-> Michelfeld
+Winzer, M <-> Winzer
+Groß Grönau <-> Groß Grönau
+Vettelschoß <-> Vettelschoß
+Biberach <-> Biberach
+Warngau <-> Warngau
+Holzheim <-> Holzheim
+Sternberg, Stadt <-> Sternberg
+Wolkenstein, Stadt <-> Wolkenstein
+Rohr <-> Rohr
+Weyarn <-> Weyarn
+Uttenweiler <-> Uttenweiler
+Rimsting <-> Rimsting
+Haldenwang <-> Haldenwang
+Broderstorf <-> Broderstorf
+Loiching <-> Loiching
+Neukirchen/Pleiße <-> Neukirchen/Pleiße
+Eichstetten am Kaiserstuhl <-> Eichstetten am Kaiserstuhl
+Sigmaringendorf <-> Sigmaringendorf
+Üchtelhausen <-> Üchtelhausen
+Albersdorf <-> Albersdorf
+Aukrug <-> Aukrug
+Wahrenholz <-> Wahrenholz
+Forstinning <-> Forstinning
+Bevern <-> Bevern
+Lauterhofen, M <-> Lauterhofen
+Hamm (Sieg), Raiffeisengemeinde <-> Hamm (Sieg)
+Buttenheim, M <-> Buttenheim
+Burgoberbach <-> Burgoberbach
+Hohentengen am Hochrhein <-> Hohentengen am Hochrhein
+Neudrossenfeld <-> Neudrossenfeld
+Bad Kleinen <-> Bad Kleinen
+Heßdorf <-> Heßdorf
+Hausen <-> Hausen
+Owschlag <-> Owschlag
+Malsfeld <-> Malsfeld
+Gosheim <-> Gosheim
+Mötzingen <-> Mötzingen
+Nesselwang, M <-> Nesselwang
+Wallhausen <-> Wallhausen
+Markersdorf <-> Markersdorf
+Trebsen/Mulde, Stadt <-> Trebsen/Mulde
+Ruhland, Stadt <-> Ruhland
+Ehekirchen <-> Ehekirchen
+Burgstetten <-> Burgstetten
+Icking <-> Icking
+Sankt Peter-Ording <-> Sankt Peter-Ording
+Gersdorf <-> Gersdorf
+Rosenthal am Rennsteig <-> Rosenthal am Rennsteig
+Sachsen b.Ansbach <-> Sachsen b.Ansbach
+Buxheim <-> Buxheim
+Liebenau, Flecken <-> Liebenau
+Gornau/Erzgeb. <-> Gornau/Erzgeb.
+Trierweiler <-> Trierweiler
+Wehingen <-> Wehingen
+Benediktbeuern <-> Benediktbeuern
+Forstern <-> Forstern
+Marktbreit, St <-> Marktbreit
+Merzen <-> Merzen
+Bergtheim <-> Bergtheim
+Helbra <-> Helbra
+Kraftsdorf <-> Kraftsdorf
+Amerang <-> Amerang
+Triptis, Stadt <-> Triptis
+Breitenbrunn <-> Breitenbrunn
+Tauche <-> Tauche
+Thiendorf <-> Thiendorf
+Strehla, Stadt <-> Strehla
+Tegernsee, St <-> Tegernsee
+Heinersreuth <-> Heinersreuth
+Bodenmais, M <-> Bodenmais
+Kirchheim <-> Kirchheim
+Viereth-Trunstadt <-> Viereth-Trunstadt
+Mettenheim <-> Mettenheim
+Elsterberg, Stadt <-> Elsterberg
+Langenenslingen <-> Langenenslingen
+Netzschkau, Stadt <-> Netzschkau
+Heiligenstadt i.OFr., M <-> Heiligenstadt i.OFr.
+Röderland <-> Röderland
+Nickenich <-> Nickenich
+Gechingen <-> Gechingen
+Grünsfeld, Stadt <-> Grünsfeld
+Weißensee, Stadt <-> Weißensee
+Bad Köstritz, Stadt <-> Bad Köstritz
+Wackersberg <-> Wackersberg
+Freudenberg <-> Freudenberg
+Dänischenhagen <-> Dänischenhagen
+Furth <-> Furth
+Deidesheim, Stadt <-> Deidesheim
+Neukirchen b.Hl.Blut, M <-> Neukirchen b.Hl.Blut
+Mühlheim an der Donau, Stadt <-> Mühlheim an der Donau
+Schnaitsee <-> Schnaitsee
+Pürgen <-> Pürgen
+Laußig <-> Laußig
+Hechthausen <-> Hechthausen
+Schwarzach a.Main, M <-> Schwarzach a.Main
+Gundelsheim <-> Gundelsheim
+Rieste <-> Rieste
+Kleinheubach, M <-> Kleinheubach
+Deutsch Evern <-> Deutsch Evern
+Johanngeorgenstadt, Stadt <-> Johanngeorgenstadt
+Hebertsfelden <-> Hebertsfelden
+Vöhrenbach, Stadt <-> Vöhrenbach
+Mulfingen <-> Mulfingen
+Dipperz <-> Dipperz
+Amtsberg <-> Amtsberg
+Happurg <-> Happurg
+Obernzell, M <-> Obernzell
+Polling <-> Polling
+Bad Muskau / Mužakow, Stadt <-> Bad Muskau / Mužakow
+Orsingen-Nenzingen <-> Orsingen-Nenzingen
+Oeversee <-> Oeversee
+Klein-Winternheim <-> Klein-Winternheim
+Beuren <-> Beuren
+Burtenbach, M <-> Burtenbach
+Am Ohmberg <-> Am Ohmberg
+Upgant-Schott <-> Upgant-Schott
+Groß-Rohrheim <-> Groß-Rohrheim
+Schiltach, Stadt <-> Schiltach
+Speicher, Stadt <-> Speicher
+Notzingen <-> Notzingen
+Öhningen <-> Öhningen
+Laberweinting <-> Laberweinting
+Marktrodach, M <-> Marktrodach
+Eystrup <-> Eystrup
+Selsingen <-> Selsingen
+Türkenfeld <-> Türkenfeld
+Rehna, Stadt <-> Rehna
+Eilsleben <-> Eilsleben
+Grainau <-> Grainau
+Bad Salzschlirf <-> Bad Salzschlirf
+Seifhennersdorf, Stadt <-> Seifhennersdorf
+Hohenroth <-> Hohenroth
+Thalmassing <-> Thalmassing
+Bentwisch <-> Bentwisch
+Sailauf <-> Sailauf
+Gemünden (Wohra), Stadt <-> Gemünden (Wohra)
+Weichs <-> Weichs
+Zornheim <-> Zornheim
+Hildrizhausen <-> Hildrizhausen
+Bissingen, M <-> Bissingen
+Hofkirchen, M <-> Hofkirchen
+Schnelldorf <-> Schnelldorf
+Farchant <-> Farchant
+Palling <-> Palling
+Aiterhofen <-> Aiterhofen
+Carlsberg <-> Carlsberg
+Biberbach, M <-> Biberbach
+Bad Elster, Stadt <-> Bad Elster
+Dörfles-Esbach <-> Dörfles-Esbach
+Steinach <-> Steinach
+Parthenstein <-> Parthenstein
+Heideblick <-> Heideblick
+Schwindegg <-> Schwindegg
+Königsberg i.Bay., St <-> Königsberg i.Bay.
+Fürstenstein <-> Fürstenstein
+Hettstadt <-> Hettstadt
+Stromberg, Stadt <-> Stromberg
+Goldkronach, St <-> Goldkronach
+Thallwitz <-> Thallwitz
+Sexau <-> Sexau
+Sankt Michaelisdonn <-> Sankt Michaelisdonn
+Mundelsheim <-> Mundelsheim
+Lucka, Stadt <-> Lucka
+Lalendorf <-> Lalendorf
+Mittelherwigsdorf <-> Mittelherwigsdorf
+Hauenstein <-> Hauenstein
+Rudelzhausen <-> Rudelzhausen
+Meeder <-> Meeder
+Floß, M <-> Floß
+Ronneburg <-> Ronneburg
+Sankt Katharinen (Landkreis Neuwied) <-> Sankt Katharinen (Landkreis Neuwied)
+Eschershausen, Stadt <-> Eschershausen
+Lemberg <-> Lemberg
+Jemgum <-> Jemgum
+Kettig <-> Kettig
+Ortenberg <-> Ortenberg
+Straßkirchen <-> Straßkirchen
+Egenhofen <-> Egenhofen
+Grafenrheinfeld <-> Grafenrheinfeld
+Pettendorf <-> Pettendorf
+Meckenheim <-> Meckenheim
+Ölbronn-Dürrn <-> Ölbronn-Dürrn
+Rohr i.NB, M <-> Rohr i.NB
+Sasbach am Kaiserstuhl <-> Sasbach am Kaiserstuhl
+Belgershain <-> Belgershain
+Berge <-> Berge
+Schenkendöbern/Derbno <-> Schenkendöbern/Derbno
+Lauben <-> Lauben
+Neuhaus a.Inn <-> Neuhaus a.Inn
+Hirschhorn (Neckar), Stadt <-> Hirschhorn (Neckar)
+Redwitz a.d.Rodach <-> Redwitz a.d.Rodach
+Hoisdorf <-> Hoisdorf
+Wildenfels, Stadt <-> Wildenfels
+Essenheim <-> Essenheim
+Wartenberg <-> Wartenberg
+Spreenhagen <-> Spreenhagen
+Unterneukirchen <-> Unterneukirchen
+Luhe-Wildenau, M <-> Luhe-Wildenau
+Neustadt (Dosse), Stadt <-> Neustadt (Dosse)
+Moos <-> Moos
+Ulmen, Stadt <-> Ulmen
+Owen, Stadt <-> Owen
+Wasserlosen <-> Wasserlosen
+Oberrot <-> Oberrot
+Eisingen <-> Eisingen
+Heimenkirch, M <-> Heimenkirch
+Angelburg <-> Angelburg
+Münstermaifeld, Stadt <-> Münstermaifeld
+Löwenstein, Stadt <-> Löwenstein
+Wilhelmsthal <-> Wilhelmsthal
+Falkenstein <-> Falkenstein
+Au am Rhein <-> Au am Rhein
+Kölln-Reisiek <-> Kölln-Reisiek
+Lustadt <-> Lustadt
+Dassendorf <-> Dassendorf
+Bad Schandau, Stadt <-> Bad Schandau
+Unterwössen <-> Unterwössen
+Klein Nordende <-> Klein Nordende
+Ettringen <-> Ettringen
+Langenbernsdorf <-> Langenbernsdorf
+Königswartha / Rakecy <-> Königswartha / Rakecy
+Malterdingen <-> Malterdingen
+Hötensleben <-> Hötensleben
+Beindersheim <-> Beindersheim
+Bad Karlshafen, Stadt <-> Bad Karlshafen
+Bösingen <-> Bösingen
+Valley <-> Valley
+Gößnitz, Stadt <-> Gößnitz
+Malsch <-> Malsch
+Steinach <-> Steinach
+Wesselburen, Stadt <-> Wesselburen
+Baierbrunn <-> Baierbrunn
+Burgbernheim, St <-> Burgbernheim
+Brombachtal <-> Brombachtal
+Poppenricht <-> Poppenricht
+Jossgrund <-> Jossgrund
+Schwarzatal, Stadt <-> Schwarzatal
+Joachimsthal, Stadt <-> Joachimsthal
+Bad Klosterlausnitz <-> Bad Klosterlausnitz
+Krakow am See, Stadt <-> Krakow am See
+Rainau <-> Rainau
+Kreuth <-> Kreuth
+Bosau <-> Bosau
+Bissingen an der Teck <-> Bissingen an der Teck
+Röttenbach <-> Röttenbach
+Illerrieden <-> Illerrieden
+Mühlberg/Elbe, Stadt <-> Mühlberg/Elbe
+Bornhöved <-> Bornhöved
+Herdwangen-Schönach <-> Herdwangen-Schönach
+Gröningen, Stadt <-> Gröningen
+Wielenbach <-> Wielenbach
+Mildenau <-> Mildenau
+Halblech <-> Halblech
+Hohndorf <-> Hohndorf
+Wallerstein, M <-> Wallerstein
+Wurmannsquick, M <-> Wurmannsquick
+Urmitz <-> Urmitz
+Breuna <-> Breuna
+Erolzheim <-> Erolzheim
+Polling <-> Polling
+Spraitbach <-> Spraitbach
+Ostheim v.d.Rhön, St <-> Ostheim v.d.Rhön
+Mamming <-> Mamming
+Kötz <-> Kötz
+Ohlsbach <-> Ohlsbach
+Langenhorn <-> Langenhorn
+Gaienhofen <-> Gaienhofen
+Bischofsmais <-> Bischofsmais
+Volkertshausen <-> Volkertshausen
+Lemförde, Flecken <-> Lemförde
+Westhofen <-> Westhofen
+Ohlstadt <-> Ohlstadt
+Leutersdorf <-> Leutersdorf
+Lamstedt <-> Lamstedt
+Otterstadt <-> Otterstadt
+Buchbach, M <-> Buchbach
+Eschlkam, M <-> Eschlkam
+Villingendorf <-> Villingendorf
+Hilgertshausen-Tandern <-> Hilgertshausen-Tandern
+Kammeltal <-> Kammeltal
+Bempflingen <-> Bempflingen
+Hoppstädten-Weiersbach <-> Hoppstädten-Weiersbach
+Parkstetten <-> Parkstetten
+Wilhelmsfeld <-> Wilhelmsfeld
+Kranichfeld, Stadt <-> Kranichfeld
+Offenberg <-> Offenberg
+Wingst <-> Wingst
+Jevenstedt <-> Jevenstedt
+Jandelsbrunn <-> Jandelsbrunn
+Löcknitz <-> Löcknitz
+Sülfeld <-> Sülfeld
+Oberaula <-> Oberaula
+Auma-Weidatal, Stadt <-> Auma-Weidatal
+Holm <-> Holm
+Großenwiehe <-> Großenwiehe
+Himmelkron <-> Himmelkron
+Heldburg, Stadt <-> Heldburg
+Tanna, Stadt <-> Tanna
+Michelbach an der Bilz <-> Michelbach an der Bilz
+Randersacker, M <-> Randersacker
+Rossau <-> Rossau
+Steinwiesen, M <-> Steinwiesen
+Merenberg, Marktflecken <-> Merenberg
+Elsterheide / Halštrowska Hola <-> Elsterheide / Halštrowska Hola
+Kirchanschöring <-> Kirchanschöring
+Bad Steben, M <-> Bad Steben
+Deckenpfronn <-> Deckenpfronn
+Wellendingen <-> Wellendingen
+Brietlingen <-> Brietlingen
+Kirchdorf a.d.Amper <-> Kirchdorf a.d.Amper
+Staig <-> Staig
+Saalburg-Ebersdorf, Stadt <-> Saalburg-Ebersdorf
+Lorup <-> Lorup
+Melbeck <-> Melbeck
+Plate <-> Plate
+Oberriexingen, Stadt <-> Oberriexingen
+Marzling <-> Marzling
+Unterbreizbach <-> Unterbreizbach
+Colbitz <-> Colbitz
+Waldburg <-> Waldburg
+Aumühle <-> Aumühle
+Altenstadt <-> Altenstadt
+Oberschneiding <-> Oberschneiding
+Hohenlinden <-> Hohenlinden
+Lütjensee <-> Lütjensee
+Wurmberg <-> Wurmberg
+Neuburg a.d.Kammel, M <-> Neuburg a.d.Kammel
+Eiselfing <-> Eiselfing
+Haina (Kloster) <-> Haina (Kloster)
+Surberg <-> Surberg
+Aschau a.Inn <-> Aschau a.Inn
+Geyer, Stadt <-> Geyer
+Buckenhof <-> Buckenhof
+Walheim <-> Walheim
+Münchhausen <-> Münchhausen
+Rodenbach <-> Rodenbach
+Goldberg, Stadt <-> Goldberg
+Schernfeld <-> Schernfeld
+Gosen-Neu Zittau <-> Gosen-Neu Zittau
+Oberhausen <-> Oberhausen
+Ursberg <-> Ursberg
+Wolframs-Eschenbach, St <-> Wolframs-Eschenbach
+Burgbrohl <-> Burgbrohl
+Merching <-> Merching
+Scharnebeck <-> Scharnebeck
+Kirchenthumbach, M <-> Kirchenthumbach
+Obermichelbach <-> Obermichelbach
+Großrückerswalde <-> Großrückerswalde
+Glattbach <-> Glattbach
+Berkheim <-> Berkheim
+Gumtow <-> Gumtow
+Straßlach-Dingharting <-> Straßlach-Dingharting
+Hunderdorf <-> Hunderdorf
+Tüßling, M <-> Tüßling
+Sohren <-> Sohren
+Simmelsdorf <-> Simmelsdorf
+Kaisersesch, Stadt <-> Kaisersesch
+Künzing <-> Künzing
+Plattenburg <-> Plattenburg
+Hollern-Twielenfleth <-> Hollern-Twielenfleth
+Neuler <-> Neuler
+Bischoffen <-> Bischoffen
+Calvörde <-> Calvörde
+Legau, M <-> Legau
+Glottertal <-> Glottertal
+Flörsheim-Dalsheim <-> Flörsheim-Dalsheim
+Krauschwitz i.d. O.L. / Krušwica <-> Krauschwitz i.d. O.L. / Krušwica
+Kelbra (Kyffhäuser), Stadt <-> Kelbra (Kyffhäuser)
+Hohenau <-> Hohenau
+Ried <-> Ried
+Leinach <-> Leinach
+Schwegenheim <-> Schwegenheim
+Havelsee, Stadt <-> Havelsee
+Elchesheim-Illingen <-> Elchesheim-Illingen
+Alteglofsheim <-> Alteglofsheim
+Leubsdorf <-> Leubsdorf
+Rötz, St <-> Rötz
+Fridingen an der Donau, Stadt <-> Fridingen an der Donau
+Bergatreute <-> Bergatreute
+Mauerstetten <-> Mauerstetten
+Warin, Stadt <-> Warin
+Werbach <-> Werbach
+Schuttertal <-> Schuttertal
+Wangen <-> Wangen
+Urbar <-> Urbar
+Harthausen <-> Harthausen
+Seeshaupt <-> Seeshaupt
+Stephansposching <-> Stephansposching
+Welzow/Wjelcej, Stadt <-> Welzow/Wjelcej
+Eicklingen <-> Eicklingen
+Cleebronn <-> Cleebronn
+Steinmauern <-> Steinmauern
+Ziemetshausen, M <-> Ziemetshausen
+Irschenberg <-> Irschenberg
+Vogtareuth <-> Vogtareuth
+Eberstadt <-> Eberstadt
+Schalkau, Stadt <-> Schalkau
+Höhn <-> Höhn
+Rickling <-> Rickling
+Remptendorf <-> Remptendorf
+Sonnewalde, Stadt <-> Sonnewalde
+Bodnegg <-> Bodnegg
+Körle <-> Körle
+Ingoldingen <-> Ingoldingen
+Münchsmünster <-> Münchsmünster
+Weidhausen b.Coburg <-> Weidhausen b.Coburg
+Vörstetten <-> Vörstetten
+Hohnstein, Stadt <-> Hohnstein
+Konradsreuth <-> Konradsreuth
+Breitenworbis <-> Breitenworbis
+Hammah <-> Hammah
+Oberschöna <-> Oberschöna
+Lauscha, Stadt <-> Lauscha
+Diera-Zehren <-> Diera-Zehren
+Hillesheim <-> Hillesheim
+Ascheberg (Holstein) <-> Ascheberg (Holstein)
+Epfendorf <-> Epfendorf
+Dorf Mecklenburg <-> Dorf Mecklenburg
+Buchenbach <-> Buchenbach
+Wiesenbach <-> Wiesenbach
+Hirrlingen <-> Hirrlingen
+Lehrberg, M <-> Lehrberg
+Kirchenlamitz, St <-> Kirchenlamitz
+Ludwigsstadt, St <-> Ludwigsstadt
+Erkheim, M <-> Erkheim
+Grünkraut <-> Grünkraut
+Plößberg, M <-> Plößberg
+Schwangau <-> Schwangau
+Tuningen <-> Tuningen
+Hülben <-> Hülben
+Babensham <-> Babensham
+Neuweiler <-> Neuweiler
+Pfatter <-> Pfatter
+Lychen, Stadt <-> Lychen
+Brome, Flecken <-> Brome
+Hochdorf-Assenheim <-> Hochdorf-Assenheim
+Zell unter Aichelberg <-> Zell unter Aichelberg
+Bad Teinach-Zavelstein, Stadt <-> Bad Teinach-Zavelstein
+Weilheim <-> Weilheim
+Morschen <-> Morschen
+Bernstadt a. d. Eigen, Stadt <-> Bernstadt a. d. Eigen
+St. Egidien <-> St. Egidien
+Egeln, Stadt <-> Egeln
+Seukendorf <-> Seukendorf
+Oberau <-> Oberau
+Warmsen <-> Warmsen
+Gaißach <-> Gaißach
+Königsdorf <-> Königsdorf
+Hodenhagen <-> Hodenhagen
+Schönwald <-> Schönwald
+Priestewitz <-> Priestewitz
+Aurach <-> Aurach
+Radibor / Radwor <-> Radibor / Radwor
+Klein Offenseth-Sparrieshoop <-> Klein Offenseth-Sparrieshoop
+Erlau <-> Erlau
+Dahlenburg, Flecken <-> Dahlenburg
+Birkenheide <-> Birkenheide
+Mauern <-> Mauern
+Thermalbad Wiesenbad <-> Thermalbad Wiesenbad
+Vordorf <-> Vordorf
+Neusalza-Spremberg, Stadt <-> Neusalza-Spremberg
+Bürgel, Stadt <-> Bürgel
+Gimbsheim <-> Gimbsheim
+Hauneck <-> Hauneck
+Jetzendorf <-> Jetzendorf
+Grünhainichen <-> Grünhainichen
+Fluorn-Winzeln <-> Fluorn-Winzeln
+Maroldsweisach, M <-> Maroldsweisach
+Döbern/Derbno, Stadt <-> Döbern/Derbno
+Rinchnach <-> Rinchnach
+Wörth a.d.Isar <-> Wörth a.d.Isar
+Uehlfeld, M <-> Uehlfeld
+Unterpleichfeld <-> Unterpleichfeld
+Stadtsteinach, St <-> Stadtsteinach
+Selmsdorf <-> Selmsdorf
+Hettenleidelheim <-> Hettenleidelheim
+Pommersfelden <-> Pommersfelden
+Margetshöchheim <-> Margetshöchheim
+Lebus, Stadt <-> Lebus
+Gottenheim <-> Gottenheim
+Riede <-> Riede
+Bühlertann <-> Bühlertann
+Heßheim <-> Heßheim
+Uffing a.Staffelsee <-> Uffing a.Staffelsee
+Bärnau, St <-> Bärnau
+Westerheim <-> Westerheim
+Pollenfeld <-> Pollenfeld
+Kirtorf, Stadt <-> Kirtorf
+Höpfingen <-> Höpfingen
+Frickingen <-> Frickingen
+Großenaspe <-> Großenaspe
+Ottenhöfen im Schwarzwald <-> Ottenhöfen im Schwarzwald
+Stützengrün <-> Stützengrün
+Aidenbach, M <-> Aidenbach
+Wehringen <-> Wehringen
+Tussenhausen, M <-> Tussenhausen
+Neuental <-> Neuental
+Kammerstein <-> Kammerstein
+Sand a.Main <-> Sand a.Main
+Weißenberg / Wóspork, Stadt <-> Weißenberg / Wóspork
+Gützkow, Stadt <-> Gützkow
+Jesewitz <-> Jesewitz
+Glauburg <-> Glauburg
+Marktleugast, M <-> Marktleugast
+Memmingerberg <-> Memmingerberg
+Neuenstein <-> Neuenstein
+Aurachtal <-> Aurachtal
+Klütz, Stadt <-> Klütz
+Pampow <-> Pampow
+Eußenheim <-> Eußenheim
+Seeg <-> Seeg
+Steinbach a.Wald <-> Steinbach a.Wald
+Untermünkheim <-> Untermünkheim
+Ruderting <-> Ruderting
+Schmidgaden <-> Schmidgaden
+Marquartstein <-> Marquartstein
+Hohenroda <-> Hohenroda
+Eitting <-> Eitting
+Prichsenstadt, St <-> Prichsenstadt
+Oberreichenbach <-> Oberreichenbach
+Dirmstein <-> Dirmstein
+Schafflund <-> Schafflund
+Oldendorf <-> Oldendorf
+Langensendelbach <-> Langensendelbach
+Weihenzell <-> Weihenzell
+Aresing <-> Aresing
+Hepberg <-> Hepberg
+Buxheim <-> Buxheim
+Erligheim <-> Erligheim
+Bayerisch Gmain <-> Bayerisch Gmain
+Adelschlag <-> Adelschlag
+Stauchitz <-> Stauchitz
+Eibelstadt, St <-> Eibelstadt
+Dietersburg <-> Dietersburg
+Niederer Fläming <-> Niederer Fläming
+Hanerau-Hademarschen <-> Hanerau-Hademarschen
+Mommenheim <-> Mommenheim
+Aystetten <-> Aystetten
+Lohmen <-> Lohmen
+Herschbach <-> Herschbach
+Aitrach <-> Aitrach
+Königheim <-> Königheim
+Ravenstein, Stadt <-> Ravenstein
+Kobern-Gondorf <-> Kobern-Gondorf
+Schorndorf <-> Schorndorf
+Merkendorf, St <-> Merkendorf
+Hitzhofen <-> Hitzhofen
+Waischenfeld, St <-> Waischenfeld
+Braubach, Stadt <-> Braubach
+Denkingen <-> Denkingen
+Wesenberg <-> Wesenberg
+Fintel <-> Fintel
+Gailingen am Hochrhein <-> Gailingen am Hochrhein
+Bassenheim <-> Bassenheim
+Stimpfach <-> Stimpfach
+Kieselbronn <-> Kieselbronn
+Hahnstätten <-> Hahnstätten
+Münster-Sarmsheim <-> Münster-Sarmsheim
+Burgberg i.Allgäu <-> Burgberg i.Allgäu
+Kalchreuth <-> Kalchreuth
+Neukirchen vorm Wald <-> Neukirchen vorm Wald
+Eitensheim <-> Eitensheim
+Teisnach, M <-> Teisnach
+Bargfeld-Stegen <-> Bargfeld-Stegen
+Nebra (Unstrut), Stadt <-> Nebra (Unstrut)
+Föhren <-> Föhren
+Inzigkofen <-> Inzigkofen
+Berglern <-> Berglern
+Rhens, Stadt <-> Rhens
+Wald <-> Wald
+Freiensteinau <-> Freiensteinau
+Frasdorf <-> Frasdorf
+Sankt Oswald-Riedlhütte <-> Sankt Oswald-Riedlhütte
+Schmölln-Putzkau <-> Schmölln-Putzkau
+Winden im Elztal <-> Winden im Elztal
+Friedland <-> Friedland
+Kleines Wiesental <-> Kleines Wiesental
+Drebber <-> Drebber
+Siershahn <-> Siershahn
+Werther <-> Werther
+Bippen <-> Bippen
+Waldenburg, Stadt <-> Waldenburg
+Rengsdorf <-> Rengsdorf
+Boitzenburger Land <-> Boitzenburger Land
+Binzen <-> Binzen
+Beetzendorf <-> Beetzendorf
+Vollersode <-> Vollersode
+Bodolz <-> Bodolz
+Selters (Westerwald), Stadt <-> Selters (Westerwald)
+Schwarzach <-> Schwarzach
+Fischen i.Allgäu <-> Fischen i.Allgäu
+Mönsheim <-> Mönsheim
+Briesen (Mark) <-> Briesen (Mark)
+Hargesheim <-> Hargesheim
+Steinbergkirche <-> Steinbergkirche
+Bischweier <-> Bischweier
+Wattenbek <-> Wattenbek
+Horgau <-> Horgau
+Fränkisch-Crumbach <-> Fränkisch-Crumbach
+Rain <-> Rain
+Heist <-> Heist
+Adenau, Stadt <-> Adenau
+Simonswald <-> Simonswald
+Neuenmarkt <-> Neuenmarkt
+Klosterlechfeld <-> Klosterlechfeld
+Großharthau <-> Großharthau
+Bodenfelde, Flecken <-> Bodenfelde
+Hattenhofen <-> Hattenhofen
+Weißenstadt, St <-> Weißenstadt
+Göda / Hodźij <-> Göda / Hodźij
+Rietheim-Weilheim <-> Rietheim-Weilheim
+Hatzfeld (Eder), Stadt <-> Hatzfeld (Eder)
+Meißner <-> Meißner
+Claußnitz <-> Claußnitz
+Sigmarszell <-> Sigmarszell
+Oberwesel, Stadt <-> Oberwesel
+Niederwinkling <-> Niederwinkling
+Schönewalde, Stadt <-> Schönewalde
+Börger <-> Börger
+Schwarzach <-> Schwarzach
+Lambrechtshagen <-> Lambrechtshagen
+Liebenau, Flecken <-> Liebenau
+Baddeckenstedt <-> Baddeckenstedt
+Reute <-> Reute
+Flintsbach a.Inn <-> Flintsbach a.Inn
+Admannshagen-Bargeshagen <-> Admannshagen-Bargeshagen
+Börde-Hakel <-> Börde-Hakel
+Undenheim <-> Undenheim
+Schopfloch <-> Schopfloch
+Heroldstatt <-> Heroldstatt
+Lindow (Mark), Stadt <-> Lindow (Mark)
+Wankendorf <-> Wankendorf
+Schwedeneck <-> Schwedeneck
+Schönbrunn <-> Schönbrunn
+Dollnstein, M <-> Dollnstein
+Schrecksbach <-> Schrecksbach
+Sollstedt <-> Sollstedt
+Soyen <-> Soyen
+Euerbach <-> Euerbach
+Steingaden <-> Steingaden
+Dömitz, Stadt <-> Dömitz
+Neumark <-> Neumark
+Wusterwitz <-> Wusterwitz
+Hoogstede <-> Hoogstede
+Wischhafen <-> Wischhafen
+Roßbach <-> Roßbach
+Nortrup <-> Nortrup
+Waldbrunn <-> Waldbrunn
+Sankt Goar, Stadt <-> Sankt Goar
+Fichtenberg <-> Fichtenberg
+Kenn <-> Kenn
+Wittendörp <-> Wittendörp
+Prutting <-> Prutting
+Huglfing <-> Huglfing
+Rövershagen <-> Rövershagen
+Bad Kohlgrub <-> Bad Kohlgrub
+Hatzenbühl <-> Hatzenbühl
+Langenpreising <-> Langenpreising
+Zingst, Ostseeheilbad <-> Zingst
+Rödersheim-Gronau <-> Rödersheim-Gronau
+Ettringen <-> Ettringen
+Perlesreut, M <-> Perlesreut
+Wurzbach, Stadt <-> Wurzbach
+Offenau <-> Offenau
+Schöneck/Vogtl., Stadt <-> Schöneck/Vogtl.
+Denklingen <-> Denklingen
+Liebschützberg <-> Liebschützberg
+Gilserberg <-> Gilserberg
+Blender <-> Blender
+Betzigau <-> Betzigau
+Münchenbernsdorf, Stadt <-> Münchenbernsdorf
+Börßum <-> Börßum
+Griesstätt <-> Griesstätt
+Heiligenberg <-> Heiligenberg
+Asendorf <-> Asendorf
+Kirchweidach <-> Kirchweidach
+Trippstadt <-> Trippstadt
+Eggstätt <-> Eggstätt
+Nüsttal <-> Nüsttal
+Zemmer <-> Zemmer
+Pilsach <-> Pilsach
+Elfershausen, M <-> Elfershausen
+Ringgau <-> Ringgau
+Meisenheim, Stadt <-> Meisenheim
+Mitwitz, M <-> Mitwitz
+Wildflecken, M <-> Wildflecken
+Muldenhammer <-> Muldenhammer
+Roxheim <-> Roxheim
+Pastetten <-> Pastetten
+Neetze <-> Neetze
+Ebringen <-> Ebringen
+Karlshagen, Ostseebad <-> Karlshagen
+Lengerich <-> Lengerich
+Oberried <-> Oberried
+Sulzemoos <-> Sulzemoos
+Elmenhorst <-> Elmenhorst
+Aichstetten <-> Aichstetten
+Hemmingstedt <-> Hemmingstedt
+Auggen <-> Auggen
+Simmozheim <-> Simmozheim
+Auengrund <-> Auengrund
+Marktleuthen, St <-> Marktleuthen
+Köfering <-> Köfering
+Mitterfels, M <-> Mitterfels
+Groß Twülpstedt <-> Groß Twülpstedt
+Schenefeld <-> Schenefeld
+Reinsberg <-> Reinsberg
+Herbsleben <-> Herbsleben
+Obrigheim (Pfalz) <-> Obrigheim (Pfalz)
+Detern, Flecken <-> Detern
+Heldenstein <-> Heldenstein
+Tonna <-> Tonna
+Zschepplin <-> Zschepplin
+Embsen <-> Embsen
+Alveslohe <-> Alveslohe
+Sternenfels <-> Sternenfels
+Kallmünz, M <-> Kallmünz
+Unterthingau, M <-> Unterthingau
+Jarmen, Stadt <-> Jarmen
+Kastl <-> Kastl
+Mantel, M <-> Mantel
+Martfeld <-> Martfeld
+Mönchweiler <-> Mönchweiler
+Käbschütztal <-> Käbschütztal
+Haunetal <-> Haunetal
+Nordhastedt <-> Nordhastedt
+Wimsheim <-> Wimsheim
+Eschelbronn <-> Eschelbronn
+Schillingsfürst, St <-> Schillingsfürst
+Heidgraben <-> Heidgraben
+Salching <-> Salching
+Altenglan <-> Altenglan
+Frankenau, Nationalparkstadt <-> Frankenau
+Wellheim, M <-> Wellheim
+Rieseby <-> Rieseby
+Haste <-> Haste
+Schuby <-> Schuby
+Garding, Kirchspiel <-> Garding
+Marktl, M <-> Marktl
+Hirzenhain <-> Hirzenhain
+Lehrensteinsfeld <-> Lehrensteinsfeld
+Prackenbach <-> Prackenbach
+Beckdorf <-> Beckdorf
+Rauhenebrach <-> Rauhenebrach
+Lauterbach <-> Lauterbach
+Ulrichstein, Stadt <-> Ulrichstein
+Weißenbrunn <-> Weißenbrunn
+Neuching <-> Neuching
+Samerberg <-> Samerberg
+Thaleischweiler-Fröschen <-> Thaleischweiler-Fröschen
+Bretzenheim <-> Bretzenheim
+Queidersbach <-> Queidersbach
+Haundorf <-> Haundorf
+Landesbergen <-> Landesbergen
+Schwalmtal <-> Schwalmtal
+Durlangen <-> Durlangen
+Großolbersdorf <-> Großolbersdorf
+Hochstadt (Pfalz) <-> Hochstadt (Pfalz)
+Vellahn <-> Vellahn
+Roggentin <-> Roggentin
+Halfing <-> Halfing
+Eslarn, M <-> Eslarn
+Haag a.d.Amper <-> Haag a.d.Amper
+Münchweiler an der Rodalb <-> Münchweiler an der Rodalb
+Wald <-> Wald
+Egestorf <-> Egestorf
+Iffeldorf <-> Iffeldorf
+Dettingen an der Iller <-> Dettingen an der Iller
+Poppenhausen (Wasserkuppe) <-> Poppenhausen (Wasserkuppe)
+Gnoien, Warbelstadt <-> Gnoien
+Hördt <-> Hördt
+Roggenburg <-> Roggenburg
+Titting, M <-> Titting
+Lindwedel <-> Lindwedel
+Geldersheim <-> Geldersheim
+Weißensberg <-> Weißensberg
+Ockenheim <-> Ockenheim
+Bingen <-> Bingen
+Sulzburg, Stadt <-> Sulzburg
+Lechbruck am See <-> Lechbruck am See
+Weyhausen <-> Weyhausen
+Probstzella <-> Probstzella
+Kollnburg <-> Kollnburg
+Jübek <-> Jübek
+Rositz <-> Rositz
+Steinburg <-> Steinburg
+Waigolshausen <-> Waigolshausen
+Mühlingen <-> Mühlingen
+Attenkirchen <-> Attenkirchen
+Sontheim <-> Sontheim
+St. Peter <-> St. Peter
+Grafling <-> Grafling
+Lengdorf <-> Lengdorf
+Adelheidsdorf <-> Adelheidsdorf
+Großpostwitz/O.L. / Budestecy <-> Großpostwitz/O.L. / Budestecy
+Schönwölkau <-> Schönwölkau
+Fischbachtal <-> Fischbachtal
+Niederzissen <-> Niederzissen
+Sankt Sebastian <-> Sankt Sebastian
+Laucha an der Unstrut, Stadt <-> Laucha an der Unstrut
+Theres <-> Theres
+Neuhaus a.d.Pegnitz, M <-> Neuhaus a.d.Pegnitz
+Hohn <-> Hohn
+Themar, Stadt <-> Themar
+Denkte <-> Denkte
+Inchenhofen, M <-> Inchenhofen
+Ebeleben, Stadt <-> Ebeleben
+Veilsdorf <-> Veilsdorf
+Straufhain <-> Straufhain
+Neukirch <-> Neukirch
+Erxleben <-> Erxleben
+Flechtingen <-> Flechtingen
+Möttingen <-> Möttingen
+Elterlein, Stadt <-> Elterlein
+Wanderup <-> Wanderup
+Beetzsee <-> Beetzsee
+Gemünden (Felda) <-> Gemünden (Felda)
+Vilgertshofen <-> Vilgertshofen
+Wertach, M <-> Wertach
+Großerlach <-> Großerlach
+Kirchham <-> Kirchham
+Burghaslach, M <-> Burghaslach
+Reischach <-> Reischach
+Steinberg <-> Steinberg
+Frauenstein, Stadt <-> Frauenstein
+Hohenkammer <-> Hohenkammer
+Obertaufkirchen <-> Obertaufkirchen
+Feilitzsch <-> Feilitzsch
+Berumbur <-> Berumbur
+Alsheim <-> Alsheim
+Vilsheim <-> Vilsheim
+Kutzenhausen <-> Kutzenhausen
+Kefenrod <-> Kefenrod
+Partenstein <-> Partenstein
+Herleshausen <-> Herleshausen
+Elstra / Halštrow, Stadt <-> Elstra / Halštrow
+Fahrdorf <-> Fahrdorf
+Söchtenau <-> Söchtenau
+Fahrenbach <-> Fahrenbach
+Grafenberg <-> Grafenberg
+Lägerdorf <-> Lägerdorf
+Frauenau <-> Frauenau
+Banzkow <-> Banzkow
+Friedewald <-> Friedewald
+Merdingen <-> Merdingen
+Demitz-Thumitz <-> Demitz-Thumitz
+Thüngersheim <-> Thüngersheim
+Schwarme <-> Schwarme
+Pfaffenhausen, M <-> Pfaffenhausen
+Rüdesheim <-> Rüdesheim
+Oberelsbach, M <-> Oberelsbach
+Dürmentingen <-> Dürmentingen
+Walsdorf <-> Walsdorf
+Rieden <-> Rieden
+Wiesent <-> Wiesent
+Newel <-> Newel
+Rehling <-> Rehling
+Tawern <-> Tawern
+Ittlingen <-> Ittlingen
+Herrischried <-> Herrischried
+Geiselwind, M <-> Geiselwind
+Westerholt <-> Westerholt
+Flonheim <-> Flonheim
+Geroldsgrün <-> Geroldsgrün
+Niederviehbach <-> Niederviehbach
+Seitingen-Oberflacht <-> Seitingen-Oberflacht
+Harth-Pöllnitz <-> Harth-Pöllnitz
+Osdorf <-> Osdorf
+Grub a.Forst <-> Grub a.Forst
+Kist <-> Kist
+Bawinkel <-> Bawinkel
+Lichtenberg/Erzgeb. <-> Lichtenberg/Erzgeb.
+Rodewald <-> Rodewald
+Nordendorf <-> Nordendorf
+Iggingen <-> Iggingen
+Berngau <-> Berngau
+Oberndorf a.Lech <-> Oberndorf a.Lech
+Neuhardenberg <-> Neuhardenberg
+Gachenbach <-> Gachenbach
+Rhönblick <-> Rhönblick
+Prittriching <-> Prittriching
+Marxheim <-> Marxheim
+Hattstedt <-> Hattstedt
+Lam, M <-> Lam
+Ferdinandshof <-> Ferdinandshof
+Großweitzschen <-> Großweitzschen
+Burkau / Porchow <-> Burkau / Porchow
+Dieblich <-> Dieblich
+Wohltorf <-> Wohltorf
+Schönwald im Schwarzwald <-> Schönwald im Schwarzwald
+Höchenschwand <-> Höchenschwand
+Leimersheim <-> Leimersheim
+Schopfloch <-> Schopfloch
+Adelsried <-> Adelsried
+Lentföhrden <-> Lentföhrden
+Wiesenttal, M <-> Wiesenttal
+Ringsheim <-> Ringsheim
+Bad Peterstal-Griesbach <-> Bad Peterstal-Griesbach
+Steinigtwolmsdorf <-> Steinigtwolmsdorf
+Brüel, Stadt <-> Brüel
+Wolfersdorf <-> Wolfersdorf
+Ehrenberg (Rhön) <-> Ehrenberg (Rhön)
+Hanhofen <-> Hanhofen
+Sauldorf <-> Sauldorf
+Faulbach <-> Faulbach
+Thurmansbang <-> Thurmansbang
+Schluchsee <-> Schluchsee
+Helmstadt, M <-> Helmstadt
+Groß Köris <-> Groß Köris
+Heiligkreuzsteinach <-> Heiligkreuzsteinach
+Großheirath <-> Großheirath
+Pfaffenhofen <-> Pfaffenhofen
+Göggingen <-> Göggingen
+Gottfrieding <-> Gottfrieding
+Schkölen, Stadt <-> Schkölen
+Jengen <-> Jengen
+Wustrow (Wendland), Stadt <-> Wustrow (Wendland)
+Wildpoldsried <-> Wildpoldsried
+Friesack, Stadt <-> Friesack
+Tribsees, Stadt <-> Tribsees
+Putlitz, Stadt <-> Putlitz
+Bad Bibra, Stadt <-> Bad Bibra
+Dörzbach <-> Dörzbach
+Rosenberg <-> Rosenberg
+Friedrichstadt, Stadt <-> Friedrichstadt
+Lupburg, M <-> Lupburg
+Romrod, Stadt <-> Romrod
+Brohl-Lützing <-> Brohl-Lützing
+Neuburg am Rhein <-> Neuburg am Rhein
+Fußgönheim <-> Fußgönheim
+Pfaffenweiler <-> Pfaffenweiler
+Wittislingen, M <-> Wittislingen
+Freihung, M <-> Freihung
+Erpel <-> Erpel
+Nittel <-> Nittel
+Sulzbach-Laufen <-> Sulzbach-Laufen
+Alsleben (Saale), Stadt <-> Alsleben (Saale)
+Glatten <-> Glatten
+Halbe <-> Halbe
+Hausen b.Würzburg <-> Hausen b.Würzburg
+Sasbachwalden <-> Sasbachwalden
+Haiming <-> Haiming
+Lichtenwald <-> Lichtenwald
+Berghaupten <-> Berghaupten
+Sauensiek <-> Sauensiek
+Inzlingen <-> Inzlingen
+Nußdorf a.Inn <-> Nußdorf a.Inn
+Plessa <-> Plessa
+Heede <-> Heede
+Bad Wilsnack, Stadt <-> Bad Wilsnack
+Schwörstadt <-> Schwörstadt
+Neukirchen b.Sulzbach-Rosenberg <-> Neukirchen b.Sulzbach-Rosenberg
+Dernbach (Westerwald) <-> Dernbach (Westerwald)
+Kinding, M <-> Kinding
+Pähl <-> Pähl
+Gaukönigshofen <-> Gaukönigshofen
+Steinhagen <-> Steinhagen
+Niederwürschnitz <-> Niederwürschnitz
+Siegbach <-> Siegbach
+Puderbach <-> Puderbach
+Oberwolfach <-> Oberwolfach
+Schleife / Slepo <-> Schleife / Slepo
+Lampertswalde <-> Lampertswalde
+Dürrwangen, M <-> Dürrwangen
+Schönwalde am Bungsberg <-> Schönwalde am Bungsberg
+Danndorf <-> Danndorf
+Insel Poel, Ostseebad <-> Insel Poel
+Gägelow <-> Gägelow
+Gerhardshofen <-> Gerhardshofen
+Schleusegrund <-> Schleusegrund
+Welschbillig <-> Welschbillig
+Königshain-Wiederau <-> Königshain-Wiederau
+Kottenheim <-> Kottenheim
+Braunsbach <-> Braunsbach
+Chamerau <-> Chamerau
+Hetzerath <-> Hetzerath
+Eimeldingen <-> Eimeldingen
+Ostelsheim <-> Ostelsheim
+Wasbek <-> Wasbek
+Gehrde <-> Gehrde
+Lauterstein, Stadt <-> Lauterstein
+Sellin, Ostseebad <-> Sellin
+Marienhafe, Flecken <-> Marienhafe
+Wincheringen <-> Wincheringen
+Kirchheim i.Schw., M <-> Kirchheim i.Schw.
+Papendorf <-> Papendorf
+Altfraunhofen <-> Altfraunhofen
+Nahe <-> Nahe
+Hessigheim <-> Hessigheim
+Eime, Flecken <-> Eime
+Eitelborn <-> Eitelborn
+Scheer, Stadt <-> Scheer
+Rötgesbüttel <-> Rötgesbüttel
+Igling <-> Igling
+Küstriner Vorland <-> Küstriner Vorland
+Röderaue <-> Röderaue
+Unterkirnach <-> Unterkirnach
+Kemmern <-> Kemmern
+Heidenheim, M <-> Heidenheim
